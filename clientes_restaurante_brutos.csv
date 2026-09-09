@@ -1,0 +1,2226 @@
+cliente_id,idade,genero,tempo_relacionamento_meses,categoria_fidelidade,ticket_medio_mensal,forma_pagamento,reclamacoes_registradas,pedidos_no_show,nota_satisfacao,data_cadastro,cliente_inativo
+1037,73.0,F,26,Ouro,"R$ 173,50",Pix,2,0,3.0,02/02/2024,Sim
+373,43.0,feminino,52,PRATA,"R$ 83,70",  Pix ,0,4,1.0,21/03/2024,No
+1410,35.0,Feminino,48,BRONZE,53.1,  Boleto ,0,0,5.0,21/12/2022,não
+1519,48.0,masc,49,OURO,"R$ 156,70",Cartão de Crédito,2,0,5.0,2022-07-15,Não
+280,23.0,masc,10,OURO,152.82,Cartão de Crédito,2,3,4.0,26/01/2023,não
+2188,33.0,Feminino,5,Bronze,50.3,Cartão de Crédito,2,0,4.0,13/12/2023,N
+1352,42.0,masculino,38,prata,77.26,Pix,0,0,5.0,2024-06-05,No
+817,,masculino,38,ouro,"R$ 166,36",Boleto,3,2,,2022-11-27,No
+279,22.0,,6,Bronze,,Pix,0,0,3.0,2023-01-27,Não
+1245,,masculino,66,OURO,"R$ 162,97",Cartão de Crédito,0,2,3.0,26/12/2021,sim
+1507,74.0,masculino,12,Bronze,53.94,Pix,1,0,2.0,02/01/2022,Yes
+1443,,feminino,67,Ouro,169.08,Boleto,0,2,1.0,28/12/2023,Sim
+218,23.0,Masculino,19,PRATA,"R$ 90,73",Cartão de Crédito,0,0,2.0,19/02/2022,0
+740,,masc,12,BRONZE,"R$ 50,70",Pix,2,2,,30/05/2024,No
+463,64.0,,11,bronze,40.63,Pix,0,3,2.0,2024-03-14,Sim
+2141,61.0,F,4,BRONZE,"R$ 53,74",Pix,1,0,5.0,2023-01-07,0
+8,61.0,F,60,bronze,,  Pix ,0,0,5.0,25/01/2024,Yes
+2100,33.0,masc,7,PRATA,99.34,,0,1,3.0,10/07/2024,Não
+1280,71.0,M,56,Prata,"R$ 93,24",Pix,1,7,3.0,2022-11-20,Não
+1159,41.0,Masculino,14,PRATA,94.56,Cartão de Crédito,0,4,1.0,2024-04-16,Sim
+636,60.0,Feminino,39,prata,103.85,Pix,0,1,3.0,09/11/2022,No
+1527,37.0,masc,8,ouro,158.37,  Boleto ,2,3,4.0,03/09/2022,No
+1879,63.0,M,18,BRONZE,46.95,Boleto,1,0,2.0,10/05/2022,No
+2181,61.0,fem,67,PRATA,73.16,Pix,0,1,4.0,11/09/2023,0
+61,75.0,F,2,Prata,87.1,Cartão de Crédito,4,5,3.0,2023-08-08,sim
+588,24.0,M,5,Prata,93.53,  Boleto ,1,0,4.0,25/07/2022,N
+2161,68.0,M,1,bronze,,Boleto,1,1,4.0,2022-10-08,sim
+1011,34.0,masculino,69,BRONZE,"R$ 42,51",Pix,1,0,3.0,2024-03-29,N
+35,73.0,masc,42,PRATA,80.46,  Pix ,2,0,3.0,2021-07-12,não
+514,68.0,F,37,Bronze,"R$ 45,54",,1,0,4.0,25/02/2022,No
+1794,35.0,Feminino,21,BRONZE,46.75,Pix,0,2,,2024-08-13,não
+1634,72.0,Masculino,47,prata,94.23,  Cartão de Crédito ,0,0,3.0,2024-09-12,No
+752,27.0,masc,37,prata,,  Cartão de Crédito ,0,4,,06/12/2022,Não
+770,41.0,M,46,BRONZE,"R$ 28,05",Cartão de Crédito,1,0,4.0,2024-09-14,Não
+489,65.0,Feminino,46,Bronze,32.55,  Pix ,2,2,4.0,2024-07-09,0
+1471,73.0,F,11,Bronze,58.22,Pix,1,3,3.0,10/10/2022,não
+604,26.0,masculino,5,prata,73.34,Boleto,0,1,4.0,26/01/2023,Não
+531,55.0,,69,BRONZE,43.04,Boleto,1,1,3.0,2021-07-19,0
+2152,37.0,Masculino,41,bronze,,Boleto,2,0,4.0,21/10/2023,N
+748,37.0,F,36,PRATA,72.98,Cartão de Crédito,3,0,4.0,24/09/2023,Não
+1954,46.0,masc,70,PRATA,87.86,Cartão de Crédito,2,2,2.0,2021-03-21,S
+508,33.0,masculino,22,bronze,41.3,Pix,0,0,5.0,03/07/2024,Não
+1724,63.0,masculino,30,ouro,"R$ 159,23",Pix,1,0,4.0,29/12/2023,N
+2106,35.0,masc,55,bronze,45.19,Cartão de Crédito,0,8,4.0,20/07/2021,No
+1295,77.0,F,66,BRONZE,46.36,Boleto,1,5,3.0,2022-07-04,sim
+1969,70.0,masc,36,Prata,80.82,  Pix ,3,6,4.0,30/09/2023,0
+326,32.0,Feminino,23,BRONZE,45.54,  Cartão de Crédito ,1,0,4.0,2021-08-10,N
+952,36.0,masculino,16,PRATA,,Cartão de Crédito,1,3,,2023-05-28,não
+876,49.0,fem,54,ouro,"R$ 156,54",Boleto,1,1,3.0,24/03/2022,N
+52,30.0,F,40,PRATA,"R$ 93,26",Pix,0,1,,30/03/2024,No
+354,44.0,masc,14,Ouro,152.44,Cartão de Crédito,1,2,4.0,2023-02-08,No
+242,54.0,Masculino,1,Bronze,36.15,Pix,1,1,3.0,2024-01-13,Sim
+376,23.0,feminino,24,PRATA,94.47,  Pix ,4,0,4.0,2023-05-24,S
+1420,47.0,F,7,ouro,159.94,Cartão de Crédito,2,3,4.0,2022-03-26,Não
+55,48.0,M,21,Ouro,"R$ 150,82",Pix,2,5,4.0,2021-12-27,0
+1900,39.0,M,24,OURO,166.79,Pix,3,0,3.0,08/02/2024,Sim
+877,51.0,F,8,bronze,37.35,Cartão de Crédito,0,1,4.0,25/07/2022,0
+442,36.0,Feminino,36,PRATA,,  Pix ,1,0,4.0,18/01/2023,Não
+1556,28.0,fem,23,bronze,50.19,Cartão de Crédito,0,0,3.0,04/06/2021,não
+2200,28.0,masc,48,PRATA,89.67,Cartão de Crédito,1,7,4.0,2022-10-03,Não
+524,69.0,feminino,27,bronze,41.23,Cartão de Crédito,0,4,5.0,2021-04-08,não
+716,67.0,F,32,bronze,33.71,Cartão de Crédito,3,2,2.0,10/08/2023,sim
+205,46.0,masculino,28,ouro,168.68,Pix,0,4,3.0,2024-07-29,Sim
+2072,58.0,feminino,38,Prata,82.46,Pix,1,1,2.0,2023-08-31,Yes
+591,67.0,feminino,67,OURO,172.74,Cartão de Crédito,1,0,4.0,06/06/2024,Não
+1154,74.0,Feminino,52,Bronze,43.4,  Boleto ,1,0,2.0,2022-01-01,1
+596,67.0,M,66,prata,"R$ 81,18",Boleto,0,1,4.0,2022-01-06,Não
+427,,fem,70,Prata,87.15,Pix,0,0,2.0,15/07/2021,Sim
+47,45.0,masc,41,BRONZE,"R$ 41,12",Boleto,0,3,4.0,04/05/2024,1
+658,57.0,Feminino,56,Bronze,"R$ 53,98",Cartão de Crédito,0,3,3.0,07/10/2024,1
+1321,25.0,masc,59,prata,89.18,Cartão de Crédito,1,3,,2022-05-11,não
+807,51.0,masculino,43,Prata,88.92,Boleto,1,0,4.0,13/01/2024,não
+159,49.0,Feminino,45,ouro,"R$ 179,75",Cartão de Crédito,4,0,3.0,2022-01-05,1
+986,58.0,Feminino,68,Bronze,"R$ 37,04",Boleto,1,0,,07/05/2022,0
+1045,61.0,Feminino,52,bronze,"R$ 46,60",Pix,0,0,5.0,31/10/2022,No
+1206,74.0,fem,25,ouro,151.27,Cartão de Crédito,1,0,4.0,2022-07-29,0
+111,35.0,Masculino,20,OURO,,Cartão de Crédito,2,3,3.0,13/04/2022,Não
+1409,18.0,Masculino,44,Bronze,46.81,  Pix ,2,0,3.0,2024-10-10,Yes
+1693,58.0,M,31,prata,86.03,Cartão de Crédito,4,0,4.0,26/07/2024,sim
+1229,27.0,F,56,ouro,148.72,Cartão de Crédito,2,0,3.0,08/08/2021,No
+180,49.0,F,47,prata,92.06,Pix,0,5,5.0,22/05/2023,Não
+1989,31.0,masculino,3,BRONZE,34.75,Cartão de Crédito,1,0,4.0,2022-09-07,0
+3,58.0,Masculino,3,Ouro,158.49,Pix,3,0,2.0,2024-03-28,S
+1596,28.0,masc,20,Prata,105.99,Cartão de Crédito,1,2,3.0,06/04/2021,0
+1261,34.0,masculino,30,Prata,93.95,Cartão de Crédito,1,1,3.0,07/04/2022,não
+1832,77.0,M,38,bronze,55.29,Cartão de Crédito,2,5,4.0,23/02/2024,S
+505,34.0,F,5,Prata,94.34,  Cartão de Crédito ,1,0,2.0,2022-08-18,Yes
+921,72.0,Masculino,45,BRONZE,"R$ 54,57",  Cartão de Crédito ,1,3,3.0,2023-09-15,Yes
+420,49.0,masc,68,ouro,166.95,Pix,3,0,5.0,27/03/2022,No
+1731,66.0,Masculino,51,prata,84.85,Pix,2,1,4.0,2022-01-13,não
+1317,61.0,masculino,13,prata,,Boleto,1,3,4.0,2024-01-31,No
+263,36.0,fem,34,BRONZE,34.94,Boleto,2,0,3.0,2024-08-13,não
+397,20.0,Masculino,36,Bronze,39.06,Cartão de Crédito,2,1,2.0,21/11/2021,Não
+1938,52.0,Feminino,19,OURO,158.75,Cartão de Crédito,3,4,5.0,2023-12-12,No
+2041,35.0,masc,24,prata,79.1,Pix,0,1,3.0,18/02/2021,No
+1588,22.0,F,2,Bronze,51.26,Pix,1,3,5.0,2021-11-19,não
+2076,43.0,M,55,BRONZE,41.4,Cartão de Crédito,1,1,2.0,19/04/2021,N
+518,22.0,Masculino,49,ouro,"R$ 161,40",Pix,0,0,2.0,16/11/2023,Não
+1685,40.0,Feminino,12,OURO,171.99,Cartão de Crédito,1,0,5.0,2023-02-04,não
+1140,51.0,M,62,Prata,85.29,Cartão de Crédito,0,0,4.0,2021-07-22,Não
+29,51.0,feminino,21,BRONZE,41.46,Boleto,3,1,4.0,19/05/2021,S
+515,77.0,Masculino,36,Ouro,156.91,Cartão de Crédito,2,3,,01/05/2024,0
+342,36.0,M,69,bronze,"R$ 41,23",Boleto,0,0,1.0,2024-10-22,1
+13,63.0,masculino,43,OURO,140.98,Boleto,1,0,2.0,17/12/2022,0
+865,70.0,M,51,BRONZE,33.16,Cartão de Crédito,0,0,,08/06/2021,0
+1589,71.0,masculino,70,Bronze,"R$ 57,43",Boleto,0,2,,20/07/2022,N
+1705,75.0,,62,bronze,44.57,Cartão de Crédito,2,4,5.0,29/10/2021,Não
+1972,75.0,M,19,prata,"R$ 89,37",Cartão de Crédito,0,3,3.0,26/07/2022,No
+987,56.0,Masculino,55,prata,97.27,Cartão de Crédito,1,0,5.0,20/08/2023,0
+714,65.0,F,17,Prata,96.25,  Pix ,1,1,4.0,05/01/2024,0
+1886,29.0,masc,45,OURO,144.47,Pix,0,3,5.0,2024-04-17,Não
+1792,72.0,F,54,Bronze,59.5,  Boleto ,2,1,4.0,2023-06-15,Yes
+241,26.0,feminino,26,OURO,,Boleto,0,2,3.0,2023-10-20,Não
+396,72.0,masculino,12,OURO,162.12,Cartão de Crédito,1,1,4.0,04/05/2022,N
+2166,75.0,Feminino,60,bronze,42.79,Cartão de Crédito,1,2,5.0,2021-05-27,Não
+1299,50.0,masc,9,BRONZE,47.56,Pix,0,1,1.0,2021-04-16,1
+1609,32.0,masculino,37,ouro,158.08,  Pix ,0,3,3.0,2022-01-24,N
+1817,32.0,Feminino,20,Bronze,39.39,  Cartão de Crédito ,2,5,3.0,18/01/2021,0
+432,63.0,masc,49,prata,92.6,Pix,2,5,2.0,2021-08-06,sim
+2075,,masc,3,Bronze,61.96,Pix,1,4,,2023-12-21,S
+197,39.0,F,68,BRONZE,"R$ 37,24",Boleto,1,1,2.0,2024-04-16,sim
+1657,70.0,M,26,ouro,"R$ 163,41",Pix,1,0,4.0,2023-11-22,Não
+1088,79.0,Feminino,15,bronze,57.22,  Boleto ,0,2,2.0,21/04/2023,Não
+743,57.0,masculino,55,OURO,"R$ 151,01",Pix,0,12,3.0,2021-07-24,Sim
+1003,52.0,masculino,55,ouro,163.18,Cartão de Crédito,1,2,4.0,2021-05-27,Não
+972,43.0,masc,67,Prata,95.93,Pix,3,3,4.0,2021-12-03,sim
+569,57.0,masc,34,OURO,160.69,Cartão de Crédito,1,4,3.0,2024-03-27,1
+2060,42.0,masc,2,bronze,"R$ 51,46",Pix,0,0,4.0,2023-04-29,Não
+695,23.0,M,19,ouro,"R$ 159,47",Pix,2,1,2.0,2022-07-01,1
+1517,47.0,fem,25,prata,97.07,  Pix ,0,4,5.0,2021-11-17,Não
+364,73.0,F,30,Prata,"R$ 77,02",Pix,2,2,3.0,2022-11-28,sim
+1063,26.0,Masculino,53,Bronze,43.93,  Cartão de Crédito ,3,4,3.0,2024-07-12,S
+2145,,fem,27,PRATA,91.34,Boleto,1,7,4.0,2024-06-16,No
+1966,63.0,Masculino,49,BRONZE,"R$ 42,42",Pix,0,0,3.0,2021-03-08,0
+580,24.0,feminino,4,Bronze,"R$ 52,50",  Pix ,0,0,5.0,27/10/2022,Yes
+1089,58.0,masc,13,bronze,54.17,  Boleto ,1,0,2.0,27/06/2024,1
+1052,40.0,F,54,PRATA,94.03,Pix,0,0,3.0,2021-05-28,0
+195,77.0,masc,34,PRATA,82.77,Cartão de Crédito,3,1,2.0,12/10/2023,sim
+2171,19.0,M,40,BRONZE,46.17,Cartão de Crédito,2,4,5.0,03/02/2022,N
+1029,53.0,F,53,PRATA,"R$ 103,02",Cartão de Crédito,0,0,3.0,03/08/2024,0
+1828,79.0,fem,32,Prata,87.71,  Pix ,0,0,5.0,2022-12-17,0
+944,47.0,Masculino,41,BRONZE,51.79,Cartão de Crédito,0,0,3.0,2022-11-21,N
+59,64.0,fem,1,bronze,38.99,Cartão de Crédito,0,2,5.0,2024-01-24,sim
+399,35.0,masculino,69,Ouro,162.89,  Cartão de Crédito ,1,5,4.0,2021-01-04,N
+1565,52.0,M,30,Bronze,54.64,Pix,2,2,5.0,2023-04-04,N
+821,19.0,fem,25,Bronze,43.4,Pix,4,0,2.0,2023-12-18,sim
+1117,79.0,masculino,45,PRATA,97.42,Cartão de Crédito,1,0,2.0,2021-04-22,Yes
+1065,64.0,fem,38,BRONZE,"R$ 46,10",Cartão de Crédito,3,0,,15/04/2023,Yes
+1091,49.0,masculino,29,Bronze,"R$ 42,89",,2,1,4.0,21/03/2023,Yes
+1611,66.0,F,17,PRATA,83.08,Cartão de Crédito,1,2,2.0,2023-09-25,Sim
+1460,49.0,M,36,bronze,38.22,Boleto,0,0,3.0,2024-04-16,sim
+207,65.0,F,27,prata,96.38,Pix,1,0,5.0,2022-04-28,0
+1075,46.0,Masculino,18,PRATA,92.46,Pix,0,3,4.0,13/11/2021,No
+1051,49.0,Feminino,25,ouro,171.47,  Cartão de Crédito ,2,5,3.0,2022-06-10,Não
+1264,69.0,M,4,BRONZE,"R$ 58,00",Cartão de Crédito,1,1,3.0,21/03/2021,sim
+756,45.0,feminino,71,Bronze,"R$ 53,76",Cartão de Crédito,1,5,4.0,01/04/2021,0
+1750,62.0,Masculino,13,bronze,"R$ 52,01",Cartão de Crédito,0,0,3.0,06/12/2021,N
+708,53.0,M,68,Bronze,46.88,Pix,1,1,3.0,2023-02-23,Yes
+1764,55.0,masc,27,bronze,40.83,Boleto,1,4,4.0,2023-04-10,0
+1717,,,5,PRATA,"R$ 90,38",Pix,1,1,1.0,08/10/2021,Sim
+1439,37.0,masculino,6,ouro,145.13,Pix,1,0,4.0,01/06/2022,No
+25,66.0,masculino,29,ouro,160.8,Pix,1,2,3.0,01/05/2021,não
+271,36.0,masc,64,Bronze,46.43,Pix,3,2,5.0,2023-07-07,S
+1831,40.0,F,39,Prata,93.93,Pix,0,0,4.0,14/02/2023,N
+341,57.0,fem,21,Prata,81.65,,1,14,3.0,22/04/2022,1
+830,19.0,M,64,BRONZE,48.84,Boleto,2,0,4.0,2023-02-09,No
+375,72.0,fem,55,prata,86.43,Boleto,1,0,4.0,11/09/2023,0
+2016,37.0,masculino,71,bronze,45.63,  Cartão de Crédito ,2,0,4.0,22/10/2023,Yes
+1195,50.0,fem,24,prata,71.16,Pix,2,0,4.0,17/07/2022,N
+1669,51.0,masc,16,PRATA,99.77,Pix,3,1,5.0,2022-08-08,No
+1605,25.0,fem,2,Bronze,"R$ 42,38",Cartão de Crédito,1,2,,2023-01-31,Yes
+464,43.0,,36,Bronze,46.43,  Boleto ,3,2,4.0,16/12/2022,não
+1269,77.0,M,38,Bronze,,Cartão de Crédito,1,0,3.0,2023-12-20,sim
+44,39.0,feminino,8,BRONZE,28.69,Pix,1,7,3.0,2021-10-14,S
+1355,31.0,masc,30,bronze,33.56,Pix,2,7,3.0,2024-03-06,1
+735,30.0,Feminino,58,prata,96.56,Pix,2,0,4.0,2022-04-19,N
+579,73.0,feminino,28,bronze,"R$ 41,45",  Boleto ,2,1,4.0,2021-01-24,No
+329,26.0,feminino,7,ouro,163.11,Pix,0,0,3.0,16/05/2024,No
+688,54.0,Feminino,5,Ouro,"R$ 148,49",Boleto,2,0,2.0,12/03/2024,Yes
+1768,,masculino,18,bronze,"R$ 58,14",Boleto,0,0,1.0,11/03/2024,S
+173,65.0,Masculino,5,BRONZE,38.46,Pix,2,0,5.0,2022-03-05,S
+431,23.0,Feminino,67,Bronze,36.54,Cartão de Crédito,2,1,4.0,27/02/2024,Não
+2066,49.0,Masculino,71,PRATA,87.93,  Cartão de Crédito ,1,0,5.0,2024-03-13,N
+1992,45.0,masculino,25,prata,90.59,Cartão de Crédito,3,0,4.0,2022-07-24,0
+2078,45.0,Masculino,55,OURO,,Cartão de Crédito,0,11,3.0,17/02/2024,Sim
+936,76.0,Feminino,2,prata,85.67,Boleto,2,3,3.0,2023-04-14,Yes
+1627,53.0,M,24,Bronze,"R$ 35,37",Boleto,2,4,3.0,27/12/2023,Sim
+1647,39.0,masc,55,prata,"R$ 67,77",Cartão de Crédito,0,0,2.0,2022-08-03,N
+1943,72.0,Masculino,12,bronze,40.75,  Pix ,0,0,3.0,2022-05-08,1
+1434,52.0,M,54,BRONZE,"R$ 27,74",Pix,0,1,,19/09/2024,No
+1905,38.0,M,6,ouro,153.35,Pix,1,5,3.0,03/11/2022,0
+1455,53.0,masculino,48,BRONZE,47.6,Pix,1,0,5.0,2023-06-01,No
+100,26.0,masc,64,prata,90.53,Cartão de Crédito,0,3,5.0,2022-03-09,N
+1318,54.0,fem,65,BRONZE,51.17,Boleto,2,3,3.0,2023-10-12,S
+1085,30.0,Feminino,30,Bronze,39.66,Boleto,1,0,,2022-02-16,S
+883,45.0,fem,20,Prata,84.67,  Cartão de Crédito ,2,1,3.0,27/11/2022,sim
+857,33.0,feminino,57,prata,100.83,Cartão de Crédito,1,0,2.0,18/10/2024,0
+238,44.0,fem,49,prata,"R$ 89,94",Pix,1,3,4.0,04/06/2022,No
+72,29.0,masc,23,PRATA,"R$ 88,90",Cartão de Crédito,2,4,5.0,26/12/2023,0
+836,66.0,fem,68,prata,90.1,Pix,0,0,3.0,2022-09-19,0
+1147,50.0,masculino,43,Prata,89.58,  Pix ,1,1,4.0,2024-05-31,0
+1783,19.0,fem,48,prata,78.41,Pix,1,2,3.0,16/04/2022,N
+1303,61.0,Masculino,23,BRONZE,42.34,Boleto,3,0,4.0,29/01/2021,Yes
+1773,40.0,masculino,9,Prata,82.29,Pix,1,5,3.0,2022-05-11,Yes
+2138,19.0,Feminino,24,BRONZE,47.72,Cartão de Crédito,2,4,4.0,2023-03-03,Sim
+862,75.0,M,22,BRONZE,"R$ 40,01",Pix,0,0,,22/06/2023,0
+1881,41.0,Masculino,65,Bronze,,Pix,2,1,3.0,2021-10-14,S
+1511,38.0,Masculino,26,OURO,158.8,Boleto,0,7,3.0,2023-02-20,No
+260,54.0,feminino,5,prata,,Cartão de Crédito,0,4,3.0,2022-12-19,Sim
+811,20.0,M,27,Bronze,41.96,Pix,1,0,4.0,2022-12-11,não
+141,78.0,M,31,bronze,"R$ 51,54",  Pix ,1,1,3.0,21/01/2021,Não
+805,63.0,Feminino,51,bronze,57.85,Pix,2,2,3.0,30/03/2024,Não
+201,40.0,F,1,PRATA,72.78,Cartão de Crédito,1,1,3.0,2024-05-15,Não
+747,50.0,feminino,42,bronze,30.53,Pix,0,1,5.0,12/10/2023,Não
+700,23.0,masculino,15,bronze,"R$ 42,25",Cartão de Crédito,3,2,4.0,27/01/2024,N
+351,51.0,masculino,47,PRATA,83.88,Boleto,0,0,3.0,05/03/2023,N
+1720,50.0,fem,44,Bronze,53.21,Cartão de Crédito,2,0,5.0,2024-09-08,No
+872,30.0,feminino,35,ouro,168.13,,2,1,3.0,16/07/2021,No
+1727,76.0,masculino,36,prata,94.91,Pix,1,3,5.0,15/07/2021,não
+2183,55.0,masc,26,bronze,43.02,Pix,0,2,4.0,2023-05-01,No
+1651,29.0,feminino,53,Bronze,37.89,Pix,2,2,5.0,05/04/2024,N
+472,67.0,feminino,61,Bronze,33.02,Cartão de Crédito,1,0,3.0,13/05/2021,sim
+1222,52.0,fem,56,bronze,"R$ 51,50",Cartão de Crédito,2,0,3.0,2023-12-28,S
+1985,57.0,,4,OURO,180.58,Pix,1,2,5.0,2024-05-07,Não
+2015,58.0,Masculino,49,prata,99.77,Pix,6,1,3.0,20/07/2022,sim
+1547,60.0,fem,32,Bronze,48.84,Boleto,0,15,,22/08/2024,sim
+211,34.0,masc,38,Prata,81.94,Pix,0,0,2.0,11/12/2022,No
+1505,55.0,fem,68,BRONZE,33.85,Cartão de Crédito,0,1,4.0,2023-08-25,0
+2082,23.0,M,64,bronze,"R$ 47,59",Pix,2,0,,2024-07-17,Sim
+1082,79.0,Masculino,54,BRONZE,"R$ 42,99",Pix,2,2,2.0,07/06/2021,Yes
+1786,33.0,masc,25,BRONZE,47.9,Boleto,2,3,,07/10/2023,0
+466,77.0,fem,39,OURO,162.41,  Pix ,0,1,4.0,2022-11-15,Não
+1675,62.0,masculino,45,Ouro,161.41,Pix,1,0,4.0,05/10/2021,N
+738,38.0,feminino,52,bronze,53.11,Cartão de Crédito,0,0,2.0,05/03/2023,N
+2134,42.0,feminino,64,PRATA,82.76,Cartão de Crédito,1,6,,17/07/2024,0
+654,67.0,feminino,7,bronze,54.04,Pix,2,0,5.0,2023-11-30,No
+413,,masc,13,PRATA,94.41,Boleto,0,2,2.0,11/02/2021,1
+1343,25.0,M,7,ouro,"R$ 164,68",Boleto,3,1,2.0,2021-08-03,1
+1179,34.0,masculino,61,prata,81.51,Pix,2,1,3.0,27/04/2021,Não
+451,77.0,masc,63,Ouro,150.16,Boleto,1,2,3.0,2022-11-24,No
+233,19.0,M,12,Prata,101.45,Cartão de Crédito,3,2,3.0,2022-02-19,sim
+1211,56.0,fem,6,prata,80.2,Cartão de Crédito,0,4,,07/11/2021,N
+1610,25.0,masc,44,PRATA,"R$ 90,42",Cartão de Crédito,0,2,3.0,2022-01-09,N
+1247,71.0,Feminino,23,PRATA,80.37,Cartão de Crédito,0,2,5.0,16/07/2023,não
+682,26.0,feminino,17,BRONZE,"R$ 54,01",  Cartão de Crédito ,1,0,5.0,2024-06-23,Não
+2024,55.0,F,38,BRONZE,34.03,Cartão de Crédito,1,0,4.0,03/07/2022,não
+2109,35.0,F,58,Ouro,166.7,  Pix ,2,1,4.0,16/03/2024,No
+1160,39.0,Feminino,38,prata,75.15,  Boleto ,3,1,4.0,2023-12-25,No
+1654,54.0,masc,26,Bronze,"R$ 26,81",Cartão de Crédito,0,0,5.0,14/01/2024,Não
+766,66.0,fem,43,PRATA,82.19,Boleto,2,1,3.0,2024-10-15,N
+722,75.0,F,55,Bronze,35.48,  Pix ,3,1,3.0,20/10/2022,No
+639,67.0,fem,16,BRONZE,39.65,Pix,0,5,5.0,2022-04-22,No
+1930,77.0,Masculino,31,ouro,159.76,Cartão de Crédito,1,0,4.0,2023-10-06,No
+1862,36.0,masc,2,prata,81.73,  Boleto ,3,1,4.0,19/05/2023,0
+1984,64.0,masculino,61,PRATA,94.51,Pix,1,0,5.0,11/06/2024,N
+362,73.0,feminino,26,Prata,85.03,Pix,0,0,3.0,2024-06-15,Não
+1891,29.0,F,53,bronze,45.53,Cartão de Crédito,0,1,4.0,2022-01-30,No
+1756,,masc,67,Prata,80.42,Cartão de Crédito,2,1,3.0,14/04/2021,Sim
+519,47.0,,42,bronze,"R$ 26,14",Cartão de Crédito,1,0,5.0,11/10/2021,No
+1224,58.0,F,28,BRONZE,50.43,Pix,1,1,,29/06/2023,N
+759,25.0,masculino,37,Bronze,44.86,Pix,4,0,4.0,2024-08-25,sim
+825,56.0,fem,27,bronze,33.62,Cartão de Crédito,1,1,5.0,14/03/2023,0
+848,21.0,Feminino,54,PRATA,76.55,  Cartão de Crédito ,1,1,3.0,23/07/2023,N
+563,48.0,Feminino,26,bronze,43.21,Cartão de Crédito,1,3,4.0,2023-04-23,Não
+301,40.0,Feminino,50,Bronze,,Pix,1,1,3.0,2023-12-19,não
+2046,79.0,fem,20,BRONZE,49.98,Pix,4,0,4.0,26/04/2024,Não
+1284,67.0,Masculino,17,prata,93.1,  Cartão de Crédito ,1,1,,24/05/2022,No
+1474,30.0,masc,1,Bronze,54.63,,1,2,5.0,06/12/2021,No
+1174,29.0,Feminino,36,bronze,42.62,Pix,1,0,5.0,23/11/2023,não
+675,56.0,masc,28,Bronze,33.69,  Boleto ,1,9,,13/01/2023,S
+979,39.0,masculino,16,bronze,30.23,Pix,1,5,4.0,06/05/2021,Não
+780,70.0,M,34,OURO,163.32,Cartão de Crédito,3,2,3.0,04/09/2021,Não
+230,28.0,masc,20,PRATA,88.11,Cartão de Crédito,2,0,5.0,13/10/2022,0
+471,63.0,F,57,Prata,98.48,Pix,1,5,3.0,09/07/2024,não
+846,18.0,M,63,Ouro,156.12,Pix,2,0,3.0,18/08/2023,não
+1169,79.0,Feminino,31,bronze,48.89,Pix,4,0,5.0,01/10/2024,0
+1111,57.0,feminino,37,OURO,"R$ 160,25",Pix,4,2,,03/05/2022,0
+557,63.0,feminino,63,ouro,145.9,Cartão de Crédito,2,3,,02/05/2024,Yes
+118,26.0,Feminino,31,Prata,"R$ 88,68",Pix,1,0,4.0,31/03/2022,Não
+1450,24.0,masculino,53,OURO,145.45,Cartão de Crédito,1,1,4.0,14/05/2022,0
+1871,193.0,feminino,7,bronze,23.66,Cartão de Crédito,1,9,2.0,2022-06-12,Yes
+1780,60.0,fem,11,PRATA,106.44,Boleto,2,0,4.0,24/04/2024,0
+1237,18.0,feminino,21,bronze,46.33,Pix,1,5,3.0,22/05/2023,1
+2178,47.0,Feminino,19,Bronze,31.09,Cartão de Crédito,2,0,5.0,12/01/2023,Não
+2038,20.0,Masculino,8,Ouro,147.04,Cartão de Crédito,1,3,4.0,2023-06-03,não
+638,36.0,masc,64,Bronze,41.91,Boleto,1,0,2.0,18/10/2024,1
+1572,40.0,Masculino,24,OURO,163.69,Boleto,2,0,5.0,09/09/2023,N
+1842,,fem,47,PRATA,"R$ 88,91",  Pix ,0,0,5.0,2023-01-28,não
+71,67.0,feminino,23,Prata,"R$ 88,57",Boleto,4,0,3.0,2021-06-05,S
+978,53.0,masculino,22,BRONZE,39.71,Cartão de Crédito,0,0,4.0,2023-10-07,Não
+652,58.0,feminino,28,bronze,44.8,Boleto,2,3,3.0,31/08/2023,S
+1888,43.0,masc,66,Prata,98.08,Pix,2,3,4.0,12/04/2022,Não
+10,23.0,M,10,BRONZE,47.08,  Pix ,0,1,3.0,2024-04-13,0
+387,22.0,Masculino,27,BRONZE,40.03,Cartão de Crédito,0,0,3.0,09/05/2022,N
+1513,64.0,Masculino,58,ouro,,Pix,3,1,4.0,2023-04-03,Não
+128,65.0,Feminino,12,Bronze,36.97,Pix,1,1,2.0,2024-09-27,0
+1525,55.0,Feminino,1,Ouro,149.37,Boleto,0,3,4.0,26/03/2022,Não
+285,,F,25,Ouro,166.41,Boleto,1,10,5.0,25/12/2023,No
+641,59.0,Masculino,32,PRATA,76.63,  Pix ,3,0,5.0,2024-10-01,No
+948,26.0,masc,60,Prata,98.44,  Pix ,0,0,5.0,2022-11-15,não
+1376,77.0,masculino,49,BRONZE,"R$ 45,23",Cartão de Crédito,2,1,3.0,30/04/2021,N
+126,53.0,,59,Ouro,148.63,,1,0,4.0,2024-08-16,não
+1398,58.0,M,40,OURO,165.27,Pix,2,4,4.0,2022-01-12,Yes
+1674,65.0,masc,34,bronze,48.5,Pix,1,5,4.0,15/04/2022,No
+1534,29.0,Feminino,67,Prata,"R$ 81,12",Pix,0,0,2.0,28/11/2023,N
+1012,67.0,M,20,Prata,100.81,Cartão de Crédito,0,6,,10/10/2022,S
+620,26.0,F,51,Ouro,146.17,Boleto,1,5,2.0,2024-03-08,No
+38,69.0,masculino,20,bronze,"R$ 49,62",Boleto,3,8,5.0,2024-01-06,Não
+1288,32.0,fem,69,prata,85.58,Boleto,2,0,5.0,2021-01-21,N
+309,37.0,masculino,29,PRATA,91.52,Boleto,2,0,4.0,2022-10-17,sim
+1885,56.0,M,36,Prata,96.77,Pix,2,2,3.0,2022-05-16,No
+1297,34.0,feminino,8,Prata,93.15,  Cartão de Crédito ,3,0,2.0,2022-06-28,1
+1348,61.0,M,63,Ouro,,Pix,0,1,3.0,2024-08-26,S
+2131,62.0,F,14,bronze,35.93,Pix,0,5,4.0,2022-09-11,0
+109,47.0,Masculino,22,PRATA,100.16,Boleto,1,1,,28/01/2021,No
+661,28.0,Masculino,14,bronze,28.0,Cartão de Crédito,2,5,,2021-12-01,Sim
+831,33.0,Masculino,53,prata,100.99,Pix,1,4,4.0,07/11/2022,No
+319,,Masculino,11,PRATA,103.27,Pix,0,2,2.0,2021-05-26,sim
+1120,48.0,Feminino,3,bronze,"R$ 49,90",Cartão de Crédito,0,0,4.0,2024-04-25,0
+2102,59.0,masculino,47,PRATA,81.78,Pix,0,3,,01/12/2021,No
+1310,70.0,M,25,Bronze,"R$ 43,27",Pix,1,0,3.0,10/06/2021,Não
+749,37.0,feminino,38,OURO,170.98,Pix,2,1,4.0,11/07/2022,N
+1825,65.0,fem,33,Prata,"R$ 98,01",Pix,1,0,5.0,2021-06-29,No
+2048,50.0,M,14,bronze,37.12,Pix,0,1,,09/08/2021,1
+300,19.0,Masculino,67,Prata,87.12,Cartão de Crédito,0,0,4.0,2022-11-03,No
+189,32.0,M,68,PRATA,84.87,Pix,0,0,5.0,28/03/2023,0
+1612,26.0,masc,32,BRONZE,50.73,Pix,0,0,4.0,2021-02-14,N
+880,57.0,masc,32,bronze,61.93,Pix,2,0,,2021-06-11,S
+21,49.0,feminino,68,bronze,40.66,Cartão de Crédito,0,0,3.0,2021-03-14,N
+1625,52.0,Masculino,43,Prata,"R$ 103,66",Cartão de Crédito,3,2,3.0,2024-10-13,sim
+863,25.0,Feminino,28,BRONZE,28.06,  Pix ,3,0,3.0,2024-08-28,Sim
+1467,57.0,Feminino,42,bronze,60.42,Boleto,2,1,4.0,05/01/2022,0
+540,19.0,masculino,25,prata,73.88,Pix,2,0,4.0,24/02/2022,No
+1076,28.0,feminino,66,OURO,"R$ 159,47",Pix,1,0,2.0,2022-12-27,N
+1386,32.0,F,16,ouro,156.96,Cartão de Crédito,3,0,5.0,2021-10-31,N
+803,49.0,feminino,67,Bronze,36.82,  Cartão de Crédito ,1,1,4.0,10/11/2022,sim
+900,56.0,M,20,BRONZE,45.57,Cartão de Crédito,1,1,4.0,2022-11-25,não
+1214,71.0,Masculino,7,BRONZE,48.22,,0,3,4.0,08/11/2023,Não
+673,57.0,Feminino,59,BRONZE,47.72,Pix,1,2,3.0,2022-07-22,1
+1745,31.0,F,10,Bronze,"R$ 44,50",Pix,1,0,3.0,2022-06-11,N
+594,78.0,masc,38,Ouro,164.47,  Pix ,1,1,4.0,2021-01-17,N
+1583,49.0,masc,8,ouro,169.27,Cartão de Crédito,2,2,1.0,2021-11-16,Sim
+1808,47.0,fem,47,Bronze,47.46,  Pix ,2,2,,2023-04-30,No
+1122,23.0,Masculino,12,Bronze,42.93,Pix,1,1,5.0,05/12/2022,No
+833,46.0,Masculino,40,BRONZE,"R$ 45,65",Pix,2,0,3.0,25/08/2023,No
+2163,42.0,Masculino,36,PRATA,97.23,Boleto,2,0,4.0,2023-02-07,não
+1369,77.0,,54,Ouro,,  Cartão de Crédito ,1,3,3.0,07/07/2022,não
+191,60.0,fem,33,prata,81.6,  Cartão de Crédito ,2,3,2.0,2023-03-03,Yes
+1804,34.0,Feminino,32,Bronze,42.4,Pix,0,1,,2022-08-17,sim
+1488,18.0,feminino,67,ouro,159.55,  Pix ,1,0,5.0,26/11/2021,N
+1784,77.0,masculino,48,Bronze,38.5,Cartão de Crédito,1,1,3.0,04/04/2024,0
+368,37.0,,45,bronze,"R$ 65,17",Cartão de Crédito,1,2,4.0,2022-09-23,N
+1372,39.0,,60,bronze,39.83,Pix,1,2,4.0,17/11/2022,não
+562,20.0,F,31,OURO,155.77,  Cartão de Crédito ,2,3,3.0,04/05/2023,Não
+1227,24.0,masc,35,Bronze,"R$ 51,79",Boleto,2,6,4.0,03/03/2023,N
+143,35.0,fem,39,prata,82.3,Boleto,2,0,4.0,2024-03-17,No
+993,,masc,48,Prata,"R$ 104,17",Pix,1,0,3.0,04/05/2023,0
+1500,70.0,fem,54,Bronze,"R$ 63,18",Cartão de Crédito,2,2,3.0,21/08/2021,No
+1432,29.0,F,39,Ouro,169.18,Cartão de Crédito,0,0,4.0,07/06/2021,N
+653,30.0,Masculino,9,ouro,"R$ 166,75",Boleto,2,0,3.0,2024-09-05,0
+1354,74.0,Masculino,51,PRATA,93.15,  Cartão de Crédito ,1,0,3.0,07/07/2023,N
+448,77.0,Masculino,56,prata,88.5,Pix,1,2,3.0,2024-02-08,Não
+1459,34.0,masculino,24,ouro,"R$ 161,91",Cartão de Crédito,3,1,3.0,30/11/2021,1
+378,64.0,M,33,Ouro,162.2,Cartão de Crédito,0,1,5.0,2024-05-07,0
+186,45.0,Feminino,63,PRATA,93.45,Boleto,0,6,4.0,01/02/2022,não
+1216,,Feminino,30,BRONZE,32.67,Cartão de Crédito,3,1,3.0,11/10/2024,sim
+1078,28.0,masc,18,PRATA,90.61,Boleto,2,0,4.0,2022-02-11,No
+161,79.0,masculino,47,ouro,157.86,Pix,1,0,4.0,13/01/2021,No
+659,22.0,M,52,prata,106.52,Boleto,1,4,3.0,2022-12-07,No
+1813,59.0,F,49,Ouro,154.23,Pix,3,2,4.0,2021-04-30,N
+1359,24.0,Feminino,12,prata,88.62,  Pix ,2,5,3.0,2022-07-15,S
+1689,76.0,feminino,10,Ouro,164.55,Cartão de Crédito,0,0,5.0,2023-08-24,0
+745,67.0,masc,59,BRONZE,38.41,Cartão de Crédito,3,0,3.0,04/10/2022,S
+264,75.0,masc,42,PRATA,95.15,Cartão de Crédito,1,0,5.0,2021-08-22,No
+369,19.0,F,27,PRATA,97.09,  Cartão de Crédito ,1,2,5.0,2024-10-11,No
+1702,,feminino,68,ouro,161.63,Cartão de Crédito,2,2,3.0,20/03/2022,não
+1907,36.0,F,8,PRATA,88.45,Boleto,0,2,2.0,2022-01-06,N
+1172,57.0,F,17,BRONZE,47.97,Cartão de Crédito,0,0,5.0,15/02/2023,N
+148,,masc,54,Ouro,160.81,Cartão de Crédito,1,0,4.0,09/06/2024,não
+1548,70.0,feminino,70,ouro,171.51,Pix,3,1,3.0,11/12/2021,1
+1424,59.0,M,32,ouro,161.22,Pix,0,1,5.0,22/11/2023,0
+2190,54.0,Feminino,43,PRATA,89.45,Pix,1,0,3.0,19/12/2023,0
+1380,51.0,M,6,bronze,31.83,Boleto,1,0,2.0,28/04/2022,sim
+789,51.0,masculino,65,BRONZE,55.44,Pix,0,1,4.0,2023-01-19,No
+359,23.0,M,3,Prata,89.33,Pix,1,1,2.0,2024-06-25,S
+1226,78.0,Masculino,70,Prata,83.55,Pix,1,2,4.0,06/05/2021,não
+468,,F,69,Bronze,54.65,Cartão de Crédito,3,7,4.0,28/12/2023,sim
+2018,63.0,Masculino,25,Bronze,59.09,Pix,0,0,4.0,2024-04-20,sim
+1546,54.0,Masculino,70,PRATA,89.91,  Pix ,0,0,3.0,04/10/2022,0
+1334,68.0,F,71,BRONZE,29.03,Cartão de Crédito,1,10,3.0,2022-09-02,Yes
+718,,F,68,Ouro,162.81,,1,1,,2023-03-16,Não
+1951,74.0,feminino,24,bronze,41.04,Pix,2,15,4.0,2022-11-17,No
+1016,69.0,F,19,Prata,93.94,Boleto,1,2,3.0,2024-01-16,Yes
+839,18.0,masculino,21,Bronze,42.41,Pix,0,0,,01/07/2023,não
+928,,fem,65,BRONZE,53.09,  Boleto ,3,1,5.0,05/11/2022,N
+548,54.0,feminino,58,bronze,44.65,Pix,0,2,,07/07/2022,No
+947,78.0,fem,46,PRATA,96.58,  Pix ,0,0,5.0,09/05/2022,N
+1982,56.0,masculino,26,BRONZE,52.8,Pix,2,0,4.0,08/12/2022,Sim
+480,24.0,masc,27,bronze,"R$ 38,20",Boleto,1,0,3.0,2022-09-29,N
+1426,68.0,fem,53,PRATA,90.13,Cartão de Crédito,0,0,3.0,2023-01-03,Não
+2197,36.0,Masculino,21,BRONZE,44.65,Cartão de Crédito,2,1,5.0,11/03/2024,No
+610,71.0,masculino,14,Bronze,51.28,Pix,0,0,5.0,2022-06-02,não
+187,28.0,M,68,OURO,"R$ 161,84",  Cartão de Crédito ,2,0,5.0,2021-10-03,No
+804,74.0,feminino,69,Prata,82.98,Pix,0,4,4.0,11/11/2022,0
+1590,19.0,M,23,PRATA,92.95,Pix,0,0,1.0,2024-01-15,Sim
+1383,39.0,masc,15,BRONZE,"R$ 51,80",Boleto,3,1,4.0,2023-06-11,N
+2154,51.0,Masculino,30,Bronze,51.4,Pix,2,4,3.0,02/01/2023,N
+1331,45.0,feminino,28,BRONZE,10.0,Cartão de Crédito,2,0,2.0,2023-12-02,sim
+1688,43.0,F,13,OURO,140.17,Boleto,1,0,,2024-01-23,0
+864,65.0,Masculino,10,Ouro,159.57,Cartão de Crédito,0,3,3.0,30/07/2023,Não
+144,,M,53,BRONZE,47.67,Pix,4,1,5.0,2021-12-24,Não
+1509,71.0,fem,35,BRONZE,41.98,Pix,1,2,4.0,20/12/2021,N
+1633,23.0,feminino,58,BRONZE,,  Cartão de Crédito ,0,2,4.0,2023-12-10,não
+1762,43.0,masculino,62,BRONZE,"R$ 43,13",Pix,2,1,3.0,13/09/2024,No
+424,54.0,feminino,66,OURO,"R$ 138,04",  Cartão de Crédito ,0,1,4.0,2022-02-07,sim
+1874,76.0,M,67,Bronze,55.61,Cartão de Crédito,2,0,4.0,2021-04-15,0
+1696,60.0,fem,66,prata,91.94,Cartão de Crédito,3,2,3.0,09/04/2022,1
+763,76.0,feminino,70,BRONZE,45.28,Cartão de Crédito,1,0,3.0,2021-03-31,Não
+1126,70.0,masc,56,ouro,158.57,  Pix ,0,4,3.0,20/06/2023,não
+1138,40.0,Masculino,4,Ouro,,Cartão de Crédito,0,0,,2024-05-19,não
+1529,19.0,masculino,25,Prata,94.06,Boleto,3,0,3.0,2023-03-18,S
+37,71.0,masculino,18,bronze,53.17,Pix,0,0,,2023-06-01,1
+1294,18.0,fem,53,Prata,90.53,Cartão de Crédito,0,1,3.0,2023-06-09,0
+597,53.0,masc,62,prata,83.33,Boleto,0,1,3.0,2024-05-01,No
+1073,64.0,feminino,47,Prata,"R$ 104,26",Pix,0,0,2.0,2023-01-13,não
+1228,79.0,masculino,63,OURO,158.72,,2,0,2.0,2023-04-28,S
+469,29.0,F,6,prata,92.94,Pix,1,6,,2022-05-05,não
+2035,79.0,F,19,bronze,"R$ 46,32",  Cartão de Crédito ,1,0,4.0,2021-07-14,N
+1964,68.0,Feminino,15,Bronze,40.5,Pix,1,0,3.0,25/01/2021,No
+1363,39.0,Masculino,30,OURO,"R$ 161,35",Pix,1,4,3.0,2024-04-16,No
+1048,55.0,feminino,7,Ouro,159.36,Pix,1,0,,2022-12-26,No
+916,46.0,Feminino,36,Prata,,Cartão de Crédito,0,1,2.0,26/10/2022,Não
+2074,39.0,F,23,OURO,165.0,Pix,0,0,4.0,10/05/2021,No
+401,79.0,masc,62,Bronze,"R$ 44,25",Boleto,1,0,3.0,25/09/2022,Sim
+577,75.0,F,38,PRATA,80.41,Cartão de Crédito,1,4,2.0,16/12/2022,sim
+152,35.0,feminino,54,ouro,171.2,Pix,0,2,2.0,2021-10-28,N
+1083,77.0,feminino,69,bronze,52.94,Pix,0,0,3.0,17/04/2021,No
+1869,19.0,M,53,Ouro,164.38,Boleto,0,1,3.0,2021-12-25,0
+603,63.0,Masculino,71,Bronze,41.43,Pix,1,2,4.0,2022-03-21,0
+1945,41.0,fem,10,Prata,"R$ 89,73",Cartão de Crédito,1,0,3.0,2022-12-27,N
+1800,50.0,F,37,bronze,52.93,Pix,4,1,5.0,2023-06-23,0
+147,20.0,Feminino,24,OURO,"R$ 151,84",  Cartão de Crédito ,1,1,,17/03/2024,não
+545,69.0,masculino,15,BRONZE,36.98,Pix,2,0,3.0,2021-09-20,1
+1635,43.0,masc,11,BRONZE,39.46,Cartão de Crédito,1,1,4.0,24/04/2021,0
+1248,46.0,fem,41,Prata,89.48,Pix,0,0,3.0,20/09/2022,0
+758,41.0,F,35,Bronze,45.25,Cartão de Crédito,1,1,4.0,2024-10-28,não
+703,,feminino,62,BRONZE,37.86,Pix,1,0,4.0,23/07/2024,No
+621,44.0,Feminino,39,Bronze,44.59,Boleto,1,1,3.0,20/03/2024,não
+2090,19.0,Feminino,22,PRATA,101.88,  Cartão de Crédito ,0,0,5.0,01/04/2024,N
+2133,,fem,62,Bronze,42.9,Pix,0,0,4.0,2022-09-25,No
+624,43.0,masculino,70,Ouro,157.3,Pix,1,0,1.0,10/01/2022,N
+1034,37.0,fem,1,Bronze,48.1,Cartão de Crédito,1,2,5.0,2022-01-02,não
+2110,35.0,F,43,PRATA,86.52,Pix,0,1,3.0,28/06/2021,sim
+1163,70.0,masculino,4,Prata,97.19,Cartão de Crédito,0,0,4.0,15/06/2023,Yes
+1788,24.0,feminino,6,PRATA,81.42,Cartão de Crédito,0,0,4.0,14/04/2022,0
+112,66.0,F,5,BRONZE,44.56,,1,0,2.0,2022-11-24,Yes
+1579,25.0,masculino,70,Prata,98.88,Cartão de Crédito,0,12,4.0,2024-09-03,0
+422,61.0,masc,28,OURO,"R$ 162,30",Pix,2,0,3.0,26/06/2024,0
+345,74.0,fem,58,Prata,85.09,Pix,1,1,4.0,2023-12-08,Não
+1339,66.0,masc,38,Bronze,26.2,Cartão de Crédito,5,0,,2021-02-13,não
+1356,48.0,Feminino,32,Prata,96.22,Cartão de Crédito,0,0,4.0,28/05/2021,Yes
+1166,24.0,fem,54,bronze,36.49,Boleto,0,2,5.0,2021-11-21,0
+455,55.0,Feminino,61,Prata,92.0,Pix,1,0,5.0,12/09/2023,Não
+1364,30.0,feminino,57,Bronze,48.03,Boleto,1,2,5.0,2023-09-29,No
+640,76.0,masc,69,Bronze,47.05,Pix,1,1,3.0,08/09/2021,não
+1235,57.0,masc,17,bronze,49.88,,0,4,,2023-01-21,S
+142,31.0,feminino,29,Bronze,33.82,Pix,1,2,4.0,2024-08-12,No
+949,76.0,Masculino,71,ouro,161.12,  Pix ,0,0,4.0,2024-09-01,No
+1057,45.0,Masculino,13,Bronze,"R$ 38,38",Boleto,2,0,4.0,2022-01-09,S
+893,50.0,Feminino,52,Ouro,151.64,  Cartão de Crédito ,2,1,2.0,22/05/2024,0
+1059,44.0,feminino,41,PRATA,96.94,Cartão de Crédito,1,1,,24/09/2023,Yes
+1837,76.0,Masculino,49,BRONZE,33.24,Pix,0,1,3.0,2023-01-27,0
+1421,76.0,fem,71,prata,86.3,Boleto,1,1,4.0,2022-11-17,N
+2039,,Feminino,54,PRATA,75.31,Cartão de Crédito,2,3,4.0,2024-09-25,não
+2130,37.0,Feminino,63,Ouro,167.72,Pix,2,0,2.0,24/03/2023,Yes
+1351,21.0,M,32,OURO,153.23,  Cartão de Crédito ,3,0,3.0,2021-12-25,Yes
+441,78.0,Masculino,18,prata,97.2,Cartão de Crédito,0,0,3.0,2022-03-16,não
+340,77.0,fem,36,Prata,"R$ 64,85",  Boleto ,2,2,3.0,2023-02-02,No
+221,25.0,M,19,Bronze,43.72,Boleto,4,3,4.0,24/07/2023,não
+739,63.0,feminino,65,Bronze,"R$ 33,23",Pix,2,0,,2021-11-19,N
+416,60.0,masc,48,Prata,98.88,Boleto,1,0,,21/04/2022,N
+1173,42.0,masculino,22,Ouro,"R$ 167,40",Pix,0,0,3.0,2024-08-09,não
+542,21.0,Feminino,7,ouro,"R$ 169,60",Pix,0,0,4.0,2024-04-22,No
+507,50.0,masculino,51,Ouro,,Pix,1,0,,21/08/2022,Não
+1178,29.0,masculino,42,OURO,"R$ 162,15",Cartão de Crédito,1,0,3.0,18/07/2024,0
+611,69.0,Masculino,37,Bronze,"R$ 37,30",Pix,1,2,3.0,2023-02-28,0
+526,37.0,fem,44,Prata,101.76,Pix,3,2,4.0,2022-04-15,0
+931,51.0,masc,26,BRONZE,42.8,Boleto,1,6,5.0,2024-10-06,Não
+1946,25.0,Masculino,20,Bronze,41.12,Cartão de Crédito,1,0,3.0,2021-09-19,sim
+95,73.0,masc,51,Bronze,55.25,Cartão de Crédito,1,1,,08/02/2023,Não
+1333,44.0,Feminino,5,prata,,  Pix ,2,1,2.0,2024-07-19,sim
+1114,36.0,masculino,16,Prata,"R$ 96,22",Cartão de Crédito,0,0,5.0,2024-01-16,não
+1882,,Masculino,21,bronze,24.14,Pix,1,3,4.0,2023-06-14,0
+1473,45.0,Feminino,42,bronze,"R$ 46,20",Cartão de Crédito,1,0,3.0,19/12/2021,0
+299,35.0,Feminino,3,Ouro,166.95,Cartão de Crédito,2,1,3.0,19/07/2022,Yes
+1939,77.0,fem,63,Prata,88.1,Boleto,1,0,3.0,12/09/2022,1
+1127,70.0,masc,12,bronze,"R$ 44,68",Pix,3,1,3.0,24/01/2021,S
+114,46.0,Feminino,4,BRONZE,"R$ 56,43",Cartão de Crédito,2,0,5.0,04/08/2023,0
+1413,33.0,masc,44,Prata,"R$ 83,62",  Cartão de Crédito ,2,0,2.0,15/04/2021,No
+475,57.0,M,67,prata,68.8,  Cartão de Crédito ,2,1,4.0,05/02/2024,0
+1038,18.0,F,71,Bronze,53.82,Pix,2,0,1.0,2023-04-02,S
+790,18.0,Masculino,31,prata,,  Boleto ,1,0,3.0,16/07/2024,0
+1030,38.0,Masculino,60,Prata,,Cartão de Crédito,1,1,3.0,2024-09-29,não
+1536,19.0,masc,15,OURO,161.62,Cartão de Crédito,0,1,4.0,07/07/2024,N
+1197,62.0,masculino,33,bronze,40.64,Cartão de Crédito,1,2,4.0,2021-08-02,No
+691,79.0,M,11,Bronze,47.21,Cartão de Crédito,0,1,5.0,2021-10-14,No
+1349,63.0,Masculino,22,bronze,,Cartão de Crédito,1,0,3.0,16/01/2022,N
+1582,31.0,fem,17,Ouro,"R$ 170,25",Cartão de Crédito,1,0,3.0,2021-02-13,0
+1895,26.0,feminino,69,bronze,51.84,Boleto,0,0,5.0,2021-03-29,0
+2043,64.0,M,59,PRATA,90.24,Cartão de Crédito,0,0,3.0,2023-10-12,não
+1932,47.0,masculino,67,prata,84.7,Pix,1,0,,2024-03-15,não
+1649,78.0,M,53,BRONZE,30.41,Cartão de Crédito,1,1,4.0,2024-03-27,não
+96,35.0,F,57,BRONZE,"R$ 36,40",Cartão de Crédito,1,1,4.0,28/10/2023,0
+1880,24.0,Feminino,55,Prata,83.86,Cartão de Crédito,1,0,2.0,2023-10-10,não
+348,76.0,Masculino,42,Bronze,44.66,Cartão de Crédito,1,6,2.0,10/07/2024,Yes
+2162,33.0,fem,56,prata,87.0,Pix,2,2,3.0,05/01/2024,0
+2030,39.0,,2,Bronze,44.03,Pix,0,0,4.0,11/07/2021,Não
+117,20.0,F,7,Bronze,38.98,  Cartão de Crédito ,1,2,2.0,05/09/2023,sim
+685,28.0,feminino,26,prata,"R$ 91,57",Cartão de Crédito,0,0,4.0,01/12/2021,0
+1107,33.0,Masculino,20,bronze,45.04,Cartão de Crédito,1,1,4.0,30/08/2023,Não
+669,74.0,masc,62,ouro,161.01,Pix,0,1,,25/01/2022,Não
+5,44.0,F,33,Bronze,"R$ 53,77",Boleto,1,0,5.0,2021-12-13,Não
+1833,54.0,F,20,Prata,"R$ 88,31",Boleto,1,0,4.0,2022-01-30,N
+1392,50.0,Feminino,21,BRONZE,49.81,Pix,2,1,3.0,2021-12-02,S
+689,,fem,11,BRONZE,48.36,Pix,2,0,3.0,2021-01-21,Sim
+1647,39.0,masc,55,prata,"R$ 67,77",Cartão de Crédito,0,0,2.0,2022-08-03,N
+701,50.0,fem,37,bronze,51.25,Cartão de Crédito,1,2,,26/01/2023,No
+1919,45.0,F,15,BRONZE,"R$ 42,69",  Cartão de Crédito ,0,0,2.0,2023-08-15,0
+1139,64.0,masculino,61,BRONZE,"R$ 39,60",Pix,1,0,3.0,28/04/2021,0
+1125,70.0,fem,31,Prata,80.4,Cartão de Crédito,2,1,1.0,2021-12-12,Yes
+1193,28.0,masculino,57,ouro,154.22,Cartão de Crédito,1,3,2.0,2021-10-22,Sim
+1538,24.0,M,38,Prata,88.6,Cartão de Crédito,1,8,5.0,23/08/2023,Não
+706,53.0,M,62,Prata,84.43,Cartão de Crédito,1,4,3.0,30/05/2024,não
+82,45.0,M,26,BRONZE,41.22,Pix,0,4,4.0,2022-08-06,N
+1738,24.0,masc,34,PRATA,87.59,Pix,2,1,4.0,2022-10-24,não
+922,53.0,,71,BRONZE,"R$ 52,07",Cartão de Crédito,4,1,4.0,2021-02-10,No
+453,48.0,fem,71,OURO,146.01,  Pix ,2,4,5.0,2021-04-01,No
+1151,40.0,masc,12,BRONZE,"R$ 44,73",,4,1,2.0,2024-08-31,sim
+454,19.0,masc,27,PRATA,"R$ 96,93",Cartão de Crédito,0,0,4.0,2021-02-02,Não
+1682,18.0,masc,16,Ouro,155.57,Pix,2,0,4.0,2021-10-03,N
+1423,54.0,masc,24,prata,93.78,Cartão de Crédito,1,1,4.0,2024-04-06,No
+2153,71.0,fem,40,PRATA,101.71,Pix,0,6,4.0,09/09/2023,não
+1645,26.0,feminino,66,Ouro,148.13,Boleto,2,0,4.0,2024-05-06,Não
+331,51.0,Masculino,66,prata,96.3,  Boleto ,3,2,3.0,2024-10-08,1
+110,61.0,F,38,OURO,"R$ 155,73",Pix,2,2,5.0,05/07/2023,No
+1079,43.0,Masculino,71,bronze,52.18,Boleto,0,0,5.0,05/01/2022,não
+1479,32.0,M,39,bronze,47.54,,3,0,3.0,2023-09-27,S
+1274,59.0,,63,bronze,51.92,Cartão de Crédito,1,1,2.0,12/05/2021,não
+528,26.0,F,3,BRONZE,"R$ 51,06",Pix,4,1,4.0,2024-09-05,S
+1043,43.0,Masculino,64,ouro,169.05,Pix,1,1,4.0,23/05/2023,N
+1751,75.0,Masculino,27,bronze,"R$ 40,73",Boleto,0,3,3.0,2022-12-03,sim
+312,59.0,F,61,bronze,35.88,Boleto,1,4,4.0,2021-05-01,não
+705,26.0,Masculino,47,BRONZE,42.6,Boleto,0,0,2.0,21/04/2021,N
+20,45.0,fem,14,BRONZE,49.9,Cartão de Crédito,2,0,2.0,2023-05-28,Yes
+1658,72.0,feminino,2,bronze,43.35,Cartão de Crédito,0,1,2.0,12/12/2022,Yes
+358,73.0,fem,62,Bronze,46.16,  Cartão de Crédito ,2,4,,29/07/2024,0
+361,70.0,Masculino,41,Prata,"R$ 90,56",Pix,1,0,3.0,30/10/2024,N
+1735,71.0,Feminino,14,PRATA,"R$ 102,96",Pix,2,0,3.0,2022-10-19,S
+929,43.0,Masculino,36,PRATA,93.1,Boleto,0,2,4.0,2022-10-05,Não
+2115,,fem,54,BRONZE,"R$ 45,58",Cartão de Crédito,2,0,4.0,07/07/2024,No
+393,40.0,Feminino,38,prata,,Cartão de Crédito,2,7,,03/01/2021,Yes
+1452,20.0,M,6,bronze,39.11,Pix,1,10,3.0,04/05/2023,não
+741,68.0,Feminino,51,ouro,153.83,Cartão de Crédito,2,6,5.0,2024-01-04,No
+223,61.0,fem,8,prata,"R$ 76,09",Cartão de Crédito,3,8,2.0,2023-10-08,não
+1123,34.0,fem,56,PRATA,"R$ 80,31",Boleto,0,0,2.0,25/09/2022,1
+1086,70.0,Masculino,34,prata,,Boleto,0,4,5.0,2023-05-16,N
+1325,71.0,Feminino,21,prata,91.52,Boleto,1,0,3.0,24/06/2021,N
+1023,,F,56,Prata,"R$ 92,03",Pix,0,11,4.0,17/01/2023,N
+398,30.0,feminino,52,Bronze,44.03,Cartão de Crédito,0,0,3.0,07/05/2023,0
+736,59.0,masc,17,prata,,Pix,2,1,4.0,10/08/2023,0
+314,35.0,Feminino,54,BRONZE,45.78,Pix,1,2,,11/06/2022,No
+288,53.0,M,4,Ouro,157.64,Cartão de Crédito,2,0,5.0,08/04/2023,sim
+1464,21.0,F,69,PRATA,109.29,Pix,1,0,2.0,2023-01-10,não
+1775,65.0,masculino,7,bronze,"R$ 34,34",Cartão de Crédito,1,0,5.0,16/02/2024,N
+1414,67.0,masc,6,ouro,166.94,  Boleto ,1,5,5.0,21/02/2021,0
+439,23.0,Feminino,11,Ouro,159.97,Cartão de Crédito,2,0,4.0,2021-01-20,sim
+971,36.0,M,45,OURO,143.97,Cartão de Crédito,1,3,2.0,27/08/2023,S
+984,58.0,Feminino,5,BRONZE,32.79,  Cartão de Crédito ,2,1,4.0,2022-07-05,Sim
+667,49.0,Masculino,23,bronze,"R$ 41,10",Boleto,2,1,4.0,15/08/2023,Não
+1872,30.0,feminino,56,PRATA,89.47,Cartão de Crédito,0,0,,2021-06-08,não
+18,25.0,feminino,71,OURO,159.77,Pix,2,0,3.0,2024-05-14,Não
+858,21.0,masculino,11,bronze,50.29,  Pix ,1,2,5.0,29/02/2024,0
+1766,75.0,M,61,bronze,,Cartão de Crédito,1,0,4.0,19/10/2021,Não
+282,48.0,M,62,BRONZE,41.18,Pix,1,1,4.0,18/10/2024,não
+719,32.0,,61,Bronze,41.65,  Cartão de Crédito ,1,0,4.0,01/06/2021,N
+352,20.0,Masculino,23,Prata,91.36,  Cartão de Crédito ,2,0,3.0,2023-12-30,Não
+1187,26.0,M,55,Prata,"R$ 101,34",Boleto,1,6,3.0,09/04/2021,No
+1422,,F,16,Bronze,"R$ 53,29",Boleto,2,1,3.0,30/04/2023,não
+849,68.0,masc,13,Ouro,160.9,Pix,1,11,4.0,08/01/2024,não
+43,61.0,masculino,33,Bronze,"R$ 43,00",Pix,2,1,,15/12/2023,Sim
+2186,35.0,masculino,52,OURO,,Cartão de Crédito,0,1,2.0,2023-01-26,1
+102,30.0,,11,prata,81.89,Boleto,2,1,4.0,01/07/2024,Sim
+276,47.0,M,31,bronze,,Pix,0,1,4.0,2024-10-16,N
+287,27.0,Masculino,18,prata,100.3,Boleto,1,2,2.0,19/08/2024,1
+447,37.0,Masculino,41,prata,89.37,  Pix ,1,2,,02/02/2022,No
+1898,72.0,masc,11,Prata,86.35,  Boleto ,0,0,4.0,05/02/2023,Não
+250,20.0,M,13,PRATA,68.45,Pix,1,1,5.0,2022-11-05,não
+135,,fem,40,Bronze,31.76,  Cartão de Crédito ,0,3,5.0,2022-07-23,0
+575,18.0,feminino,39,PRATA,,  Boleto ,0,0,3.0,26/02/2023,Yes
+1687,44.0,fem,6,Ouro,"R$ 165,64",Boleto,2,1,5.0,23/05/2024,No
+595,37.0,feminino,5,OURO,148.26,Cartão de Crédito,3,2,3.0,2023-03-15,N
+2096,66.0,Masculino,71,Bronze,"R$ 48,08",Pix,1,3,4.0,19/06/2022,não
+573,35.0,masculino,15,Ouro,160.77,Pix,0,2,,21/05/2022,Não
+1908,27.0,feminino,60,Prata,,  Boleto ,0,3,2.0,15/10/2024,Yes
+411,28.0,Feminino,69,Ouro,157.21,Pix,1,5,4.0,03/10/2023,não
+1698,27.0,Feminino,2,Bronze,37.27,Pix,3,3,5.0,2024-08-22,sim
+1040,69.0,masc,3,BRONZE,51.37,  Pix ,1,1,1.0,2024-08-22,sim
+605,69.0,Feminino,13,BRONZE,45.56,Cartão de Crédito,1,0,3.0,04/06/2024,Não
+1593,41.0,F,19,BRONZE,43.12,Cartão de Crédito,0,5,5.0,12/05/2021,N
+1975,52.0,,29,Prata,73.77,Cartão de Crédito,1,0,,2024-10-02,No
+702,56.0,Feminino,57,Ouro,160.4,Cartão de Crédito,0,4,1.0,24/06/2024,S
+670,26.0,M,15,bronze,41.72,Cartão de Crédito,3,1,,2023-02-14,S
+1190,18.0,Feminino,49,Bronze,60.27,Cartão de Crédito,0,0,4.0,06/04/2024,0
+325,78.0,masculino,5,Ouro,,Cartão de Crédito,1,1,3.0,30/06/2024,Yes
+2061,73.0,fem,17,OURO,165.87,  Boleto ,1,3,5.0,25/12/2023,0
+541,61.0,Feminino,14,BRONZE,36.86,Pix,1,0,1.0,2023-06-13,S
+356,79.0,,8,PRATA,93.41,Boleto,3,0,2.0,2023-06-12,1
+494,55.0,feminino,31,ouro,146.19,Cartão de Crédito,0,8,3.0,2022-06-17,No
+360,64.0,fem,42,BRONZE,"R$ 38,06",Cartão de Crédito,0,0,3.0,01/01/2021,Não
+2085,26.0,Feminino,9,Ouro,"R$ 152,84",Pix,2,1,4.0,2021-07-03,0
+225,62.0,Feminino,25,ouro,"R$ 162,55",Pix,1,0,4.0,2024-01-05,No
+1148,65.0,masculino,10,Prata,99.29,Pix,1,0,4.0,28/06/2024,Não
+1330,39.0,Masculino,9,PRATA,93.22,  Cartão de Crédito ,1,0,3.0,2021-12-30,não
+1103,,feminino,43,bronze,,Cartão de Crédito,0,0,3.0,2023-04-24,não
+841,35.0,masculino,29,BRONZE,48.69,Pix,1,3,3.0,2021-04-15,Sim
+1679,75.0,F,13,bronze,45.03,Cartão de Crédito,0,4,2.0,2022-08-22,não
+4,45.0,,24,BRONZE,41.45,Cartão de Crédito,1,0,5.0,2024-02-12,não
+216,34.0,Feminino,35,bronze,"R$ 55,18",Cartão de Crédito,2,4,4.0,06/04/2023,0
+99,57.0,,16,bronze,47.0,Pix,0,0,2.0,2024-01-07,No
+730,58.0,Masculino,47,PRATA,89.03,Boleto,0,1,3.0,08/04/2022,0
+1516,75.0,feminino,21,OURO,164.58,Cartão de Crédito,1,0,3.0,29/03/2023,Não
+1150,70.0,M,56,bronze,32.18,Pix,0,3,3.0,30/12/2023,No
+2150,70.0,fem,25,OURO,"R$ 172,98",Boleto,0,1,3.0,2022-04-18,No
+2127,37.0,fem,61,BRONZE,46.64,Boleto,1,0,2.0,10/02/2023,Sim
+2170,78.0,feminino,38,bronze,50.38,Cartão de Crédito,2,0,3.0,2023-06-02,N
+2067,62.0,Feminino,25,Bronze,45.28,  Pix ,1,2,4.0,13/07/2023,Não
+168,28.0,F,13,Bronze,"R$ 52,89",Cartão de Crédito,0,0,3.0,13/08/2021,Não
+1567,78.0,F,49,prata,93.86,Cartão de Crédito,1,0,4.0,29/04/2021,0
+1581,36.0,masculino,4,BRONZE,39.82,Cartão de Crédito,2,0,4.0,2021-02-15,Não
+493,64.0,Masculino,65,Ouro,,Boleto,1,1,4.0,04/10/2022,não
+456,52.0,masculino,41,OURO,164.04,Cartão de Crédito,1,4,3.0,2021-10-11,0
+1739,18.0,,52,Prata,,Boleto,2,0,4.0,2021-11-26,não
+1616,28.0,Feminino,6,bronze,49.59,Pix,1,2,4.0,28/06/2021,não
+522,27.0,F,48,ouro,164.64,Cartão de Crédito,0,1,1.0,2023-12-28,Não
+1607,27.0,masc,8,PRATA,91.08,Cartão de Crédito,6,2,2.0,2022-07-16,Yes
+2122,,masc,32,Prata,105.13,Pix,0,5,4.0,23/12/2021,não
+14,65.0,M,9,PRATA,92.61,  Cartão de Crédito ,0,1,,2021-02-21,não
+390,27.0,F,25,BRONZE,34.73,Cartão de Crédito,2,0,,03/08/2024,0
+1304,73.0,feminino,15,Prata,103.52,Cartão de Crédito,4,1,3.0,2021-04-18,0
+1533,75.0,masculino,29,prata,85.69,Cartão de Crédito,1,0,3.0,2023-02-10,No
+1335,51.0,Masculino,7,PRATA,102.16,Boleto,0,2,3.0,13/08/2023,não
+1514,38.0,masc,16,prata,105.14,Pix,2,0,,16/02/2024,não
+607,38.0,fem,21,BRONZE,46.46,Boleto,2,5,2.0,11/05/2021,1
+1438,58.0,fem,36,BRONZE,42.31,Pix,2,7,4.0,2024-08-18,N
+1035,22.0,Feminino,41,Bronze,48.19,Pix,2,4,4.0,07/06/2023,1
+1184,45.0,masc,65,PRATA,"R$ 95,36",Cartão de Crédito,0,1,5.0,2024-05-23,No
+1042,71.0,Feminino,15,prata,92.52,Cartão de Crédito,2,0,3.0,14/12/2023,N
+1209,35.0,M,47,Prata,82.44,Cartão de Crédito,2,3,5.0,2022-09-18,No
+824,58.0,masculino,15,prata,91.37,Cartão de Crédito,1,2,,2021-04-22,0
+502,58.0,Feminino,57,Prata,86.42,Pix,0,2,3.0,2021-01-16,não
+2094,30.0,Masculino,7,PRATA,"R$ 89,44",Cartão de Crédito,1,1,5.0,2021-05-19,Não
+1868,65.0,Masculino,30,PRATA,102.91,Cartão de Crédito,0,0,3.0,2024-06-07,0
+429,19.0,Masculino,44,Bronze,54.04,Pix,2,3,3.0,2021-11-20,1
+994,44.0,Masculino,14,prata,93.84,Cartão de Crédito,1,0,3.0,31/07/2022,No
+1391,36.0,Feminino,8,OURO,170.97,Pix,5,1,3.0,26/07/2024,0
+1810,77.0,masc,9,prata,"R$ 87,90",Cartão de Crédito,0,5,3.0,2024-01-02,0
+26,57.0,M,44,BRONZE,33.03,Pix,2,0,3.0,2022-12-08,0
+1049,59.0,F,10,ouro,154.65,Cartão de Crédito,0,0,5.0,09/12/2021,No
+1976,21.0,M,25,Prata,"R$ 94,29",Cartão de Crédito,1,4,4.0,2024-10-06,não
+692,67.0,M,41,ouro,156.04,Pix,3,3,3.0,2021-05-01,0
+1922,51.0,feminino,68,Prata,,  Cartão de Crédito ,2,1,,20/09/2021,N
+1239,36.0,Masculino,67,BRONZE,"R$ 35,76",Pix,0,2,,15/02/2024,S
+116,53.0,masculino,1,Bronze,50.97,Cartão de Crédito,2,0,5.0,2022-07-31,Sim
+1960,29.0,masc,3,BRONZE,35.72,Cartão de Crédito,0,3,5.0,14/01/2023,1
+2020,46.0,F,12,Prata,"R$ 89,50",Cartão de Crédito,2,2,1.0,03/06/2021,Yes
+371,38.0,Feminino,57,BRONZE,51.36,Pix,0,6,3.0,2024-04-09,No
+1544,53.0,Feminino,32,prata,,Pix,0,1,,2021-11-18,0
+1335,51.0,Masculino,7,PRATA,102.16,  Boleto ,0,2,3.0,13/08/2023,não
+1772,41.0,Masculino,66,bronze,35.78,Pix,0,4,3.0,2024-09-04,No
+859,59.0,F,28,Bronze,37.99,Cartão de Crédito,2,0,3.0,08/11/2022,N
+97,32.0,,12,prata,82.61,Pix,0,4,3.0,21/02/2021,0
+2059,42.0,Masculino,43,ouro,"R$ 158,49",Pix,1,0,4.0,2024-03-20,Não
+587,60.0,masculino,21,PRATA,"R$ 87,77",Pix,1,2,3.0,2021-12-23,0
+861,78.0,feminino,18,PRATA,"R$ 93,96",  Cartão de Crédito ,0,0,3.0,12/02/2023,não
+612,46.0,feminino,21,ouro,155.9,Cartão de Crédito,1,1,4.0,2024-10-11,Não
+1799,47.0,masc,52,bronze,53.14,Boleto,0,4,3.0,21/02/2022,0
+1785,63.0,masc,61,bronze,27.38,Pix,0,1,3.0,29/11/2022,Não
+2113,74.0,masculino,25,Bronze,39.81,Pix,2,0,4.0,15/07/2023,Não
+1498,66.0,feminino,30,Bronze,"R$ 37,05",Cartão de Crédito,0,1,4.0,2024-03-09,No
+1602,63.0,fem,42,bronze,48.47,Boleto,1,6,,2024-09-04,sim
+512,64.0,M,2,Bronze,40.45,  Cartão de Crédito ,2,0,3.0,2023-04-16,1
+1681,76.0,Feminino,62,prata,85.48,Pix,1,3,4.0,05/01/2022,No
+566,32.0,masc,38,ouro,165.33,Cartão de Crédito,0,5,4.0,20/03/2024,No
+1927,40.0,masculino,4,PRATA,"R$ 96,07",Cartão de Crédito,1,1,3.0,2021-10-17,1
+119,33.0,Masculino,61,Prata,83.07,Cartão de Crédito,2,5,,2023-11-16,N
+506,46.0,Feminino,21,PRATA,89.89,Pix,1,4,3.0,2023-07-26,Sim
+1305,55.0,masculino,2,prata,100.74,Cartão de Crédito,2,0,,15/10/2024,0
+1157,25.0,Masculino,5,PRATA,81.76,Pix,0,0,4.0,2024-10-14,0
+22,40.0,Feminino,11,PRATA,82.42,Boleto,1,3,4.0,31/05/2024,N
+501,25.0,M,63,prata,"R$ 96,77",  Pix ,0,3,4.0,21/04/2024,N
+1754,42.0,,33,PRATA,,Cartão de Crédito,0,3,3.0,02/03/2022,não
+1319,45.0,masculino,49,Prata,86.87,  Boleto ,0,1,2.0,08/10/2022,1
+1200,56.0,Masculino,52,Prata,"R$ 85,19",Pix,1,2,4.0,03/07/2021,0
+1302,42.0,M,46,Prata,92.31,Pix,0,0,3.0,2024-02-22,Não
+165,43.0,Feminino,54,prata,89.57,Pix,1,2,3.0,04/03/2023,0
+842,58.0,feminino,21,Ouro,155.35,Boleto,1,0,,10/07/2023,não
+1777,38.0,feminino,46,Bronze,"R$ 47,32",Cartão de Crédito,1,2,3.0,2021-01-07,S
+2092,38.0,Masculino,66,bronze,40.71,Cartão de Crédito,1,8,4.0,29/04/2024,S
+1278,65.0,masculino,38,ouro,169.0,Pix,0,0,5.0,22/09/2022,0
+1856,70.0,feminino,27,Ouro,150.56,Pix,0,0,,08/05/2021,N
+1713,72.0,Masculino,14,ouro,163.29,  Boleto ,1,2,4.0,14/01/2022,Não
+1912,73.0,masc,35,OURO,"R$ 168,21",Cartão de Crédito,0,1,3.0,25/09/2022,não
+379,41.0,feminino,69,bronze,"R$ 55,57",Cartão de Crédito,1,0,,2021-06-27,Não
+64,77.0,,37,bronze,47.82,Pix,0,0,3.0,10/08/2021,0
+717,50.0,masc,45,BRONZE,58.4,Cartão de Crédito,2,0,3.0,31/08/2021,não
+906,61.0,fem,22,Prata,"R$ 82,51",  Pix ,1,9,3.0,2022-07-15,S
+699,21.0,F,57,PRATA,98.62,Boleto,0,1,2.0,2023-10-15,Não
+1068,57.0,Feminino,50,prata,92.33,Cartão de Crédito,2,2,3.0,06/05/2021,Não
+295,51.0,Masculino,30,Ouro,172.37,Boleto,0,1,3.0,2021-11-28,não
+1660,33.0,fem,32,bronze,"R$ 37,71",Boleto,1,0,4.0,31/03/2024,N
+1258,52.0,masc,3,Ouro,158.62,Boleto,2,0,5.0,11/11/2021,Não
+316,,M,59,ouro,,Boleto,1,1,2.0,2021-07-06,S
+529,74.0,M,42,BRONZE,39.8,Pix,1,0,,2021-09-25,0
+131,53.0,F,5,PRATA,78.88,Pix,0,1,3.0,27/03/2023,N
+1287,74.0,Masculino,25,Prata,,  Pix ,3,4,3.0,11/12/2023,Yes
+190,36.0,masc,62,bronze,58.55,Cartão de Crédito,1,2,4.0,2024-09-06,No
+28,69.0,fem,67,Bronze,37.53,Boleto,1,0,3.0,22/04/2024,0
+1165,50.0,,12,BRONZE,43.71,Cartão de Crédito,0,2,5.0,2022-02-26,No
+650,70.0,M,26,bronze,"R$ 56,08",Cartão de Crédito,1,3,2.0,2021-09-24,Não
+2021,36.0,masculino,8,bronze,40.74,Cartão de Crédito,4,0,3.0,31/01/2023,N
+1096,22.0,Masculino,57,Ouro,147.05,Cartão de Crédito,4,0,4.0,18/08/2024,No
+1667,64.0,Feminino,38,PRATA,89.46,Pix,1,2,4.0,02/09/2023,Sim
+1684,67.0,Masculino,33,Prata,84.0,Cartão de Crédito,3,0,3.0,2022-11-22,No
+1937,41.0,Masculino,70,PRATA,"R$ 104,47",Cartão de Crédito,0,0,4.0,13/12/2023,0
+1965,68.0,feminino,51,prata,93.82,Boleto,2,2,3.0,2022-07-13,S
+977,162.0,F,44,OURO,164.72,Boleto,0,3,3.0,2023-12-06,Não
+322,24.0,M,4,Prata,111.85,Pix,1,0,2.0,02/06/2021,Sim
+1873,55.0,fem,60,Bronze,61.67,Boleto,2,0,4.0,2021-10-03,Não
+1397,56.0,masc,25,OURO,"R$ 171,50",  Cartão de Crédito ,1,0,5.0,2021-12-16,No
+2097,76.0,fem,32,bronze,44.92,Cartão de Crédito,2,1,3.0,2021-08-11,Yes
+267,45.0,fem,22,Ouro,158.18,  Pix ,2,1,2.0,05/07/2022,não
+1486,71.0,fem,11,bronze,35.53,Pix,1,0,5.0,2022-08-18,Não
+586,,masc,9,prata,"R$ 84,97",Pix,1,1,4.0,2021-04-20,não
+711,60.0,masculino,8,Prata,"R$ 93,40",Cartão de Crédito,2,2,2.0,10/04/2023,N
+1347,71.0,masculino,30,prata,104.0,Pix,0,0,3.0,2021-06-06,Não
+1620,79.0,Masculino,64,ouro,160.47,Cartão de Crédito,2,0,5.0,03/04/2022,Não
+1929,29.0,Feminino,39,Prata,87.62,Pix,0,0,5.0,13/11/2022,No
+76,47.0,Masculino,31,bronze,"R$ 35,91",Pix,2,0,2.0,24/12/2023,sim
+1721,23.0,feminino,67,Bronze,"R$ 32,91",Cartão de Crédito,2,1,3.0,2024-01-15,sim
+2167,37.0,Masculino,12,PRATA,96.05,Pix,0,4,,2022-12-12,No
+220,73.0,fem,30,ouro,166.47,Boleto,2,1,4.0,29/06/2022,não
+1491,35.0,fem,29,bronze,37.7,Boleto,2,0,2.0,29/02/2024,Sim
+303,18.0,fem,54,OURO,175.12,Cartão de Crédito,0,1,3.0,2024-01-21,Não
+572,43.0,fem,3,prata,107.23,Cartão de Crédito,2,0,1.0,2024-08-12,Yes
+1600,61.0,feminino,4,BRONZE,"R$ 49,61",  Pix ,0,1,3.0,2021-08-20,1
+1232,63.0,M,55,prata,88.18,Pix,1,4,5.0,2021-10-04,Não
+631,63.0,M,66,Bronze,47.58,Boleto,1,1,3.0,2022-05-13,S
+1524,27.0,masc,71,Bronze,41.94,Pix,0,0,5.0,2023-01-26,Não
+1916,50.0,M,34,bronze,52.95,Pix,0,1,5.0,13/10/2023,não
+1848,51.0,feminino,18,Bronze,,Pix,1,1,4.0,02/05/2023,0
+1574,68.0,masculino,10,OURO,161.42,  Pix ,1,3,4.0,02/04/2021,Não
+1262,75.0,feminino,68,prata,"R$ 85,37",Cartão de Crédito,5,4,4.0,2023-05-13,1
+181,76.0,F,13,ouro,155.87,Cartão de Crédito,1,0,2.0,2024-05-28,0
+1797,78.0,masc,2,bronze,40.85,Pix,1,0,4.0,2022-10-20,1
+937,27.0,F,42,OURO,176.36,Boleto,5,1,3.0,2023-03-02,No
+1442,49.0,feminino,66,BRONZE,30.75,Cartão de Crédito,2,0,,23/07/2022,Sim
+1852,33.0,F,28,Prata,73.52,Boleto,1,1,4.0,2022-08-09,não
+377,63.0,fem,20,PRATA,"R$ 91,21",Cartão de Crédito,2,0,3.0,31/07/2022,Sim
+934,58.0,masc,6,BRONZE,51.94,Pix,5,0,5.0,2023-08-03,não
+732,43.0,Masculino,48,Bronze,51.6,,0,3,3.0,2024-10-02,No
+24,,Masculino,31,Bronze,"R$ 39,27",Pix,1,0,4.0,23/06/2022,Sim
+1587,69.0,Feminino,13,ouro,159.52,Cartão de Crédito,1,0,4.0,2021-11-21,No
+684,77.0,F,4,bronze,49.69,Cartão de Crédito,0,0,3.0,2021-06-18,sim
+886,63.0,M,26,BRONZE,44.52,Boleto,1,2,3.0,2022-01-13,N
+347,79.0,F,57,Ouro,159.85,  Boleto ,2,4,4.0,2022-11-25,Não
+1962,79.0,Feminino,28,Bronze,36.08,Cartão de Crédito,1,0,2.0,2022-12-09,sim
+644,47.0,Feminino,35,bronze,,Cartão de Crédito,2,3,5.0,19/07/2021,No
+2010,57.0,masc,44,BRONZE,,Cartão de Crédito,2,0,5.0,05/02/2024,No
+2187,36.0,F,19,BRONZE,58.79,Cartão de Crédito,3,1,4.0,09/10/2024,S
+9,30.0,fem,17,Bronze,45.0,Pix,1,1,3.0,06/10/2021,Não
+2157,45.0,F,69,ouro,"R$ 162,65",  Pix ,3,3,2.0,2023-02-25,S
+229,51.0,M,54,Prata,80.5,Cartão de Crédito,0,2,4.0,2023-08-20,não
+490,55.0,feminino,70,PRATA,79.45,Boleto,1,2,4.0,12/09/2024,Não
+214,45.0,fem,43,prata,87.9,Pix,2,9,3.0,2024-10-23,1
+1328,23.0,Masculino,7,bronze,41.12,Cartão de Crédito,1,1,3.0,2023-01-26,0
+1974,39.0,F,26,Bronze,47.99,Pix,0,7,3.0,24/10/2022,N
+1701,34.0,M,37,BRONZE,57.91,,1,1,2.0,2022-05-03,N
+1233,78.0,M,15,Ouro,"R$ 159,70",Cartão de Crédito,3,2,5.0,02/09/2023,N
+450,35.0,F,24,OURO,166.03,  Boleto ,1,0,5.0,28/11/2023,N
+1628,54.0,M,40,BRONZE,"R$ 34,92",Pix,1,2,,03/06/2022,N
+16,66.0,F,28,bronze,45.35,Pix,0,0,3.0,21/02/2022,0
+1765,53.0,M,15,Bronze,38.04,Pix,1,2,4.0,2023-10-14,Não
+2081,69.0,Masculino,35,bronze,,Pix,3,2,3.0,2022-12-13,1
+1277,58.0,masculino,39,Ouro,164.97,Cartão de Crédito,0,0,2.0,2024-07-22,0
+1678,43.0,Feminino,18,OURO,170.44,Pix,1,4,,2022-06-09,No
+1129,52.0,fem,28,PRATA,,Pix,3,5,,2024-03-24,Yes
+1121,18.0,masculino,7,Bronze,52.67,Boleto,2,6,2.0,21/08/2022,No
+547,44.0,M,16,bronze,35.89,Pix,0,3,2.0,2023-12-28,sim
+728,23.0,masc,23,PRATA,86.59,Cartão de Crédito,2,0,,31/12/2021,não
+1433,28.0,masculino,3,Prata,79.32,Pix,1,0,4.0,26/07/2022,Não
+2098,71.0,feminino,55,Prata,105.31,Cartão de Crédito,0,0,5.0,24/06/2023,não
+355,78.0,fem,70,BRONZE,52.94,Pix,5,2,3.0,05/09/2021,1
+281,35.0,F,47,PRATA,70.49,Pix,0,0,4.0,30/01/2021,N
+208,78.0,masc,51,Bronze,"R$ 39,39",Pix,2,2,4.0,28/03/2024,N
+1807,18.0,F,18,PRATA,103.94,Boleto,1,0,2.0,2024-04-04,Yes
+769,26.0,Masculino,52,PRATA,92.86,Cartão de Crédito,2,1,3.0,02/06/2021,0
+1948,74.0,Masculino,61,prata,102.41,Pix,0,3,3.0,2021-04-21,não
+1759,53.0,Feminino,7,BRONZE,50.16,Boleto,2,3,4.0,2021-11-01,N
+1308,32.0,feminino,58,Ouro,159.3,Pix,0,1,4.0,2022-05-06,N
+417,78.0,M,71,bronze,37.94,Boleto,0,2,1.0,2023-07-27,1
+1707,78.0,M,51,OURO,"R$ 164,85",Pix,0,1,5.0,03/11/2022,0
+1272,24.0,masc,53,BRONZE,,Cartão de Crédito,1,0,,05/10/2023,N
+2196,68.0,fem,37,bronze,36.24,Cartão de Crédito,3,1,3.0,02/06/2024,Sim
+998,40.0,F,58,BRONZE,45.82,Pix,2,0,3.0,08/01/2021,No
+443,26.0,Feminino,15,prata,89.62,Pix,0,6,3.0,21/03/2024,0
+1313,66.0,masc,10,Ouro,"R$ 163,76",Boleto,0,3,5.0,2023-01-20,0
+1855,24.0,masc,1,OURO,"R$ 153,59",Cartão de Crédito,2,2,3.0,26/01/2022,S
+869,45.0,masculino,11,prata,84.41,Cartão de Crédito,1,0,3.0,2022-05-15,não
+537,46.0,fem,41,Bronze,38.51,Cartão de Crédito,0,0,4.0,2024-05-06,N
+2158,57.0,masc,19,BRONZE,44.83,Pix,1,0,4.0,2022-07-30,Yes
+784,25.0,Masculino,59,Prata,82.13,Pix,1,4,4.0,2023-04-04,N
+349,29.0,masc,34,bronze,38.32,Pix,3,0,2.0,2023-04-03,0
+1569,74.0,Masculino,58,Prata,"R$ 76,81",Pix,1,1,2.0,2023-09-04,não
+404,78.0,Feminino,40,Prata,96.34,Pix,1,3,4.0,20/01/2023,0
+363,31.0,feminino,48,Prata,82.44,Cartão de Crédito,0,0,5.0,2024-06-24,No
+755,52.0,masc,20,prata,"R$ 91,19",  Cartão de Crédito ,2,0,3.0,2021-12-04,S
+798,46.0,M,25,BRONZE,49.07,Cartão de Crédito,0,2,4.0,23/06/2021,Não
+27,42.0,feminino,63,Prata,90.93,Cartão de Crédito,1,0,4.0,2024-06-15,não
+1623,75.0,feminino,39,prata,87.65,  Boleto ,3,0,5.0,2023-01-03,Não
+1404,37.0,masc,45,bronze,42.77,Cartão de Crédito,0,4,3.0,2024-08-09,Não
+178,27.0,masculino,10,Prata,84.57,Pix,2,0,,16/01/2021,0
+357,27.0,fem,57,Bronze,41.42,Boleto,0,0,5.0,26/08/2022,No
+1124,33.0,M,46,ouro,167.54,Pix,1,7,3.0,08/06/2022,sim
+884,27.0,masc,18,prata,"R$ 84,65",Cartão de Crédito,1,1,4.0,2021-06-23,No
+962,43.0,masc,64,ouro,"R$ 148,10",Boleto,1,2,,2023-11-11,não
+253,143.0,feminino,7,Prata,"R$ 83,45",Pix,2,2,3.0,2022-12-02,0
+733,75.0,masculino,12,Prata,"R$ 74,91",Cartão de Crédito,1,3,2.0,10/04/2023,S
+415,19.0,masc,8,bronze,"R$ 40,51",Boleto,0,1,2.0,2023-01-10,1
+559,,masc,26,Prata,"R$ 99,69",Cartão de Crédito,0,1,2.0,23/04/2024,No
+554,37.0,F,47,BRONZE,"R$ 42,43",Cartão de Crédito,1,0,5.0,2023-07-29,Não
+1911,22.0,fem,1,bronze,"R$ 38,81",Pix,3,1,4.0,18/10/2024,S
+194,161.0,fem,16,Bronze,59.08,Cartão de Crédito,1,0,3.0,18/08/2023,não
+2128,56.0,masculino,31,prata,"R$ 89,61",Cartão de Crédito,0,2,5.0,2023-10-06,0
+1361,,fem,5,Prata,87.34,Pix,2,4,4.0,12/05/2024,1
+2114,74.0,Feminino,7,ouro,174.06,Boleto,0,1,5.0,10/05/2021,não
+1906,33.0,Feminino,33,BRONZE,46.16,Pix,1,3,4.0,2023-06-17,N
+1234,64.0,F,24,Bronze,"R$ 39,25",Boleto,0,0,3.0,2022-09-01,Não
+446,59.0,Masculino,1,OURO,159.16,  Boleto ,2,2,,2021-03-31,1
+1241,49.0,Feminino,68,Bronze,27.32,Cartão de Crédito,1,1,4.0,2022-11-09,Não
+2195,58.0,masculino,37,BRONZE,41.64,Cartão de Crédito,1,1,,2021-02-03,1
+1196,57.0,fem,57,OURO,158.34,,1,0,1.0,26/07/2023,Yes
+1743,46.0,masculino,66,bronze,51.06,Pix,0,0,3.0,05/06/2022,não
+452,75.0,Masculino,63,BRONZE,36.59,Cartão de Crédito,1,1,3.0,2023-01-12,S
+1668,60.0,masc,58,bronze,"R$ 60,26",Cartão de Crédito,1,0,3.0,20/03/2021,N
+465,18.0,masc,16,PRATA,112.86,Cartão de Crédito,3,0,3.0,23/07/2021,No
+721,,M,24,ouro,"R$ 155,92",Pix,0,3,1.0,25/07/2023,sim
+1437,44.0,F,39,ouro,"R$ 160,34",Cartão de Crédito,0,1,3.0,2024-03-17,N
+2148,76.0,M,11,ouro,160.27,Pix,2,0,3.0,2023-04-23,N
+459,70.0,,48,Bronze,40.13,Boleto,1,1,4.0,06/06/2023,0
+1637,28.0,feminino,14,PRATA,"R$ 89,84",Cartão de Crédito,0,4,3.0,2022-01-19,N
+1566,46.0,Masculino,29,prata,81.7,Cartão de Crédito,0,0,,23/01/2023,N
+2112,59.0,F,61,Prata,80.96,  Pix ,0,0,4.0,2024-10-31,Não
+511,79.0,masculino,5,OURO,155.16,Cartão de Crédito,1,0,4.0,2022-10-04,N
+370,65.0,F,66,OURO,170.43,Cartão de Crédito,0,3,5.0,01/01/2022,N
+485,46.0,fem,36,BRONZE,54.82,Pix,0,2,,2024-06-28,1
+1345,29.0,fem,3,BRONZE,30.11,  Pix ,0,1,3.0,2021-08-20,Sim
+1415,54.0,Masculino,54,Prata,64.94,Boleto,0,0,2.0,2022-05-20,No
+308,52.0,M,44,Ouro,159.07,Cartão de Crédito,0,1,4.0,01/03/2022,Não
+286,76.0,feminino,26,BRONZE,46.19,  Pix ,2,5,,13/07/2021,0
+924,26.0,Masculino,44,prata,97.41,Pix,2,3,,17/07/2023,N
+1638,56.0,Feminino,43,bronze,"R$ 32,33",Cartão de Crédito,2,2,3.0,01/04/2023,1
+1545,32.0,fem,18,Bronze,"R$ 42,76",Boleto,1,7,3.0,15/03/2024,S
+1270,21.0,feminino,62,Ouro,,Pix,1,1,5.0,2022-01-24,Não
+1835,43.0,Masculino,31,bronze,,Cartão de Crédito,2,3,,2024-09-17,N
+1480,43.0,masculino,53,Bronze,45.93,Pix,1,3,5.0,2022-09-17,No
+1554,56.0,F,20,prata,98.07,Pix,4,1,4.0,2023-06-06,Yes
+1494,38.0,masculino,24,prata,99.01,Cartão de Crédito,1,5,3.0,21/01/2023,N
+622,47.0,,59,Prata,92.25,  Pix ,0,0,4.0,28/02/2024,não
+2120,61.0,Masculino,4,bronze,55.88,Pix,2,1,3.0,28/12/2021,não
+896,55.0,Masculino,54,Bronze,,Boleto,2,2,4.0,17/04/2022,0
+1189,53.0,feminino,21,BRONZE,"R$ 51,37",  Pix ,1,2,,2022-01-24,Yes
+1854,27.0,F,58,BRONZE,39.87,  Pix ,2,3,4.0,2021-11-05,S
+954,44.0,masc,57,Bronze,,Pix,0,1,5.0,22/01/2021,No
+2064,62.0,M,54,ouro,168.61,Cartão de Crédito,1,3,4.0,25/07/2024,0
+2088,59.0,Feminino,58,Bronze,"R$ 49,10",  Pix ,1,1,5.0,19/12/2023,Não
+1506,33.0,fem,36,BRONZE,50.61,Boleto,0,0,,16/07/2024,Não
+775,70.0,Feminino,2,PRATA,"R$ 89,61",Boleto,3,1,4.0,2022-02-27,Não
+946,25.0,masc,40,PRATA,"R$ 96,31",Pix,2,0,,2023-05-17,Não
+1970,27.0,M,48,prata,93.43,Cartão de Crédito,0,2,2.0,17/09/2024,N
+1418,45.0,,30,BRONZE,"R$ 32,93",Cartão de Crédito,0,0,5.0,2022-08-26,N
+1210,,Masculino,34,Bronze,"R$ 40,89",  Pix ,3,0,3.0,16/02/2023,S
+1497,52.0,,22,bronze,54.0,Pix,2,0,3.0,2021-09-08,No
+1006,75.0,Masculino,49,BRONZE,"R$ 52,91",Boleto,3,3,5.0,2024-06-23,No
+98,60.0,,35,BRONZE,35.7,  Boleto ,0,1,3.0,2024-09-17,1
+1071,59.0,fem,12,Ouro,174.52,Cartão de Crédito,1,1,4.0,01/02/2021,0
+1207,49.0,masc,26,PRATA,"R$ 84,06",  Cartão de Crédito ,0,1,3.0,2023-05-11,0
+2037,54.0,M,68,BRONZE,"R$ 30,73",Pix,1,4,4.0,2021-05-13,0
+140,45.0,fem,7,bronze,41.62,Boleto,3,0,5.0,23/05/2022,Não
+1760,54.0,masculino,16,BRONZE,"R$ 40,71",Cartão de Crédito,1,9,4.0,2023-01-25,sim
+283,59.0,masculino,13,BRONZE,51.09,Pix,1,0,4.0,10/01/2023,N
+1019,20.0,M,71,Bronze,53.58,Boleto,1,0,2.0,2022-07-28,Não
+1617,67.0,F,33,bronze,43.77,Pix,3,0,4.0,18/05/2024,No
+2179,56.0,Masculino,12,OURO,153.02,  Pix ,1,1,2.0,2021-02-10,N
+2071,29.0,fem,57,Ouro,151.97,Cartão de Crédito,1,0,,16/09/2021,No
+1152,49.0,feminino,67,Bronze,55.37,  Pix ,3,0,5.0,2024-03-02,0
+2091,73.0,Feminino,5,bronze,"R$ 32,96",Cartão de Crédito,1,0,2.0,2024-07-09,Yes
+992,52.0,Masculino,49,bronze,52.42,Pix,4,2,3.0,2021-09-20,S
+1877,32.0,Feminino,70,prata,"R$ 80,39",  Cartão de Crédito ,1,0,3.0,21/05/2024,N
+1158,70.0,F,63,Prata,84.2,Cartão de Crédito,1,1,2.0,23/10/2023,Sim
+678,23.0,masc,67,BRONZE,41.43,Boleto,3,1,3.0,10/06/2024,0
+1883,29.0,M,55,PRATA,81.32,Pix,1,3,3.0,11/10/2021,No
+129,53.0,masc,2,Prata,95.82,Pix,2,3,3.0,11/02/2023,1
+1779,37.0,masculino,39,PRATA,,Pix,2,0,5.0,2023-09-18,Não
+956,55.0,,61,Bronze,,Cartão de Crédito,4,3,3.0,2023-01-17,S
+1987,,Masculino,19,bronze,,Boleto,2,2,4.0,2021-07-01,sim
+1510,60.0,Feminino,61,Prata,82.31,Cartão de Crédito,0,1,4.0,2024-02-11,não
+1622,18.0,M,1,Prata,93.62,Pix,1,2,5.0,27/07/2022,Sim
+523,29.0,Masculino,9,BRONZE,"R$ 33,98",Cartão de Crédito,2,1,3.0,07/09/2023,Não
+265,79.0,fem,33,bronze,39.13,  Boleto ,0,3,4.0,2022-09-16,No
+167,37.0,masc,24,bronze,40.06,Pix,1,1,3.0,2023-08-19,No
+1850,28.0,fem,33,prata,85.88,Cartão de Crédito,2,0,,2024-07-21,não
+873,25.0,F,18,Ouro,177.85,  Boleto ,0,2,4.0,2023-05-24,Não
+1897,,fem,39,prata,88.23,  Cartão de Crédito ,1,1,2.0,29/08/2021,1
+888,29.0,F,13,PRATA,81.38,Cartão de Crédito,1,0,2.0,11/10/2021,No
+889,18.0,Feminino,17,PRATA,91.83,  Cartão de Crédito ,0,2,3.0,27/07/2023,No
+1451,36.0,fem,9,Bronze,32.99,Boleto,3,0,3.0,2023-09-12,1
+664,30.0,M,44,BRONZE,,Cartão de Crédito,0,0,,2023-04-30,Não
+796,36.0,fem,45,PRATA,79.28,Pix,0,3,5.0,11/12/2022,Não
+632,38.0,Masculino,57,PRATA,"R$ 101,97",Pix,4,2,5.0,20/12/2023,Não
+499,75.0,M,10,bronze,37.95,Pix,0,0,5.0,24/04/2023,não
+2132,78.0,feminino,20,ouro,169.94,Pix,0,0,4.0,2021-09-02,Não
+1963,26.0,M,40,OURO,152.13,Boleto,0,0,2.0,2024-07-08,0
+1592,39.0,Masculino,13,bronze,52.18,Pix,0,2,3.0,2023-12-03,No
+1978,39.0,F,51,Ouro,159.02,Cartão de Crédito,3,0,,27/12/2023,N
+2149,70.0,fem,55,PRATA,,Boleto,4,4,3.0,2024-08-20,1
+433,69.0,masc,65,Ouro,"R$ 157,39",Cartão de Crédito,3,2,4.0,2024-02-10,não
+1382,35.0,feminino,55,PRATA,91.85,Pix,0,0,3.0,2023-05-24,Não
+1135,56.0,F,6,Bronze,47.52,Cartão de Crédito,1,2,,2022-08-28,Não
+1472,61.0,masc,7,PRATA,89.16,Pix,1,3,3.0,2024-10-28,No
+69,22.0,Feminino,9,PRATA,97.75,Pix,3,1,2.0,07/12/2021,1
+1957,50.0,M,51,Ouro,155.43,Pix,0,1,3.0,29/07/2024,0
+618,34.0,Masculino,62,prata,99.57,Cartão de Crédito,0,1,3.0,07/02/2022,não
+1864,41.0,masculino,37,PRATA,"R$ 92,29",Pix,2,5,3.0,2021-02-22,S
+1427,59.0,F,55,Ouro,185.44,Cartão de Crédito,0,5,4.0,06/09/2023,0
+124,47.0,Masculino,47,Bronze,54.25,Pix,1,1,3.0,2024-01-30,S
+574,21.0,fem,51,BRONZE,35.5,Pix,2,3,4.0,15/07/2023,não
+335,46.0,fem,57,Ouro,"R$ 147,48",Pix,0,1,4.0,02/06/2021,Não
+834,26.0,masc,8,Bronze,"R$ 37,51",Pix,1,1,3.0,29/08/2024,N
+339,30.0,masculino,38,Bronze,35.4,Pix,2,1,3.0,06/04/2021,Sim
+1847,42.0,feminino,33,Bronze,44.66,  Pix ,1,2,2.0,2024-09-17,S
+1508,47.0,M,54,Prata,87.51,Pix,0,4,4.0,14/07/2021,sim
+665,175.0,F,7,bronze,50.01,Pix,0,8,4.0,2022-07-22,No
+384,32.0,M,47,Bronze,"R$ 57,91",Pix,0,0,4.0,2022-04-16,não
+1771,38.0,F,34,OURO,165.75,Pix,2,1,3.0,04/11/2021,N
+919,33.0,Masculino,2,bronze,39.29,Pix,1,0,4.0,2024-09-06,N
+56,20.0,F,49,PRATA,"R$ 90,71",Cartão de Crédito,2,2,4.0,2024-02-15,0
+2175,32.0,M,22,prata,"R$ 91,99",Pix,2,0,3.0,27/08/2024,N
+582,69.0,F,67,Bronze,"R$ 49,18",Boleto,2,0,2.0,2023-08-23,Yes
+1289,24.0,feminino,32,Bronze,46.26,Cartão de Crédito,1,3,1.0,2024-02-03,Yes
+1894,62.0,fem,32,bronze,43.63,Cartão de Crédito,1,0,3.0,17/10/2024,0
+1026,21.0,M,55,ouro,154.76,Cartão de Crédito,0,0,2.0,2023-07-03,sim
+2004,46.0,M,10,Prata,,  Pix ,2,2,5.0,27/03/2022,não
+171,24.0,M,4,prata,87.48,  Cartão de Crédito ,2,2,5.0,04/06/2022,1
+829,71.0,F,16,PRATA,101.85,Cartão de Crédito,3,3,3.0,09/06/2021,Yes
+174,62.0,feminino,29,bronze,47.38,Boleto,2,0,4.0,2022-04-06,Não
+1171,56.0,fem,71,ouro,171.81,Cartão de Crédito,1,2,2.0,24/07/2021,N
+801,18.0,fem,56,Ouro,178.49,Cartão de Crédito,4,1,3.0,2021-04-11,Sim
+856,70.0,F,34,PRATA,90.37,Cartão de Crédito,1,1,4.0,14/06/2022,0
+958,57.0,Masculino,71,Bronze,51.28,Cartão de Crédito,2,2,3.0,2022-12-04,No
+838,30.0,fem,11,bronze,40.68,Cartão de Crédito,6,0,4.0,2021-05-05,sim
+327,32.0,Masculino,34,Ouro,166.77,Cartão de Crédito,0,2,4.0,19/02/2022,No
+504,71.0,M,60,ouro,"R$ 160,20",Pix,4,0,,15/01/2023,Sim
+1204,65.0,Masculino,70,Ouro,156.06,Pix,2,0,5.0,2023-01-08,N
+1492,48.0,F,45,PRATA,"R$ 84,18",Boleto,1,1,4.0,2023-11-19,Não
+1923,69.0,masculino,70,ouro,154.45,  Pix ,2,0,,03/11/2022,N
+410,18.0,masculino,59,bronze,"R$ 48,38",Pix,1,1,4.0,25/09/2024,No
+1133,67.0,fem,18,bronze,63.3,Boleto,1,1,3.0,30/03/2024,sim
+298,45.0,F,64,Bronze,"R$ 51,06",Pix,1,2,2.0,19/04/2021,sim
+926,76.0,F,64,bronze,"R$ 55,83",Cartão de Crédito,1,0,,29/03/2022,1
+1456,22.0,M,35,BRONZE,,Cartão de Crédito,2,0,5.0,2022-12-23,0
+2140,,M,36,OURO,167.21,Pix,1,0,3.0,12/07/2024,Não
+531,55.0,,69,BRONZE,43.04,Boleto,1,1,3.0,2021-07-19,0
+729,48.0,feminino,14,Bronze,24.01,Pix,1,0,2.0,2022-11-03,Não
+1796,30.0,masculino,24,BRONZE,"R$ 42,32",Boleto,0,1,2.0,29/12/2023,Sim
+1730,24.0,fem,53,Ouro,"R$ 160,71",  Cartão de Crédito ,1,0,3.0,31/01/2023,Não
+1039,45.0,M,63,BRONZE,"R$ 36,52",  Pix ,0,1,4.0,2022-06-24,Não
+1803,46.0,fem,3,ouro,"R$ 159,65",Pix,0,1,4.0,26/03/2021,N
+672,56.0,Masculino,70,prata,87.34,Pix,3,1,3.0,11/12/2021,0
+649,77.0,feminino,20,prata,"R$ 105,12",  Pix ,1,5,4.0,2023-05-03,Não
+252,48.0,masc,64,Prata,91.09,Cartão de Crédito,0,5,4.0,2023-09-04,0
+2007,44.0,Feminino,65,Bronze,"R$ 36,36",Cartão de Crédito,1,0,4.0,18/02/2024,Não
+726,25.0,,13,prata,86.79,Cartão de Crédito,2,1,4.0,2022-12-15,1
+2000,35.0,Feminino,17,bronze,"R$ 34,99",Cartão de Crédito,1,0,3.0,2021-11-07,0
+1840,52.0,F,27,OURO,151.53,,0,0,2.0,2024-05-15,não
+202,74.0,Masculino,41,PRATA,91.92,Pix,0,0,1.0,13/10/2021,No
+1694,42.0,Feminino,15,PRATA,"R$ 73,01",Boleto,3,3,3.0,2022-01-31,1
+1388,38.0,Feminino,49,PRATA,"R$ 82,05",Boleto,1,0,4.0,2022-10-09,0
+532,28.0,Feminino,38,Bronze,55.27,Cartão de Crédito,1,0,5.0,21/05/2023,Não
+408,26.0,F,19,Bronze,50.8,Cartão de Crédito,2,0,,2021-04-17,Não
+200,77.0,masc,53,PRATA,86.17,Pix,1,2,3.0,07/10/2022,N
+474,46.0,F,14,PRATA,91.6,Pix,1,2,3.0,06/08/2023,N
+715,75.0,M,29,Prata,79.83,,1,3,3.0,2021-07-18,não
+1314,70.0,,11,ouro,,Boleto,1,0,3.0,2022-12-07,1
+693,75.0,Feminino,26,PRATA,96.62,Cartão de Crédito,1,0,4.0,01/06/2024,0
+1683,20.0,M,41,prata,78.78,Cartão de Crédito,1,0,3.0,29/07/2024,N
+1733,61.0,M,50,Prata,72.38,Pix,0,2,3.0,25/07/2022,No
+1795,47.0,fem,37,BRONZE,"R$ 34,69",Pix,2,2,4.0,17/08/2024,0
+217,22.0,feminino,44,bronze,,,3,0,2.0,01/01/2022,No
+1648,59.0,fem,26,Prata,99.8,Cartão de Crédito,0,4,5.0,2024-09-30,N
+254,38.0,M,34,prata,97.96,  Cartão de Crédito ,2,0,,28/10/2024,não
+153,74.0,masculino,51,BRONZE,45.05,  Cartão de Crédito ,2,1,2.0,04/01/2023,N
+1523,29.0,masc,54,Ouro,"R$ 162,73",Pix,2,0,3.0,18/09/2021,Sim
+1646,36.0,Masculino,34,prata,95.31,Boleto,2,2,3.0,2023-11-30,N
+818,24.0,masc,16,BRONZE,58.17,Pix,1,0,4.0,31/05/2021,0
+1153,44.0,Feminino,8,Bronze,46.29,Pix,0,3,4.0,27/10/2022,N
+1991,50.0,,31,bronze,37.35,  Cartão de Crédito ,2,2,5.0,20/05/2021,não
+985,54.0,Masculino,45,bronze,48.06,Pix,1,0,2.0,2021-06-19,Não
+479,59.0,M,42,prata,95.72,Cartão de Crédito,2,1,5.0,2021-01-25,0
+1496,,Masculino,46,BRONZE,41.46,Cartão de Crédito,2,4,4.0,29/08/2022,Não
+1722,63.0,F,44,Ouro,168.52,Boleto,1,0,2.0,2021-06-12,N
+2185,57.0,M,28,ouro,,Boleto,0,1,2.0,2023-01-31,No
+1181,55.0,masculino,60,bronze,50.08,Cartão de Crédito,0,0,4.0,04/05/2024,Não
+1643,45.0,feminino,40,Prata,"R$ 94,89",Pix,0,1,3.0,31/03/2024,N
+1924,44.0,masculino,19,BRONZE,56.88,Pix,1,2,3.0,2022-06-08,não
+1603,69.0,M,58,BRONZE,48.64,Cartão de Crédito,3,0,4.0,2021-07-20,No
+2051,28.0,fem,30,BRONZE,43.12,  Cartão de Crédito ,0,3,4.0,27/12/2023,N
+1650,69.0,Masculino,16,BRONZE,51.75,Cartão de Crédito,0,0,1.0,2022-11-23,Não
+1944,19.0,Feminino,32,BRONZE,"R$ 54,09",Cartão de Crédito,2,2,4.0,21/06/2022,Não
+1009,63.0,M,30,bronze,59.43,Pix,1,0,2.0,14/02/2021,0
+1839,31.0,F,22,Bronze,44.84,Pix,3,0,2.0,30/08/2024,0
+968,37.0,masculino,20,BRONZE,"R$ 37,12",Boleto,4,1,5.0,2024-01-30,não
+1585,57.0,M,70,Prata,"R$ 87,10",  Cartão de Crédito ,1,1,,2022-10-01,N
+1268,,F,19,Bronze,38.81,Cartão de Crédito,2,1,4.0,16/04/2024,No
+973,47.0,fem,31,PRATA,83.98,Boleto,1,0,5.0,13/02/2024,N
+188,41.0,M,70,bronze,45.47,Pix,0,2,3.0,01/08/2021,1
+247,64.0,fem,55,Bronze,37.27,Pix,2,0,3.0,2022-08-24,N
+1137,62.0,,38,PRATA,98.15,Boleto,1,0,4.0,2024-04-07,N
+1809,23.0,fem,14,BRONZE,"R$ 46,40",  Cartão de Crédito ,2,0,5.0,29/04/2024,não
+284,136.0,Masculino,23,BRONZE,42.18,Pix,0,6,3.0,08/03/2024,0
+1396,54.0,Feminino,21,ouro,157.85,Pix,1,1,2.0,2021-01-17,não
+1134,65.0,feminino,61,Bronze,32.94,Cartão de Crédito,1,2,4.0,2021-06-09,N
+904,72.0,Feminino,32,Prata,92.02,Boleto,1,2,4.0,2023-02-23,N
+1503,32.0,masc,18,prata,93.28,Boleto,1,1,5.0,2023-01-28,não
+976,31.0,masc,40,Bronze,40.05,Cartão de Crédito,1,3,4.0,2021-01-07,N
+2121,65.0,F,47,Ouro,158.86,Cartão de Crédito,1,0,2.0,21/01/2024,No
+123,58.0,feminino,25,bronze,55.87,  Pix ,2,0,3.0,08/12/2022,No
+1484,24.0,M,41,PRATA,87.77,  Boleto ,3,1,1.0,26/07/2021,Yes
+1761,41.0,fem,68,bronze,36.58,Pix,0,0,4.0,18/05/2023,N
+870,20.0,feminino,5,bronze,29.88,Cartão de Crédito,0,5,3.0,2021-10-09,Yes
+1309,43.0,Masculino,5,PRATA,79.91,Cartão de Crédito,1,4,,2022-12-02,Sim
+1257,31.0,fem,54,Ouro,"R$ 154,94",Cartão de Crédito,1,0,4.0,2023-11-01,N
+757,63.0,Masculino,8,BRONZE,,Cartão de Crédito,0,6,5.0,22/04/2023,sim
+68,40.0,Feminino,52,PRATA,72.51,Boleto,0,0,3.0,2024-06-29,No
+1344,53.0,Masculino,55,bronze,"R$ 41,71",Boleto,1,1,4.0,13/03/2023,No
+333,37.0,masc,66,Prata,81.73,Cartão de Crédito,0,7,5.0,2023-09-16,N
+337,77.0,M,24,Prata,80.58,Boleto,4,1,5.0,29/05/2022,Sim
+913,41.0,masc,5,PRATA,79.31,  Cartão de Crédito ,2,0,,03/10/2024,S
+1676,78.0,Feminino,43,BRONZE,43.4,Cartão de Crédito,2,0,,2022-12-08,S
+473,44.0,M,61,Bronze,"R$ 57,81",  Cartão de Crédito ,0,2,3.0,2024-07-29,não
+902,20.0,fem,10,BRONZE,40.2,Cartão de Crédito,0,1,,18/11/2021,0
+1399,19.0,masc,21,ouro,"R$ 177,61",Pix,0,2,5.0,09/11/2023,No
+1914,66.0,Feminino,70,PRATA,85.0,Pix,2,2,3.0,21/06/2024,0
+478,19.0,,63,OURO,158.1,Pix,2,3,4.0,2022-04-01,No
+1341,51.0,feminino,53,OURO,169.21,Pix,0,2,3.0,2024-01-14,No
+2080,25.0,Feminino,60,Prata,75.81,Pix,1,9,3.0,2022-05-20,S
+133,23.0,F,20,ouro,148.05,Cartão de Crédito,3,4,3.0,2024-07-12,S
+2053,40.0,F,70,BRONZE,45.07,Cartão de Crédito,2,8,4.0,03/04/2023,S
+982,61.0,F,14,bronze,41.48,Cartão de Crédito,0,0,4.0,15/01/2024,No
+1624,19.0,masculino,13,Bronze,"R$ 43,06",Cartão de Crédito,0,1,4.0,2022-10-18,No
+257,,feminino,60,prata,92.87,Pix,0,1,3.0,27/04/2021,não
+551,67.0,masc,18,BRONZE,50.04,Cartão de Crédito,2,0,3.0,2023-12-03,sim
+1322,35.0,Feminino,24,OURO,160.25,Boleto,0,5,,05/05/2024,não
+899,22.0,fem,14,BRONZE,"R$ 52,50",Pix,0,0,3.0,2022-04-22,N
+290,47.0,masc,26,PRATA,94.05,Pix,1,0,,25/03/2023,não
+1692,73.0,feminino,66,Prata,"R$ 91,45",  Pix ,1,4,5.0,09/08/2024,No
+778,25.0,F,64,prata,99.91,Pix,2,0,3.0,24/06/2024,sim
+54,46.0,Feminino,36,PRATA,88.4,Pix,3,2,3.0,23/05/2022,0
+558,72.0,M,46,PRATA,"R$ 88,12",  Pix ,1,2,3.0,23/09/2024,0
+41,28.0,F,16,BRONZE,41.23,Pix,1,0,3.0,26/01/2021,não
+1549,48.0,Feminino,66,bronze,50.86,Pix,2,0,4.0,16/09/2024,S
+262,28.0,Masculino,16,PRATA,"R$ 96,33",Cartão de Crédito,0,1,4.0,2023-02-27,não
+1632,73.0,fem,15,prata,"R$ 94,73",Pix,0,0,5.0,09/08/2022,N
+84,69.0,masc,56,Prata,"R$ 105,56",Pix,0,0,2.0,10/04/2021,No
+1447,76.0,Feminino,46,Bronze,"R$ 50,23",Cartão de Crédito,0,3,4.0,30/12/2023,Não
+1084,52.0,fem,7,BRONZE,"R$ 54,80",Cartão de Crédito,1,2,3.0,21/10/2023,não
+2065,54.0,masc,43,Prata,104.77,Cartão de Crédito,0,0,3.0,2023-05-13,não
+1815,72.0,F,21,prata,88.29,Boleto,2,3,2.0,01/04/2024,Yes
+31,45.0,F,45,BRONZE,48.78,Cartão de Crédito,0,0,3.0,25/04/2021,No
+1307,33.0,masc,60,Prata,"R$ 93,03",Cartão de Crédito,2,1,4.0,21/08/2023,N
+1997,52.0,Masculino,40,Bronze,40.53,Cartão de Crédito,2,6,5.0,2024-07-14,não
+1252,43.0,Feminino,4,PRATA,"R$ 92,70",Boleto,1,4,4.0,2021-08-03,Yes
+1021,21.0,masculino,50,Bronze,55.64,Boleto,0,1,4.0,2023-06-21,N
+1899,64.0,Feminino,57,prata,88.89,Cartão de Crédito,0,1,4.0,11/06/2023,N
+1115,30.0,masc,29,Bronze,"R$ 55,30",Pix,1,0,5.0,2024-10-19,0
+2139,51.0,feminino,53,prata,91.65,Cartão de Crédito,2,0,4.0,08/03/2021,não
+49,60.0,Masculino,12,bronze,47.87,  Pix ,3,7,4.0,2021-05-28,Sim
+1793,39.0,Feminino,10,Bronze,39.51,Boleto,0,0,1.0,03/09/2021,Sim
+894,78.0,masc,18,OURO,160.85,  Boleto ,1,0,4.0,26/10/2024,não
+154,36.0,M,33,PRATA,83.85,Cartão de Crédito,0,0,,31/12/2021,N
+395,62.0,M,22,BRONZE,47.34,Pix,0,0,2.0,19/01/2024,Não
+269,55.0,Masculino,2,prata,90.94,Pix,2,5,4.0,2023-07-27,1
+386,25.0,M,40,bronze,40.01,Boleto,2,5,3.0,20/11/2021,S
+42,65.0,F,48,Bronze,45.23,Cartão de Crédito,2,1,3.0,04/02/2023,Sim
+598,66.0,Feminino,41,Bronze,,Pix,0,1,4.0,2022-10-13,não
+1090,26.0,Masculino,14,bronze,"R$ 34,99",Pix,0,0,5.0,2022-09-05,não
+681,62.0,Masculino,3,BRONZE,49.49,Pix,2,1,4.0,07/10/2023,1
+1950,37.0,Masculino,28,BRONZE,38.18,Cartão de Crédito,0,1,4.0,2022-03-14,Sim
+525,37.0,F,57,bronze,39.62,Pix,1,0,3.0,2024-04-17,No
+1253,22.0,M,33,bronze,36.96,Cartão de Crédito,0,6,3.0,29/02/2024,não
+2144,55.0,Feminino,19,BRONZE,49.87,Boleto,2,2,3.0,2021-08-24,Não
+1789,47.0,masc,30,OURO,"R$ 149,02",Boleto,0,0,3.0,2024-05-14,Não
+1017,41.0,Masculino,1,BRONZE,"R$ 43,58",Pix,1,0,2.0,17/08/2022,0
+1543,23.0,M,67,Ouro,"R$ 148,59",Cartão de Crédito,0,5,4.0,11/02/2021,No
+1201,72.0,Masculino,58,Bronze,49.72,Pix,0,0,3.0,2022-03-17,não
+2001,72.0,M,49,BRONZE,,Pix,1,0,4.0,25/01/2021,0
+226,36.0,feminino,40,Prata,88.9,Pix,1,2,3.0,15/09/2022,Não
+1468,41.0,masculino,13,bronze,42.22,Boleto,1,9,3.0,04/01/2022,1
+2108,26.0,F,57,bronze,43.55,Pix,1,0,,2023-11-13,0
+1188,55.0,M,53,Ouro,166.46,Pix,3,2,2.0,2022-09-10,S
+1563,33.0,feminino,41,BRONZE,55.52,Cartão de Crédito,2,1,1.0,15/08/2022,S
+2155,61.0,masculino,35,OURO,,Boleto,0,1,4.0,10/04/2021,N
+206,34.0,F,59,Bronze,"R$ 34,54",  Pix ,2,0,4.0,2024-01-13,N
+1028,35.0,Feminino,27,bronze,45.17,Pix,0,0,2.0,24/08/2021,sim
+1995,64.0,masculino,41,Bronze,56.89,Pix,0,0,3.0,22/02/2022,0
+1672,53.0,masculino,8,bronze,45.97,Boleto,2,3,2.0,2021-09-08,Yes
+1047,32.0,F,55,bronze,28.85,Pix,1,0,3.0,31/01/2024,N
+694,76.0,F,65,Prata,77.52,Cartão de Crédito,0,1,5.0,2024-01-30,N
+1762,43.0,masculino,62,BRONZE,"R$ 43,13",Pix,2,1,3.0,13/09/2024,No
+1465,70.0,F,37,BRONZE,49.53,Pix,1,0,3.0,2023-04-26,N
+1755,56.0,feminino,43,bronze,41.79,Cartão de Crédito,2,2,2.0,2023-09-04,sim
+1921,42.0,masc,52,OURO,154.71,Cartão de Crédito,1,1,4.0,16/02/2024,Não
+2019,62.0,fem,38,OURO,175.59,Boleto,1,3,3.0,2021-05-18,não
+1337,57.0,Feminino,3,bronze,52.5,Boleto,3,1,3.0,14/02/2024,Sim
+158,52.0,feminino,16,Prata,94.72,Pix,0,0,4.0,2021-04-17,não
+2119,51.0,Masculino,61,OURO,151.89,Cartão de Crédito,1,2,3.0,2023-06-27,S
+306,26.0,masculino,9,Bronze,44.57,Pix,2,0,1.0,2021-02-07,Sim
+657,65.0,fem,41,prata,75.42,  Cartão de Crédito ,1,2,5.0,10/05/2023,N
+400,37.0,,28,ouro,,  Cartão de Crédito ,1,2,3.0,08/05/2023,0
+799,37.0,F,31,ouro,157.98,Boleto,3,3,4.0,2021-11-23,0
+2101,74.0,fem,20,prata,"R$ 79,86",Pix,1,1,2.0,19/03/2023,N
+619,21.0,F,10,bronze,45.82,Cartão de Crédito,0,1,,16/10/2022,não
+509,34.0,fem,52,Bronze,"R$ 34,37",Pix,1,2,5.0,2024-06-24,não
+1636,51.0,Masculino,52,BRONZE,43.05,Pix,0,2,4.0,2021-04-05,N
+737,63.0,F,55,bronze,"R$ 44,58",Cartão de Crédito,1,4,3.0,01/06/2021,No
+2031,52.0,fem,6,OURO,"R$ 156,52",Pix,0,2,4.0,2021-10-15,N
+1998,79.0,Feminino,9,ouro,150.84,Boleto,0,2,3.0,2023-04-02,0
+1192,35.0,,38,Prata,82.11,Cartão de Crédito,0,2,2.0,30/03/2022,Não
+868,69.0,masc,51,Bronze,37.76,Cartão de Crédito,1,4,4.0,2021-02-25,No
+460,24.0,Feminino,12,bronze,46.35,Cartão de Crédito,0,1,5.0,10/08/2024,Não
+1594,,Feminino,47,BRONZE,51.63,Pix,2,8,4.0,28/07/2022,1
+63,40.0,fem,3,Prata,"R$ 105,64",Cartão de Crédito,1,5,2.0,15/06/2022,1
+600,57.0,M,29,Prata,,Pix,0,2,3.0,2021-11-09,não
+2103,28.0,masc,10,ouro,165.77,Boleto,1,5,5.0,01/08/2024,Não
+1889,21.0,feminino,70,bronze,33.39,Pix,0,1,3.0,2021-02-27,Não
+458,57.0,M,20,prata,104.28,Boleto,0,3,3.0,02/06/2022,0
+1168,42.0,fem,21,prata,82.2,Cartão de Crédito,1,0,5.0,2022-02-09,Não
+1118,54.0,Masculino,29,Bronze,55.89,Pix,1,0,5.0,09/11/2023,Não
+871,46.0,masculino,31,Bronze,36.2,  Boleto ,1,1,3.0,2023-10-07,N
+791,23.0,M,33,PRATA,84.13,Pix,1,4,5.0,14/11/2022,No
+1940,30.0,F,36,prata,88.63,Pix,1,1,2.0,17/08/2021,0
+1993,35.0,feminino,53,Prata,83.14,Pix,0,8,5.0,2022-05-22,não
+761,28.0,fem,66,Prata,"R$ 86,88",Cartão de Crédito,1,4,4.0,2023-07-12,0
+955,66.0,F,5,bronze,56.41,Boleto,2,0,1.0,05/05/2021,sim
+651,48.0,M,14,bronze,"R$ 47,84",Cartão de Crédito,0,0,,04/02/2021,N
+1477,48.0,masculino,27,Bronze,53.88,Cartão de Crédito,1,4,3.0,13/03/2022,sim
+380,34.0,fem,41,OURO,163.06,Boleto,0,1,3.0,12/02/2022,N
+565,73.0,feminino,15,BRONZE,"R$ 49,76",  Boleto ,0,5,4.0,2021-09-18,N
+1531,23.0,masculino,52,Ouro,180.23,Pix,3,1,5.0,2021-05-24,Não
+957,42.0,Feminino,55,Bronze,56.83,Pix,3,0,4.0,2022-12-07,No
+742,65.0,F,67,Bronze,"R$ 31,79",Boleto,3,0,4.0,27/11/2023,Yes
+1180,19.0,masculino,29,ouro,152.95,  Cartão de Crédito ,0,2,4.0,2024-05-01,No
+232,71.0,masc,38,Prata,84.37,Boleto,2,2,4.0,24/12/2022,No
+1445,26.0,Feminino,69,Bronze,"R$ 54,06",Pix,2,2,4.0,21/01/2022,Não
+383,76.0,feminino,21,bronze,36.24,Cartão de Crédito,2,0,4.0,03/01/2023,não
+1449,63.0,feminino,71,BRONZE,51.95,Pix,2,5,5.0,2023-12-26,N
+73,46.0,masculino,22,Prata,95.89,Pix,0,0,4.0,04/03/2023,0
+1095,38.0,feminino,14,prata,"R$ 78,62",Pix,1,3,2.0,2022-11-02,não
+1591,63.0,Feminino,8,Bronze,60.8,Cartão de Crédito,0,2,4.0,2022-12-06,não
+1904,33.0,feminino,2,BRONZE,56.92,Pix,0,1,5.0,22/07/2022,N
+172,23.0,F,59,Bronze,"R$ 64,41",Cartão de Crédito,1,3,5.0,2024-03-23,não
+1412,52.0,Masculino,49,Bronze,"R$ 46,33",  Cartão de Crédito ,1,7,4.0,24/08/2022,Não
+169,38.0,feminino,12,bronze,49.31,Boleto,1,0,4.0,2021-07-30,N
+1230,35.0,masculino,22,ouro,163.64,Cartão de Crédito,1,0,5.0,2023-11-18,0
+273,27.0,masculino,30,Prata,93.57,Pix,0,1,2.0,2023-07-09,No
+421,75.0,Feminino,61,Ouro,157.14,Pix,2,3,1.0,15/06/2021,Sim
+1119,62.0,Masculino,19,bronze,31.85,Cartão de Crédito,2,1,3.0,2023-10-13,não
+1629,42.0,masc,49,ouro,152.34,Cartão de Crédito,0,0,3.0,22/07/2021,sim
+2025,22.0,M,56,bronze,42.98,Boleto,1,0,4.0,2022-01-15,não
+1067,75.0,fem,53,BRONZE,42.41,Pix,1,3,3.0,2022-04-26,não
+57,51.0,F,57,Ouro,148.28,  Cartão de Crédito ,1,1,5.0,19/07/2023,Não
+1128,57.0,feminino,15,ouro,"R$ 165,72",Cartão de Crédito,2,1,5.0,2023-11-16,N
+1446,20.0,M,38,PRATA,"R$ 94,67",Cartão de Crédito,0,1,3.0,06/05/2021,N
+1402,32.0,fem,44,BRONZE,40.11,Cartão de Crédito,1,0,3.0,2022-10-29,Não
+1540,56.0,masculino,60,bronze,52.41,Cartão de Crédito,1,2,3.0,27/03/2022,Yes
+39,35.0,masculino,34,BRONZE,"R$ 38,16",Cartão de Crédito,2,0,3.0,11/03/2023,1
+307,36.0,F,33,Ouro,"R$ 164,46",Cartão de Crédito,0,1,5.0,2024-02-26,não
+7,23.0,M,10,PRATA,"R$ 85,24",  Cartão de Crédito ,3,0,,2024-07-13,No
+1105,36.0,,9,PRATA,95.85,,1,1,5.0,2023-04-18,Não
+783,25.0,Masculino,57,Bronze,39.52,Cartão de Crédito,2,0,3.0,2021-04-20,N
+409,75.0,masc,38,Prata,94.6,Pix,2,1,4.0,29/09/2024,No
+1370,57.0,F,18,Bronze,47.54,Cartão de Crédito,0,8,5.0,2022-09-22,No
+782,57.0,masc,5,bronze,51.78,  Pix ,2,0,2.0,20/03/2022,Sim
+1191,43.0,fem,18,BRONZE,39.37,  Pix ,0,0,3.0,2024-04-20,N
+535,53.0,feminino,32,bronze,29.42,Pix,1,0,5.0,02/05/2024,No
+584,21.0,masculino,60,BRONZE,40.67,Pix,1,0,,23/12/2023,Yes
+2147,28.0,Feminino,4,prata,"R$ 89,27",  Boleto ,1,3,2.0,09/02/2023,Sim
+2165,77.0,Feminino,42,PRATA,97.76,  Boleto ,2,0,3.0,02/06/2021,No
+1704,30.0,Masculino,1,PRATA,91.8,  Cartão de Crédito ,4,1,3.0,08/07/2022,Yes
+1476,36.0,F,31,ouro,159.57,Cartão de Crédito,0,0,4.0,2021-10-24,No
+1614,60.0,masculino,32,Bronze,58.0,  Boleto ,3,4,,2022-03-28,N
+1706,71.0,,55,Prata,96.91,Pix,0,2,2.0,2024-03-25,Sim
+814,35.0,feminino,53,PRATA,,Pix,0,7,4.0,2024-07-22,No
+317,63.0,fem,50,Bronze,39.67,Boleto,0,1,4.0,2023-10-01,sim
+1539,61.0,masc,48,PRATA,"R$ 74,17",Pix,1,2,3.0,2022-07-11,Não
+2055,62.0,Feminino,25,Ouro,153.47,Cartão de Crédito,2,0,,2023-09-01,Não
+517,72.0,feminino,31,PRATA,89.68,Pix,1,1,4.0,30/03/2021,No
+1282,138.0,,18,PRATA,83.23,Boleto,0,2,4.0,09/03/2023,N
+1996,18.0,masc,36,Prata,"R$ 90,83",  Cartão de Crédito ,0,0,3.0,2024-10-15,Não
+534,35.0,feminino,16,Bronze,"R$ 34,47",Pix,0,3,3.0,29/12/2022,Sim
+1298,59.0,feminino,34,Prata,93.69,Pix,2,5,4.0,31/03/2021,No
+1260,67.0,M,29,PRATA,91.97,Boleto,0,0,4.0,2024-02-04,No
+272,19.0,Feminino,8,OURO,165.14,Boleto,3,1,2.0,18/07/2023,1
+549,49.0,F,30,Prata,96.95,Pix,4,0,,17/08/2021,No
+965,76.0,M,10,PRATA,97.23,Boleto,1,4,2.0,23/07/2022,Sim
+2032,28.0,Feminino,66,Bronze,53.12,Cartão de Crédito,3,2,2.0,25/12/2021,S
+1953,22.0,masculino,65,Bronze,46.93,Pix,1,0,3.0,05/07/2023,não
+599,56.0,masculino,51,PRATA,89.28,Cartão de Crédito,1,1,4.0,14/01/2021,N
+1918,48.0,F,10,Ouro,"R$ 166,09",Pix,2,7,2.0,10/05/2023,1
+571,76.0,Masculino,47,BRONZE,42.34,  Pix ,2,0,,2022-02-26,Não
+75,60.0,Feminino,13,OURO,155.28,Cartão de Crédito,2,1,3.0,2021-04-05,não
+62,64.0,masc,71,ouro,"R$ 156,42",Cartão de Crédito,1,4,2.0,2022-05-22,sim
+820,79.0,masculino,53,Bronze,51.43,Cartão de Crédito,4,1,3.0,22/08/2021,1
+810,79.0,,58,prata,97.12,Cartão de Crédito,3,1,4.0,23/02/2024,0
+245,56.0,fem,43,Prata,,Cartão de Crédito,1,2,3.0,2024-04-06,No
+1050,25.0,masculino,29,PRATA,80.51,Cartão de Crédito,0,0,4.0,2023-11-27,não
+1316,36.0,fem,70,Prata,"R$ 84,54",Cartão de Crédito,0,2,2.0,2022-07-30,0
+1726,66.0,Feminino,41,prata,88.83,Pix,1,0,1.0,27/06/2021,1
+106,66.0,fem,7,BRONZE,39.52,Cartão de Crédito,1,0,3.0,08/11/2023,N
+674,23.0,M,16,Bronze,"R$ 43,58",Cartão de Crédito,1,0,2.0,2021-05-04,No
+643,70.0,F,55,bronze,37.37,Pix,0,5,2.0,19/06/2024,Yes
+1518,21.0,F,18,Ouro,166.17,Pix,1,0,3.0,2021-01-27,N
+666,61.0,masculino,3,Bronze,47.04,Cartão de Crédito,0,0,4.0,26/03/2022,Não
+510,32.0,masculino,63,PRATA,,Cartão de Crédito,1,1,3.0,21/06/2023,Sim
+132,52.0,F,62,Bronze,43.49,Pix,1,4,4.0,12/03/2023,não
+445,49.0,masc,33,Bronze,44.1,Cartão de Crédito,0,4,3.0,30/01/2022,0
+867,68.0,Feminino,59,Bronze,46.41,Cartão de Crédito,1,1,4.0,2024-02-22,não
+2168,70.0,masc,11,PRATA,90.62,  Cartão de Crédito ,1,2,4.0,10/05/2022,0
+652,58.0,feminino,28,bronze,44.8,Boleto,2,3,3.0,31/08/2023,S
+2142,72.0,Feminino,30,BRONZE,51.27,  Cartão de Crédito ,0,1,4.0,2024-07-02,não
+209,34.0,masculino,33,bronze,57.81,Cartão de Crédito,2,0,4.0,2021-09-20,N
+58,27.0,fem,47,PRATA,81.78,Pix,2,2,2.0,26/10/2022,sim
+1709,33.0,M,14,PRATA,"R$ 94,36",Pix,3,6,2.0,2024-06-08,Sim
+1977,75.0,Masculino,22,prata,114.82,Boleto,1,1,4.0,2021-11-07,No
+1276,62.0,F,16,bronze,"R$ 32,49",Cartão de Crédito,0,1,5.0,26/07/2024,N
+1353,48.0,feminino,67,bronze,45.35,Pix,3,0,4.0,2024-05-29,Yes
+87,24.0,Feminino,65,ouro,154.46,  Cartão de Crédito ,4,1,4.0,05/03/2023,não
+2126,33.0,F,28,prata,68.62,Boleto,2,4,3.0,2023-06-02,Não
+772,79.0,feminino,4,prata,"R$ 84,58",Cartão de Crédito,1,5,,2021-03-01,S
+1470,21.0,masc,16,prata,86.1,Cartão de Crédito,1,5,2.0,2024-07-16,Não
+1454,33.0,masculino,37,Bronze,"R$ 48,11",Cartão de Crédito,2,0,4.0,14/01/2021,No
+709,47.0,masculino,10,ouro,"R$ 147,27",Boleto,1,11,3.0,2023-04-19,1
+1110,20.0,masc,68,BRONZE,32.32,Pix,0,0,4.0,2023-05-02,No
+2129,21.0,F,4,OURO,171.89,Pix,1,5,2.0,2021-08-12,sim
+1597,58.0,M,49,PRATA,"R$ 99,50",Cartão de Crédito,1,2,2.0,2022-03-16,No
+1986,67.0,F,41,ouro,"R$ 164,98",Cartão de Crédito,3,1,1.0,2023-03-25,S
+539,51.0,fem,35,prata,,Boleto,4,0,4.0,16/10/2021,não
+1903,,M,14,PRATA,91.09,Pix,1,1,1.0,2024-07-03,1
+2099,64.0,masculino,3,prata,"R$ 87,97",Pix,1,11,2.0,13/05/2022,1
+1853,46.0,masculino,55,PRATA,100.3,Cartão de Crédito,1,1,5.0,28/06/2022,No
+1560,71.0,,40,Bronze,51.24,Cartão de Crédito,1,0,3.0,10/01/2024,No
+419,36.0,feminino,47,Ouro,173.09,Cartão de Crédito,1,1,3.0,22/05/2022,não
+498,41.0,M,30,Bronze,54.13,Pix,2,1,5.0,2021-01-23,0
+1074,50.0,Feminino,29,PRATA,"R$ 96,00",Cartão de Crédito,1,5,5.0,16/05/2024,Não
+2054,76.0,feminino,25,Prata,"R$ 93,06",Pix,1,2,1.0,24/12/2022,sim
+1528,26.0,F,38,BRONZE,"R$ 29,88",,0,0,3.0,2023-11-29,Não
+852,67.0,feminino,13,BRONZE,45.02,  Boleto ,2,2,3.0,09/08/2021,Sim
+1005,25.0,fem,22,OURO,153.52,Pix,1,0,3.0,24/05/2022,não
+437,53.0,masc,24,PRATA,"R$ 72,07",Cartão de Crédito,0,1,,2021-08-31,0
+2016,37.0,masculino,71,bronze,45.63,  Cartão de Crédito ,2,0,4.0,22/10/2023,Yes
+1279,,,30,Ouro,159.34,Pix,2,1,4.0,13/09/2023,não
+1033,63.0,fem,49,PRATA,94.47,Boleto,4,4,4.0,23/04/2024,No
+1550,18.0,F,65,bronze,52.7,Cartão de Crédito,2,5,3.0,2024-02-05,sim
+2118,51.0,fem,30,Prata,77.22,Boleto,0,1,,2023-12-24,Não
+2087,63.0,F,51,OURO,150.63,Pix,1,2,5.0,28/04/2024,No
+305,51.0,feminino,4,BRONZE,45.35,Pix,1,0,5.0,20/11/2022,0
+1802,47.0,masculino,60,bronze,"R$ 52,99",  Cartão de Crédito ,1,3,2.0,18/09/2021,1
+1099,20.0,feminino,39,prata,94.97,Cartão de Crédito,1,4,3.0,2024-03-17,No
+336,68.0,Feminino,70,PRATA,82.83,Pix,2,2,5.0,2022-08-28,0
+996,56.0,masc,13,Bronze,,Pix,1,1,3.0,2023-04-15,não
+570,53.0,masculino,69,Ouro,152.8,Pix,1,1,3.0,2021-06-10,não
+89,65.0,F,67,Bronze,41.96,Boleto,1,1,,12/01/2022,No
+875,61.0,Feminino,42,ouro,159.26,Cartão de Crédito,2,6,4.0,2024-07-17,sim
+1375,73.0,feminino,68,Bronze,48.09,Boleto,1,0,3.0,04/11/2023,0
+1242,66.0,Feminino,2,bronze,49.52,Pix,1,0,,2021-08-25,Sim
+1816,24.0,Feminino,11,prata,91.17,  Cartão de Crédito ,0,0,3.0,2023-11-06,0
+713,63.0,Masculino,34,PRATA,92.42,Boleto,1,1,,03/09/2023,não
+1069,38.0,M,10,OURO,175.96,Cartão de Crédito,1,2,4.0,2024-01-13,N
+1782,39.0,masculino,7,Bronze,"R$ 61,41",Pix,3,0,5.0,25/02/2021,No
+2123,54.0,masc,33,prata,89.24,Pix,1,0,4.0,17/11/2021,Não
+1644,54.0,masculino,22,PRATA,75.28,Cartão de Crédito,0,1,,05/02/2023,não
+222,46.0,masculino,54,BRONZE,42.69,Pix,0,0,4.0,2022-03-28,0
+320,65.0,Masculino,71,bronze,22.5,Cartão de Crédito,3,1,5.0,18/07/2021,N
+520,54.0,Feminino,12,Prata,105.05,Cartão de Crédito,2,2,3.0,2022-12-23,No
+879,51.0,fem,15,PRATA,88.49,Boleto,2,1,2.0,16/06/2022,Sim
+630,40.0,Masculino,10,PRATA,99.57,Pix,1,0,5.0,2022-09-12,No
+826,23.0,fem,45,BRONZE,"R$ 42,38",,3,2,3.0,2023-10-03,não
+1199,67.0,masculino,1,Prata,"R$ 92,82",,1,3,5.0,2023-09-08,No
+1291,32.0,Masculino,8,Prata,"R$ 96,27",Pix,0,0,4.0,03/08/2024,No
+1031,48.0,Feminino,60,BRONZE,38.49,Pix,3,7,3.0,13/12/2023,S
+1746,78.0,masculino,53,ouro,149.24,Pix,2,1,5.0,2023-08-08,No
+139,39.0,M,4,PRATA,,Cartão de Crédito,0,5,5.0,01/06/2022,sim
+164,43.0,masc,9,ouro,"R$ 163,05",Pix,3,0,3.0,24/12/2023,S
+2,65.0,Feminino,1,Ouro,173.42,Boleto,1,2,5.0,01/12/2021,1
+1728,53.0,M,11,OURO,149.31,Pix,0,0,5.0,23/10/2023,N
+961,27.0,F,9,OURO,150.07,Cartão de Crédito,2,5,5.0,12/07/2023,No
+2176,,fem,42,Bronze,46.31,Cartão de Crédito,2,3,3.0,08/09/2024,Não
+1481,,F,51,Prata,91.37,Pix,2,3,3.0,2023-08-19,0
+1406,27.0,Feminino,10,Bronze,49.79,Pix,1,2,2.0,2024-03-27,Yes
+2180,46.0,F,67,Bronze,"R$ 44,62",Pix,0,2,4.0,2024-05-17,0
+1551,35.0,masc,42,Bronze,56.57,Cartão de Crédito,1,0,3.0,2022-05-17,Não
+1060,37.0,masculino,30,Bronze,29.51,Boleto,1,1,,30/08/2024,Yes
+634,41.0,masc,39,ouro,165.47,Boleto,2,0,1.0,06/03/2022,Sim
+1243,77.0,M,33,bronze,"R$ 35,30",Boleto,0,1,,26/01/2022,No
+2189,46.0,fem,24,PRATA,85.52,Pix,0,0,4.0,2022-07-18,Não
+656,51.0,fem,6,Ouro,,Cartão de Crédito,0,0,3.0,08/01/2023,N
+17,49.0,F,32,Bronze,46.97,Boleto,0,0,2.0,2024-04-08,sim
+1947,27.0,feminino,30,BRONZE,"R$ 54,81",Pix,0,0,4.0,30/03/2024,0
+1390,74.0,feminino,65,BRONZE,57.26,Boleto,0,2,3.0,08/03/2022,Não
+138,19.0,M,59,Bronze,60.26,Pix,1,0,5.0,2023-03-26,não
+1462,37.0,Feminino,34,OURO,"R$ 162,57",  Pix ,2,0,2.0,2021-11-22,S
+698,54.0,masculino,45,Bronze,"R$ 48,43",Boleto,0,4,4.0,2022-01-03,N
+1098,64.0,fem,65,prata,"R$ 92,30",Cartão de Crédito,0,0,3.0,2022-08-07,No
+1362,22.0,fem,13,Prata,90.06,Cartão de Crédito,4,0,,2021-08-26,No
+1925,40.0,Feminino,57,ouro,157.47,Pix,0,0,3.0,2023-12-03,N
+449,50.0,Masculino,67,PRATA,92.02,Pix,1,1,,2022-12-23,N
+36,21.0,fem,57,Ouro,172.23,Cartão de Crédito,0,4,5.0,2024-05-17,No
+1267,21.0,M,39,Prata,79.41,Pix,1,1,2.0,2022-01-06,0
+328,20.0,masculino,68,ouro,"R$ 174,72",Boleto,1,3,3.0,2021-08-05,Yes
+318,63.0,masc,38,Bronze,40.59,Cartão de Crédito,1,5,3.0,2022-10-29,No
+1822,65.0,F,4,BRONZE,41.13,Boleto,0,4,3.0,20/08/2024,1
+1170,74.0,Feminino,9,BRONZE,51.45,Pix,0,0,3.0,11/08/2024,N
+527,75.0,,10,PRATA,85.31,  Cartão de Crédito ,1,1,,2021-03-12,Sim
+88,37.0,F,59,Prata,95.78,,0,2,3.0,2023-10-08,No
+1521,71.0,F,46,prata,"R$ 87,85",Boleto,1,2,3.0,26/07/2023,sim
+1535,68.0,F,23,bronze,46.67,Cartão de Crédito,1,0,5.0,2022-12-23,No
+149,68.0,F,15,BRONZE,36.38,Cartão de Crédito,0,3,2.0,06/02/2023,Sim
+1935,27.0,masculino,71,PRATA,96.92,Pix,0,1,,06/09/2024,No
+1956,42.0,F,14,bronze,53.06,Boleto,2,2,,2023-03-04,Sim
+2172,64.0,masculino,13,BRONZE,65.75,Pix,0,2,,2023-11-30,No
+1741,44.0,Masculino,39,Bronze,"R$ 49,35",Boleto,3,6,2.0,04/08/2022,S
+1981,58.0,masc,47,prata,,Cartão de Crédito,1,2,4.0,2021-08-23,N
+366,50.0,feminino,31,Bronze,49.54,Cartão de Crédito,1,2,3.0,30/04/2023,Não
+590,,masculino,60,BRONZE,46.81,Pix,1,2,2.0,2023-12-14,S
+1798,29.0,masculino,61,Prata,93.72,Pix,0,0,2.0,2022-08-23,No
+199,39.0,Feminino,18,BRONZE,"R$ 34,02",Cartão de Crédito,2,3,3.0,2023-03-30,1
+2151,38.0,F,44,BRONZE,"R$ 44,93",  Cartão de Crédito ,1,1,3.0,2023-11-22,1
+193,55.0,F,44,BRONZE,42.44,Cartão de Crédito,0,0,3.0,25/11/2023,N
+405,48.0,Feminino,54,BRONZE,41.08,  Pix ,3,1,3.0,29/03/2023,1
+1876,25.0,Feminino,2,BRONZE,42.49,Cartão de Crédito,1,1,3.0,15/08/2021,Sim
+251,,feminino,60,Prata,99.94,Boleto,1,0,4.0,29/04/2023,No
+484,67.0,masc,58,Prata,87.21,Pix,2,0,,2024-07-14,Sim
+1183,60.0,masculino,69,Ouro,"R$ 152,11",Cartão de Crédito,0,0,4.0,18/12/2022,não
+1340,43.0,feminino,59,bronze,48.57,Pix,2,0,,2023-01-21,S
+1281,63.0,masc,57,BRONZE,41.2,Cartão de Crédito,4,5,4.0,2024-06-20,Não
+1990,75.0,fem,64,PRATA,99.86,Cartão de Crédito,2,1,5.0,2024-01-08,0
+792,46.0,F,46,ouro,148.51,Pix,1,0,3.0,04/08/2023,Não
+800,45.0,masc,48,bronze,53.61,Boleto,3,2,4.0,2023-09-21,sim
+385,19.0,Masculino,25,BRONZE,45.81,Cartão de Crédito,2,0,4.0,2022-08-12,No
+751,77.0,Feminino,3,bronze,"R$ 36,61",Boleto,4,1,4.0,2022-03-30,Yes
+1202,47.0,feminino,66,Ouro,165.79,Cartão de Crédito,2,0,4.0,09/09/2023,1
+423,65.0,feminino,8,BRONZE,46.24,Cartão de Crédito,1,0,,2023-07-22,Não
+315,33.0,M,8,Bronze,60.93,Pix,1,7,5.0,08/08/2022,Não
+1022,22.0,masc,18,ouro,144.55,  Pix ,1,2,3.0,2024-08-19,N
+1323,52.0,masculino,59,BRONZE,48.78,Boleto,0,2,4.0,05/03/2022,0
+544,28.0,Feminino,68,PRATA,"R$ 91,50",Cartão de Crédito,1,1,3.0,22/07/2023,Yes
+914,78.0,M,67,PRATA,"R$ 93,04",Cartão de Crédito,1,0,4.0,29/10/2021,N
+663,20.0,M,60,bronze,37.77,Pix,1,1,4.0,15/04/2024,N
+903,31.0,M,2,OURO,"R$ 158,24",Pix,3,0,4.0,2021-02-20,No
+1666,42.0,Feminino,56,Bronze,"R$ 57,76",  Cartão de Crédito ,1,5,4.0,2021-06-17,N
+686,67.0,feminino,11,BRONZE,"R$ 31,31",Cartão de Crédito,3,1,4.0,09/10/2024,N
+1999,35.0,Masculino,68,bronze,"R$ 30,03",  Boleto ,2,0,3.0,02/09/2021,0
+160,66.0,fem,15,Bronze,40.03,Pix,2,2,2.0,13/06/2021,S
+1000,49.0,feminino,19,ouro,154.08,Cartão de Crédito,2,12,3.0,17/03/2023,Yes
+1553,51.0,feminino,69,PRATA,89.71,  Pix ,2,0,3.0,15/10/2024,Yes
+1385,41.0,masc,54,Ouro,"R$ 175,16",  Pix ,5,1,4.0,2021-09-29,Não
+2077,,feminino,5,BRONZE,"R$ 46,01",Pix,0,0,3.0,2022-12-15,Sim
+203,48.0,F,53,prata,86.0,Cartão de Crédito,2,5,3.0,22/02/2024,0
+1024,70.0,F,56,Prata,95.56,,0,1,5.0,2022-10-18,0
+1829,56.0,masc,49,PRATA,78.39,Boleto,1,2,3.0,2023-01-16,N
+1767,49.0,Feminino,56,PRATA,93.99,Cartão de Crédito,2,2,3.0,2022-10-21,N
+113,52.0,Feminino,37,Bronze,31.42,Pix,1,3,3.0,2021-08-23,0
+2095,28.0,M,66,Ouro,148.8,Cartão de Crédito,0,0,3.0,2023-10-13,Não
+1332,62.0,Feminino,6,bronze,50.39,Cartão de Crédito,0,1,2.0,2024-10-10,No
+1532,18.0,Feminino,62,Ouro,156.87,Pix,2,0,4.0,2022-10-12,Não
+981,54.0,M,16,Ouro,156.23,Cartão de Crédito,0,1,4.0,2024-07-03,No
+923,45.0,masculino,34,BRONZE,49.81,Boleto,3,2,,26/04/2021,No
+1769,22.0,Feminino,42,bronze,"R$ 47,83",Pix,1,3,3.0,03/09/2021,Yes
+1893,72.0,Feminino,27,ouro,158.16,Pix,0,1,,2023-03-16,não
+1691,65.0,masculino,41,bronze,"R$ 41,15",Pix,1,3,,2022-03-08,No
+1482,18.0,F,3,bronze,55.48,Cartão de Crédito,1,2,4.0,2021-05-05,1
+1320,42.0,masc,66,prata,,Pix,1,4,5.0,15/02/2022,0
+816,69.0,masculino,33,prata,90.08,Pix,1,7,4.0,02/06/2022,Não
+1652,19.0,feminino,4,Bronze,53.39,Boleto,3,0,,26/12/2021,Yes
+1542,32.0,Feminino,22,BRONZE,44.72,Cartão de Crédito,1,1,2.0,11/10/2022,Sim
+680,76.0,F,70,bronze,46.19,Cartão de Crédito,0,4,4.0,2021-12-17,0
+1094,42.0,Feminino,21,prata,102.84,  Cartão de Crédito ,2,1,4.0,2021-04-02,não
+81,76.0,feminino,55,BRONZE,43.94,Cartão de Crédito,1,1,4.0,2023-04-19,não
+613,66.0,M,15,PRATA,89.24,Pix,2,1,,12/07/2021,Sim
+1601,36.0,M,66,Bronze,"R$ 58,39",Boleto,1,3,2.0,2022-01-13,sim
+1826,73.0,Feminino,10,ouro,167.55,Cartão de Crédito,2,0,2.0,2024-05-22,N
+753,23.0,Feminino,67,bronze,53.16,Boleto,2,2,,2021-12-21,No
+1240,20.0,fem,59,Prata,82.85,Boleto,1,1,4.0,11/05/2024,N
+2058,63.0,Feminino,7,prata,102.45,,3,0,4.0,2021-05-19,não
+1055,22.0,fem,17,BRONZE,"R$ 47,37",Pix,0,12,2.0,2024-05-14,sim
+243,23.0,feminino,1,Bronze,50.52,Boleto,2,3,2.0,2023-02-03,1
+2028,,Feminino,44,BRONZE,,Cartão de Crédito,1,0,4.0,22/11/2022,N
+642,74.0,Masculino,51,Bronze,"R$ 50,60",Cartão de Crédito,0,9,3.0,2021-07-26,Yes
+697,,F,47,OURO,154.58,  Pix ,1,0,5.0,2021-05-29,No
+210,,Masculino,2,Ouro,"R$ 166,00",Cartão de Crédito,0,0,5.0,2021-01-06,N
+503,77.0,masc,16,Bronze,"R$ 41,59",Cartão de Crédito,0,4,3.0,2023-04-19,Não
+771,58.0,masculino,44,PRATA,"R$ 97,13",Pix,0,2,3.0,22/03/2022,0
+754,76.0,Feminino,32,ouro,163.35,Pix,2,2,4.0,2022-03-21,não
+436,25.0,fem,2,Bronze,62.93,  Cartão de Crédito ,0,2,,28/03/2024,1
+1064,61.0,Masculino,62,Prata,85.99,Pix,1,2,3.0,2022-01-13,sim
+975,27.0,masculino,71,PRATA,98.87,Cartão de Crédito,2,0,5.0,26/09/2021,Não
+552,42.0,Masculino,6,prata,84.1,Pix,0,0,4.0,01/08/2024,0
+2049,64.0,masc,65,bronze,54.51,Pix,1,2,4.0,2021-06-11,Não
+1673,34.0,,62,Bronze,57.21,Cartão de Crédito,0,1,3.0,21/07/2024,0
+1014,37.0,M,69,prata,82.14,Boleto,5,0,,15/06/2021,Sim
+1008,49.0,M,58,Bronze,57.1,Boleto,1,0,4.0,2022-09-10,não
+1428,73.0,fem,17,prata,91.21,Cartão de Crédito,4,4,4.0,2021-07-29,sim
+1275,65.0,M,22,PRATA,87.25,Pix,2,4,2.0,26/01/2023,não
+1387,52.0,fem,33,bronze,38.0,Pix,0,1,3.0,2024-02-10,0
+1296,49.0,M,38,ouro,"R$ 167,48",Cartão de Crédito,1,2,4.0,2024-05-31,não
+467,28.0,feminino,18,Ouro,172.85,Pix,2,0,2.0,2024-10-01,No
+1757,39.0,F,37,Ouro,175.91,Boleto,0,0,3.0,07/01/2022,N
+1559,79.0,masculino,6,OURO,"R$ 157,80",Boleto,1,0,4.0,2022-04-01,não
+278,66.0,Feminino,13,bronze,"R$ 53,36",Pix,2,0,2.0,06/03/2024,Yes
+1070,18.0,masc,70,Bronze,"R$ 40,60",Boleto,1,1,4.0,2022-09-25,N
+1018,48.0,Masculino,31,bronze,44.79,Pix,0,10,3.0,24/05/2024,S
+1577,186.0,,38,prata,"R$ 90,18",,2,2,3.0,04/11/2021,não
+723,70.0,masc,9,BRONZE,"R$ 52,07",Cartão de Crédito,1,1,3.0,2022-12-07,N
+941,60.0,feminino,35,bronze,47.69,Boleto,2,1,3.0,2024-10-06,0
+787,20.0,M,54,Bronze,43.23,Cartão de Crédito,3,3,3.0,2022-11-12,sim
+1843,68.0,masc,54,Bronze,56.58,Cartão de Crédito,1,0,4.0,11/08/2022,N
+1324,72.0,M,13,BRONZE,65.28,  Pix ,0,2,3.0,2023-07-05,Não
+1562,33.0,feminino,36,BRONZE,,Pix,2,0,3.0,2023-01-30,No
+1400,36.0,Masculino,45,bronze,46.99,Boleto,4,2,,2023-01-14,não
+1630,25.0,feminino,11,PRATA,89.17,Pix,0,2,2.0,29/11/2022,não
+1555,46.0,Feminino,3,PRATA,"R$ 98,58",Boleto,0,0,,28/07/2024,Yes
+907,43.0,M,62,BRONZE,35.49,Boleto,1,4,3.0,2023-09-24,N
+1512,32.0,M,71,prata,"R$ 85,50",Pix,0,0,2.0,2021-01-26,Não
+564,29.0,masc,3,bronze,32.23,Cartão de Crédito,0,2,4.0,08/07/2023,sim
+1250,78.0,feminino,36,Ouro,"R$ 173,71",Boleto,1,0,2.0,2023-01-26,não
+389,73.0,masc,69,prata,"R$ 84,33",  Pix ,0,1,4.0,27/10/2021,não
+23,29.0,masc,2,Bronze,"R$ 69,19",Boleto,1,0,4.0,13/08/2023,Yes
+1458,46.0,F,66,BRONZE,,Pix,3,0,3.0,2024-09-27,Não
+125,71.0,masculino,54,BRONZE,51.12,  Boleto ,1,0,4.0,2021-02-11,No
+1448,77.0,fem,43,bronze,49.17,Boleto,2,1,5.0,26/04/2021,Não
+1485,43.0,M,70,Bronze,32.7,Cartão de Crédito,2,0,3.0,2021-02-16,Não
+774,62.0,F,70,ouro,156.17,Cartão de Crédito,1,5,4.0,31/08/2021,0
+881,,M,32,BRONZE,56.15,Cartão de Crédito,0,0,3.0,20/06/2024,não
+1983,21.0,masc,8,prata,"R$ 72,76",Cartão de Crédito,2,0,2.0,2021-08-01,sim
+1145,38.0,M,39,prata,79.36,Cartão de Crédito,0,8,5.0,2021-08-09,No
+1167,19.0,fem,45,Prata,88.88,Pix,0,2,,2021-09-10,Não
+51,65.0,Feminino,36,PRATA,"R$ 71,96",Boleto,0,4,2.0,07/08/2021,Não
+1664,52.0,Feminino,44,BRONZE,41.73,Boleto,1,3,3.0,2023-02-19,sim
+1737,49.0,M,38,Bronze,"R$ 48,12",Cartão de Crédito,1,0,4.0,22/09/2021,Não
+1106,29.0,fem,19,BRONZE,34.41,  Cartão de Crédito ,1,2,4.0,2024-01-20,0
+704,28.0,M,44,Ouro,157.94,  Boleto ,2,0,3.0,2023-12-11,No
+483,33.0,F,28,BRONZE,"R$ 45,25",Pix,3,2,1.0,2021-08-15,1
+1346,79.0,masc,45,Prata,95.53,Boleto,0,0,4.0,09/05/2021,No
+1146,47.0,masculino,54,prata,95.82,Cartão de Crédito,1,3,4.0,18/07/2023,não
+204,61.0,masculino,40,OURO,148.1,Pix,1,3,3.0,02/11/2022,S
+67,74.0,masculino,49,prata,"R$ 85,23",Pix,2,0,3.0,05/04/2024,N
+847,27.0,,52,PRATA,98.63,Pix,1,1,3.0,17/05/2023,sim
+734,66.0,fem,31,ouro,169.29,Boleto,0,0,5.0,03/07/2022,0
+2083,38.0,Masculino,13,PRATA,"R$ 89,54",Boleto,0,0,,2022-06-19,não
+802,36.0,masc,48,Prata,"R$ 82,42",Cartão de Crédito,1,0,3.0,2023-04-23,N
+2104,26.0,F,3,Bronze,53.67,Pix,0,0,3.0,2023-04-21,S
+1749,67.0,masculino,69,OURO,159.52,Cartão de Crédito,0,3,3.0,2024-05-10,Não
+908,28.0,Feminino,27,prata,76.79,Cartão de Crédito,4,1,4.0,2024-06-09,não
+32,32.0,masculino,5,prata,94.55,Cartão de Crédito,0,0,3.0,2022-06-13,N
+418,25.0,fem,4,ouro,155.33,  Pix ,0,0,5.0,2023-01-19,Não
+882,70.0,F,59,bronze,31.07,  Pix ,1,0,,05/06/2021,S
+633,44.0,feminino,22,PRATA,"R$ 98,45",Cartão de Crédito,1,0,3.0,2022-10-14,No
+2159,68.0,masc,48,PRATA,84.69,Pix,2,3,3.0,2021-09-16,N
+1716,72.0,,6,Bronze,51.11,  Pix ,1,3,2.0,2023-03-02,N
+65,43.0,M,8,PRATA,92.71,Pix,1,6,,2021-05-16,No
+1934,77.0,fem,36,Prata,90.08,Pix,1,2,3.0,2021-08-28,não
+1430,66.0,Masculino,59,bronze,31.32,  Cartão de Crédito ,1,0,4.0,2024-07-14,0
+1915,38.0,feminino,21,Prata,99.7,Cartão de Crédito,1,1,2.0,18/10/2024,N
+78,32.0,masculino,4,bronze,52.01,Cartão de Crédito,0,2,2.0,2023-03-08,Yes
+492,71.0,masculino,44,BRONZE,60.85,Boleto,0,2,3.0,2022-03-17,0
+1680,49.0,masc,4,bronze,41.84,Boleto,0,0,4.0,17/05/2021,S
+1818,33.0,Masculino,11,Prata,93.51,Boleto,1,1,2.0,12/05/2021,S
+533,27.0,masc,67,Prata,74.88,Boleto,2,1,4.0,30/04/2024,não
+66,38.0,Feminino,7,BRONZE,42.04,Boleto,2,1,3.0,2023-08-30,N
+2014,,Feminino,51,bronze,"R$ 49,53",Pix,1,0,5.0,2021-05-12,Não
+1436,24.0,Feminino,34,Bronze,55.97,  Cartão de Crédito ,1,1,4.0,2022-09-12,N
+1285,41.0,Masculino,29,PRATA,93.92,Boleto,0,3,5.0,27/07/2024,Não
+297,70.0,feminino,57,PRATA,"R$ 87,66",Cartão de Crédito,3,1,,20/03/2024,sim
+592,73.0,masculino,12,BRONZE,"R$ 43,63",Pix,0,2,3.0,2024-10-21,Não
+1444,,masc,35,BRONZE,51.13,Pix,2,1,5.0,2024-01-26,Não
+768,47.0,Masculino,17,bronze,42.64,  Pix ,2,0,3.0,03/06/2023,Não
+2117,77.0,feminino,70,OURO,157.48,Cartão de Crédito,1,14,4.0,07/10/2022,Sim
+1286,21.0,F,2,PRATA,"R$ 102,02",Pix,1,0,4.0,13/10/2023,N
+725,66.0,F,31,BRONZE,53.75,Cartão de Crédito,1,3,3.0,24/06/2021,Não
+1699,40.0,masculino,22,BRONZE,33.24,Cartão de Crédito,2,4,4.0,27/05/2024,Yes
+1306,59.0,masculino,64,Prata,"R$ 95,06",Pix,1,0,4.0,2021-07-20,não
+627,38.0,F,26,Prata,79.48,,0,0,4.0,23/12/2021,0
+1377,77.0,feminino,46,OURO,157.57,Pix,0,5,3.0,02/08/2023,0
+1677,27.0,F,50,BRONZE,44.6,Pix,0,1,3.0,2022-11-15,0
+746,40.0,masc,8,bronze,"R$ 48,01",Pix,0,2,5.0,13/05/2022,N
+1213,46.0,Masculino,16,prata,93.41,Pix,1,6,1.0,05/09/2023,1
+2173,79.0,M,17,PRATA,101.66,Pix,1,0,4.0,2023-03-04,Não
+252,48.0,masc,64,Prata,91.09,Cartão de Crédito,0,5,4.0,2023-09-04,0
+477,70.0,F,69,Prata,,,2,4,3.0,27/06/2023,Não
+1806,20.0,Masculino,68,bronze,40.52,Pix,0,2,4.0,2024-01-13,N
+2160,38.0,fem,69,Prata,91.03,Boleto,3,2,3.0,2023-08-26,não
+983,51.0,,54,PRATA,105.8,Cartão de Crédito,0,0,3.0,2024-02-18,No
+980,53.0,F,13,Prata,,Pix,1,0,5.0,13/10/2022,não
+707,18.0,Feminino,45,OURO,163.43,Boleto,0,0,3.0,2024-06-25,sim
+488,50.0,feminino,41,prata,90.54,  Boleto ,3,0,4.0,2024-10-19,N
+274,77.0,feminino,15,prata,89.18,Cartão de Crédito,0,1,1.0,08/04/2022,0
+2069,38.0,masc,4,Prata,"R$ 87,23",  Pix ,0,1,2.0,2021-12-13,Yes
+1988,31.0,Masculino,16,Bronze,47.25,Boleto,0,4,4.0,2023-07-09,sim
+964,31.0,masculino,23,prata,"R$ 94,19",Cartão de Crédito,3,2,2.0,27/11/2021,sim
+878,64.0,feminino,58,PRATA,"R$ 106,48",  Pix ,0,0,3.0,08/01/2024,N
+1671,65.0,feminino,4,Bronze,"R$ 44,32",Pix,1,3,4.0,30/10/2024,S
+2107,65.0,M,53,Prata,78.95,  Boleto ,1,5,3.0,2023-02-17,N
+2191,40.0,masc,13,Bronze,"R$ 44,77",Cartão de Crédito,0,0,3.0,2021-07-17,1
+412,32.0,masc,66,Ouro,153.55,  Cartão de Crédito ,0,0,3.0,2023-11-11,0
+1875,43.0,Feminino,24,Bronze,"R$ 30,22",  Cartão de Crédito ,1,4,3.0,31/07/2021,Sim
+1725,51.0,fem,46,bronze,31.34,Pix,1,6,4.0,03/01/2023,sim
+2089,36.0,feminino,55,OURO,176.6,Boleto,2,4,,2022-08-08,N
+668,71.0,feminino,12,prata,84.8,Cartão de Crédito,2,1,4.0,13/06/2024,Não
+1263,45.0,Masculino,62,Bronze,34.25,Pix,1,6,5.0,2022-07-11,N
+150,21.0,Masculino,36,bronze,48.39,Pix,1,6,3.0,2023-10-28,Yes
+645,65.0,masculino,33,bronze,"R$ 40,83",Cartão de Crédito,3,0,3.0,2022-05-25,0
+1913,18.0,feminino,11,prata,"R$ 85,03",Cartão de Crédito,2,1,3.0,2024-06-04,Não
+219,45.0,F,21,Bronze,52.64,Boleto,1,0,3.0,23/10/2021,Sim
+240,56.0,fem,5,Prata,82.68,Pix,3,2,2.0,2024-05-23,sim
+1132,59.0,Masculino,61,bronze,"R$ 53,05",Cartão de Crédito,0,1,3.0,06/12/2022,Sim
+1217,49.0,feminino,44,PRATA,85.04,Cartão de Crédito,2,2,2.0,16/05/2024,1
+793,62.0,Feminino,14,Bronze,61.24,Boleto,3,4,4.0,10/09/2024,S
+192,57.0,F,14,prata,,Cartão de Crédito,1,1,3.0,2024-09-12,Não
+334,69.0,Masculino,13,Bronze,"R$ 30,92",Boleto,1,3,3.0,2021-02-16,0
+1576,37.0,masculino,14,PRATA,91.42,Cartão de Crédito,2,1,5.0,30/08/2023,Não
+2135,45.0,Masculino,66,ouro,161.58,  Pix ,2,0,3.0,28/02/2024,Não
+963,70.0,Masculino,12,bronze,46.91,Boleto,1,4,2.0,23/06/2023,Yes
+1846,56.0,feminino,1,Bronze,"R$ 60,70",Cartão de Crédito,0,0,3.0,22/11/2022,0
+2111,35.0,fem,37,prata,88.01,Cartão de Crédito,0,0,3.0,28/08/2022,Não
+2193,35.0,M,1,Prata,83.85,  Boleto ,0,2,2.0,14/06/2021,Yes
+1968,47.0,fem,13,Bronze,45.41,Cartão de Crédito,0,0,3.0,2022-12-17,Yes
+1715,57.0,F,57,BRONZE,"R$ 50,64",Pix,1,0,4.0,27/08/2023,N
+1926,26.0,feminino,36,bronze,45.16,Pix,0,0,5.0,24/12/2021,N
+583,24.0,Masculino,55,PRATA,81.21,Cartão de Crédito,1,3,2.0,29/12/2023,S
+2164,74.0,Masculino,69,Ouro,170.31,Cartão de Crédito,1,5,,02/06/2022,S
+1710,31.0,feminino,65,ouro,,Pix,1,0,,17/02/2022,Não
+840,74.0,Feminino,15,Prata,"R$ 93,31",Pix,2,1,3.0,2021-11-20,No
+628,40.0,fem,67,bronze,33.68,Boleto,0,0,5.0,13/08/2023,N
+2052,36.0,masculino,28,BRONZE,50.13,Cartão de Crédito,0,0,2.0,30/12/2023,não
+324,74.0,F,29,PRATA,81.15,  Cartão de Crédito ,1,0,3.0,2023-09-04,N
+1959,58.0,M,15,PRATA,97.41,  Pix ,1,0,,2024-10-20,não
+1161,54.0,masc,70,BRONZE,55.2,Cartão de Crédito,1,1,3.0,2022-10-29,0
+779,34.0,,21,Prata,90.31,  Cartão de Crédito ,1,6,5.0,18/08/2021,não
+1077,62.0,Masculino,6,PRATA,85.01,Pix,0,2,4.0,2021-09-11,Não
+940,49.0,feminino,36,BRONZE,37.94,Boleto,3,2,4.0,2021-03-03,No
+438,75.0,M,53,Bronze,41.89,Pix,1,5,3.0,2024-10-30,Yes
+120,25.0,Feminino,55,Ouro,169.89,  Pix ,0,2,5.0,26/04/2021,N
+1619,25.0,masc,45,PRATA,"R$ 92,51",  Pix ,1,0,3.0,31/01/2024,não
+1861,63.0,Feminino,11,Ouro,157.16,Boleto,0,0,3.0,2021-04-23,0
+1366,19.0,F,19,OURO,157.89,Pix,0,2,,12/02/2021,não
+1027,22.0,fem,42,PRATA,83.28,Pix,2,1,4.0,04/10/2024,0
+1254,67.0,masculino,25,bronze,"R$ 50,75",Boleto,0,2,2.0,2021-10-01,N
+1690,23.0,F,59,bronze,43.71,  Pix ,2,4,3.0,13/03/2022,Yes
+1381,78.0,Masculino,63,Prata,93.06,  Cartão de Crédito ,0,1,4.0,02/12/2021,N
+77,38.0,feminino,15,prata,104.17,Cartão de Crédito,0,0,3.0,16/10/2022,Não
+1054,77.0,feminino,27,Prata,85.48,Pix,0,1,3.0,2021-03-17,N
+901,18.0,feminino,26,Ouro,"R$ 150,63",Boleto,0,7,4.0,2023-08-18,No
+372,59.0,F,67,prata,"R$ 104,82",Cartão de Crédito,0,3,3.0,2021-04-03,S
+1205,58.0,Masculino,28,Ouro,142.2,Pix,0,3,3.0,2021-02-28,Yes
+1719,43.0,masculino,5,PRATA,82.16,Cartão de Crédito,1,4,5.0,17/01/2022,No
+950,35.0,fem,8,BRONZE,70.93,  Pix ,1,0,3.0,2023-05-17,não
+942,43.0,masc,29,BRONZE,39.11,Pix,1,0,2.0,2024-04-13,sim
+578,50.0,feminino,65,prata,"R$ 81,67",Pix,0,5,2.0,2022-08-18,1
+820,79.0,masculino,53,Bronze,51.43,Cartão de Crédito,4,1,3.0,22/08/2021,1
+1747,79.0,Feminino,2,bronze,34.24,  Pix ,0,1,3.0,17/02/2022,0
+1931,,masc,1,PRATA,,Pix,1,1,1.0,2024-05-15,sim
+2057,63.0,masculino,24,bronze,"R$ 40,36",  Pix ,3,0,2.0,2022-05-26,1
+1584,43.0,Feminino,54,Bronze,54.06,Cartão de Crédito,2,2,4.0,29/05/2023,Não
+1641,62.0,masculino,62,Prata,96.11,Cartão de Crédito,3,0,4.0,2022-07-27,No
+887,21.0,Feminino,13,Bronze,68.97,Pix,1,4,5.0,29/07/2024,0
+969,75.0,M,59,bronze,"R$ 44,16",  Pix ,1,2,3.0,15/05/2023,0
+1902,50.0,masculino,71,PRATA,84.01,Boleto,4,1,1.0,07/09/2021,Sim
+786,54.0,F,47,bronze,"R$ 45,80",  Cartão de Crédito ,0,0,4.0,31/10/2024,No
+1838,36.0,masc,44,Ouro,165.89,Cartão de Crédito,3,2,5.0,09/10/2021,N
+2174,65.0,Feminino,59,bronze,50.69,Cartão de Crédito,2,2,3.0,2024-05-16,No
+1917,35.0,fem,2,PRATA,91.67,Cartão de Crédito,3,1,5.0,15/08/2023,No
+302,69.0,masc,8,prata,99.44,  Pix ,1,1,3.0,2024-01-08,0
+690,66.0,M,14,BRONZE,"R$ 48,12",Pix,2,0,5.0,2021-06-12,No
+813,60.0,masculino,4,PRATA,94.87,Cartão de Crédito,0,0,4.0,30/12/2023,No
+1062,60.0,F,35,Prata,86.57,Cartão de Crédito,0,0,3.0,29/03/2021,0
+1378,64.0,feminino,61,Bronze,,Boleto,1,0,5.0,2023-04-04,No
+1522,62.0,F,42,prata,93.51,Cartão de Crédito,3,0,3.0,2021-05-23,Yes
+237,59.0,Masculino,46,PRATA,78.01,Pix,2,2,3.0,20/02/2021,sim
+1116,48.0,Masculino,61,Bronze,40.72,Pix,0,0,4.0,28/10/2024,Não
+1615,21.0,Feminino,28,BRONZE,46.63,  Cartão de Crédito ,0,2,4.0,2022-06-19,No
+500,44.0,masc,9,Ouro,"R$ 162,80",Boleto,2,2,5.0,23/10/2024,No
+1973,60.0,Masculino,36,Ouro,"R$ 158,38",Cartão de Crédito,0,0,4.0,01/08/2024,Não
+1578,67.0,Masculino,61,bronze,34.76,Boleto,0,5,5.0,25/10/2021,0
+1080,69.0,M,52,Bronze,44.9,Pix,0,0,4.0,2023-01-05,Não
+1327,60.0,F,10,BRONZE,31.51,  Boleto ,2,0,5.0,2024-08-01,No
+795,44.0,F,55,prata,,Pix,1,0,,2022-07-16,Não
+2177,24.0,Masculino,23,prata,81.97,Cartão de Crédito,2,0,,27/06/2021,0
+1823,36.0,masculino,39,BRONZE,"R$ 41,51",  Cartão de Crédito ,1,0,4.0,03/04/2021,Não
+2182,,fem,9,BRONZE,40.65,Boleto,1,0,3.0,02/01/2022,No
+991,39.0,fem,1,Bronze,38.88,Pix,1,0,3.0,07/04/2023,S
+2012,42.0,F,51,bronze,55.12,Pix,1,3,4.0,04/09/2024,Yes
+935,45.0,Masculino,51,Prata,77.31,Pix,0,2,4.0,2021-02-17,No
+388,69.0,masculino,23,bronze,39.81,Cartão de Crédito,1,0,1.0,29/11/2022,S
+1748,41.0,M,27,bronze,51.21,Pix,2,5,,2022-07-17,Yes
+391,64.0,masculino,6,PRATA,"R$ 78,00",  Cartão de Crédito ,1,0,2.0,10/06/2024,sim
+744,34.0,M,14,bronze,"R$ 45,04",Pix,0,0,,23/04/2021,não
+353,36.0,F,16,PRATA,"R$ 88,11",Cartão de Crédito,1,1,,05/11/2023,Sim
+1218,63.0,F,63,Prata,"R$ 86,74",Cartão de Crédito,2,1,4.0,10/02/2024,Não
+236,,M,41,Ouro,174.35,Cartão de Crédito,0,1,2.0,2021-03-18,No
+2036,70.0,fem,3,BRONZE,43.01,Cartão de Crédito,1,2,4.0,2021-02-24,S
+481,35.0,F,9,ouro,"R$ 149,55",Pix,0,0,3.0,2024-10-03,N
+568,33.0,Feminino,71,PRATA,"R$ 83,04",Cartão de Crédito,0,2,4.0,12/07/2023,0
+1141,72.0,Feminino,39,Bronze,44.39,Pix,1,0,5.0,09/08/2021,Não
+2003,42.0,M,25,BRONZE,40.52,Pix,1,1,2.0,2023-10-13,S
+101,69.0,F,19,ouro,"R$ 156,28",Pix,2,2,2.0,11/12/2022,0
+1781,20.0,fem,33,Bronze,"R$ 37,85",Cartão de Crédito,1,3,2.0,2021-05-02,Yes
+1865,69.0,fem,54,bronze,39.91,Cartão de Crédito,0,0,5.0,2023-07-17,N
+121,45.0,masculino,8,bronze,47.49,Pix,2,0,4.0,17/05/2024,N
+1389,73.0,M,47,PRATA,76.13,Pix,4,3,,02/09/2022,N
+491,75.0,Masculino,52,ouro,160.1,Pix,1,0,3.0,09/11/2023,N
+1025,68.0,Masculino,44,BRONZE,32.79,Cartão de Crédito,1,0,3.0,2022-05-11,Não
+1087,67.0,Masculino,10,Prata,93.03,Cartão de Crédito,1,1,4.0,2021-04-18,0
+1273,75.0,F,53,PRATA,91.57,Cartão de Crédito,3,0,,16/03/2021,No
+1478,42.0,fem,55,prata,"R$ 110,31",Cartão de Crédito,1,0,3.0,2022-06-22,Yes
+927,51.0,,60,PRATA,93.14,Boleto,0,0,3.0,24/03/2024,não
+516,24.0,Feminino,33,Bronze,44.86,Cartão de Crédito,1,2,3.0,2023-04-08,0
+1595,61.0,Feminino,64,PRATA,103.65,Pix,2,0,4.0,2022-09-05,N
+224,30.0,Feminino,59,BRONZE,36.55,Pix,1,0,2.0,2022-09-19,1
+1758,55.0,F,53,Ouro,159.23,,3,1,3.0,2022-07-28,não
+614,41.0,,69,Bronze,38.8,Pix,1,3,3.0,2022-10-31,S
+844,20.0,masc,38,BRONZE,43.54,Pix,0,0,3.0,23/07/2022,N
+1246,79.0,Masculino,51,Bronze,49.82,Boleto,1,7,2.0,2023-12-26,1
+1626,79.0,Masculino,65,PRATA,"R$ 111,68",Pix,1,8,2.0,30/12/2022,sim
+1814,48.0,fem,35,Bronze,42.81,Cartão de Crédito,0,0,1.0,2022-06-17,Não
+1490,49.0,masculino,12,BRONZE,49.29,  Pix ,0,0,,2024-03-28,No
+53,40.0,feminino,18,Bronze,49.15,Boleto,0,5,4.0,2021-12-31,No
+530,,masc,33,OURO,156.38,Pix,2,1,2.0,29/03/2022,Sim
+486,32.0,masculino,35,prata,"R$ 83,20",Pix,1,0,3.0,31/03/2024,0
+2169,76.0,masculino,66,bronze,"R$ 35,11",Pix,2,3,4.0,2023-10-03,S
+819,59.0,feminino,43,BRONZE,49.68,Pix,1,0,4.0,2022-03-16,No
+2125,64.0,masc,69,bronze,50.13,Boleto,2,2,4.0,2021-01-27,S
+156,59.0,Masculino,27,PRATA,79.25,Pix,0,2,4.0,2024-09-21,N
+1367,36.0,F,30,ouro,162.29,Cartão de Crédito,2,0,3.0,31/10/2023,0
+601,56.0,Masculino,57,OURO,170.04,Cartão de Crédito,0,0,4.0,2022-04-24,não
+1910,76.0,masculino,23,Prata,"R$ 101,29",Boleto,1,3,3.0,05/08/2021,sim
+249,66.0,masc,56,prata,"R$ 90,17",Pix,3,1,,2021-08-18,não
+762,52.0,M,30,ouro,160.58,Boleto,2,1,2.0,2023-11-13,S
+1466,24.0,Feminino,32,BRONZE,40.23,Pix,0,0,1.0,2021-08-28,S
+589,69.0,Masculino,1,ouro,157.21,Pix,4,1,3.0,02/10/2024,Yes
+1131,43.0,fem,44,OURO,160.79,Pix,1,1,2.0,2021-10-27,Não
+543,30.0,masc,37,Bronze,48.23,Cartão de Crédito,2,1,3.0,2022-03-15,No
+794,69.0,Masculino,61,PRATA,92.44,Cartão de Crédito,2,2,4.0,2024-05-13,No
+1142,38.0,Feminino,22,Ouro,"R$ 162,59",Pix,1,1,2.0,2024-02-10,não
+1734,71.0,fem,52,Bronze,"R$ 47,77",Boleto,0,2,4.0,31/01/2023,não
+629,49.0,F,45,ouro,,  Cartão de Crédito ,1,0,2.0,23/12/2022,sim
+151,71.0,feminino,39,BRONZE,"R$ 45,15",Cartão de Crédito,2,0,3.0,19/10/2023,Não
+1958,50.0,feminino,22,BRONZE,"R$ 46,76",Cartão de Crédito,0,0,4.0,28/02/2023,N
+292,34.0,feminino,19,BRONZE,31.35,Cartão de Crédito,1,1,5.0,04/07/2023,Não
+1564,74.0,feminino,46,bronze,54.59,Boleto,2,1,5.0,28/07/2024,1
+382,76.0,F,33,ouro,152.48,Cartão de Crédito,3,2,2.0,25/01/2022,sim
+687,43.0,masculino,67,Bronze,60.2,Cartão de Crédito,1,0,,2022-12-09,Yes
+1368,46.0,feminino,11,prata,98.02,Pix,1,1,4.0,2024-09-14,N
+1225,43.0,F,44,Bronze,"R$ 50,12",  Pix ,0,0,3.0,2023-10-07,não
+1621,34.0,Masculino,9,Prata,"R$ 91,10",Cartão de Crédito,0,0,4.0,14/02/2021,Não
+898,21.0,feminino,23,bronze,56.3,Cartão de Crédito,1,1,2.0,2021-10-23,Sim
+2063,27.0,fem,21,bronze,38.28,Cartão de Crédito,4,1,3.0,2024-07-25,S
+855,35.0,Masculino,56,Prata,89.33,Cartão de Crédito,0,1,3.0,2022-08-22,No
+1072,30.0,feminino,30,Prata,90.04,Pix,1,0,3.0,23/04/2022,0
+555,79.0,fem,71,ouro,158.39,Cartão de Crédito,0,1,4.0,11/08/2022,No
+1820,36.0,masculino,49,PRATA,79.49,Pix,2,2,4.0,02/10/2024,No
+1724,63.0,masculino,30,ouro,"R$ 159,23",Pix,1,0,4.0,29/12/2023,N
+2011,48.0,masculino,11,PRATA,87.23,Pix,4,1,4.0,2022-06-02,sim
+1530,74.0,fem,46,Prata,97.72,Boleto,3,0,3.0,09/04/2024,Yes
+892,62.0,feminino,28,OURO,160.88,Cartão de Crédito,2,4,3.0,2022-01-23,0
+2068,74.0,M,66,Ouro,155.81,  Cartão de Crédito ,0,1,4.0,11/10/2023,N
+536,27.0,F,10,prata,81.3,  Cartão de Crédito ,1,1,5.0,04/08/2024,N
+1365,52.0,F,56,Ouro,"R$ 161,95",Pix,0,1,4.0,17/12/2023,N
+616,57.0,F,7,prata,92.86,Pix,3,1,5.0,2024-01-23,não
+155,44.0,F,22,Bronze,43.02,Boleto,2,3,,2023-11-22,Sim
+1194,61.0,Feminino,14,bronze,"R$ 42,96",Boleto,0,0,4.0,2022-02-12,N
+1778,28.0,masc,71,BRONZE,"R$ 45,64",Cartão de Crédito,1,1,3.0,2024-05-15,N
+2044,64.0,Feminino,3,Prata,"R$ 88,05",Cartão de Crédito,0,0,5.0,2023-10-25,N
+1877,32.0,Feminino,70,prata,"R$ 80,39",  Cartão de Crédito ,1,0,3.0,21/05/2024,N
+2079,34.0,masculino,53,bronze,46.15,  Pix ,2,2,4.0,2021-06-25,No
+323,56.0,M,15,Bronze,49.73,Cartão de Crédito,2,1,3.0,31/12/2022,S
+1845,64.0,M,30,prata,92.84,Boleto,3,0,2.0,2023-08-21,S
+1283,42.0,masculino,57,ouro,168.21,Pix,2,2,3.0,01/06/2024,Não
+83,27.0,Masculino,23,Bronze,34.4,  Pix ,2,3,3.0,2022-09-02,0
+513,70.0,Feminino,67,Bronze,44.47,Boleto,0,0,4.0,2024-06-14,N
+1489,24.0,fem,69,prata,104.15,Boleto,3,1,3.0,2021-08-17,N
+1819,,feminino,14,BRONZE,56.62,Pix,0,8,3.0,11/07/2023,0
+1770,30.0,Masculino,44,bronze,50.15,  Pix ,2,0,4.0,2022-02-13,não
+1575,27.0,F,31,Prata,"R$ 109,58",Cartão de Crédito,2,1,3.0,14/03/2024,não
+930,53.0,fem,57,ouro,160.39,Pix,2,2,3.0,29/03/2022,Não
+2056,40.0,fem,24,BRONZE,61.56,  Boleto ,1,0,3.0,2021-07-03,0
+1358,26.0,fem,25,OURO,"R$ 155,61",Boleto,0,0,4.0,07/08/2022,No
+11,50.0,Masculino,50,OURO,176.73,,2,0,3.0,20/03/2021,Não
+1495,43.0,masculino,29,prata,90.23,Cartão de Crédito,0,0,,2023-08-24,Não
+832,32.0,F,20,Bronze,47.11,Cartão de Crédito,1,0,5.0,04/06/2024,Não
+33,23.0,feminino,67,bronze,30.83,  Cartão de Crédito ,3,0,3.0,19/09/2022,0
+1801,21.0,Feminino,23,Prata,,Pix,1,2,4.0,2022-03-11,não
+414,26.0,masc,43,prata,93.41,Cartão de Crédito,0,0,2.0,2024-08-20,0
+581,,F,23,bronze,"R$ 49,63",Boleto,1,1,5.0,31/03/2023,0
+1407,39.0,masculino,24,bronze,"R$ 45,16",  Pix ,1,15,5.0,21/05/2022,No
+2105,72.0,M,48,bronze,37.34,Cartão de Crédito,2,9,,2022-02-19,Sim
+1776,26.0,M,50,BRONZE,"R$ 51,36",Pix,1,0,3.0,27/06/2024,Não
+108,59.0,Feminino,11,Bronze,44.34,Pix,2,1,3.0,2024-08-28,0
+615,60.0,feminino,15,Bronze,49.0,Pix,0,2,3.0,04/05/2023,N
+1046,27.0,Masculino,58,PRATA,90.97,Pix,0,0,,2023-02-05,Não
+1403,36.0,feminino,12,prata,75.22,Pix,1,1,4.0,2024-08-26,não
+1015,50.0,,40,bronze,36.73,Boleto,0,2,4.0,2022-07-24,não
+90,69.0,Masculino,30,Bronze,"R$ 42,73",Pix,2,2,5.0,10/11/2021,0
+2029,50.0,masculino,25,prata,110.52,Cartão de Crédito,1,1,4.0,24/08/2021,No
+1812,58.0,masc,63,Bronze,55.44,Pix,1,4,3.0,2022-12-15,N
+602,66.0,feminino,32,PRATA,"R$ 92,47",Cartão de Crédito,1,3,4.0,07/02/2021,Não
+1238,25.0,feminino,47,BRONZE,"R$ 47,86",Boleto,2,0,1.0,2022-08-02,sim
+2116,30.0,masculino,20,prata,"R$ 81,98",Pix,2,0,4.0,18/08/2023,não
+134,52.0,fem,59,bronze,44.57,  Pix ,1,0,3.0,2023-03-18,0
+1371,72.0,Feminino,57,Prata,88.51,Boleto,3,0,,2021-06-06,Sim
+556,49.0,feminino,62,PRATA,106.3,Cartão de Crédito,5,2,2.0,2024-07-24,Não
+1032,28.0,Feminino,16,bronze,49.21,Cartão de Crédito,3,12,3.0,24/03/2023,Sim
+1867,24.0,feminino,61,Bronze,41.18,Cartão de Crédito,2,1,3.0,27/07/2022,1
+321,37.0,Masculino,32,Bronze,36.98,,2,2,,2023-10-08,1
+256,,Masculino,34,Prata,84.49,Pix,0,1,4.0,2021-05-16,N
+1212,66.0,masc,71,BRONZE,46.37,Pix,0,1,3.0,22/01/2024,Yes
+2062,52.0,M,15,ouro,"R$ 169,17",  Boleto ,0,0,4.0,28/11/2022,0
+635,29.0,masc,28,prata,82.71,Pix,3,4,4.0,22/06/2022,não
+553,69.0,fem,42,ouro,160.2,Pix,3,0,3.0,13/05/2023,não
+1329,59.0,fem,14,OURO,169.83,Boleto,1,1,5.0,2024-02-26,não
+1056,79.0,Masculino,14,OURO,"R$ 167,93",Cartão de Crédito,0,0,3.0,09/10/2024,Não
+1858,54.0,Masculino,38,Ouro,174.11,Boleto,2,0,4.0,2023-04-06,No
+1709,33.0,M,14,PRATA,"R$ 94,36",Pix,3,6,2.0,2024-06-08,Sim
+797,78.0,fem,22,PRATA,89.99,Pix,2,0,3.0,2023-04-10,Não
+1980,67.0,M,34,ouro,165.95,Cartão de Crédito,1,4,2.0,15/12/2023,Sim
+1752,73.0,F,16,OURO,166.64,Boleto,0,2,4.0,2023-09-30,0
+1265,,masc,26,prata,109.91,Pix,1,0,5.0,22/12/2022,No
+2042,73.0,M,20,ouro,170.04,Cartão de Crédito,0,0,2.0,30/12/2023,Sim
+175,61.0,fem,50,bronze,39.0,Boleto,2,2,4.0,2023-01-11,N
+767,55.0,F,18,BRONZE,"R$ 43,25",Pix,0,3,5.0,2024-06-25,Não
+246,23.0,Masculino,64,prata,"R$ 75,18",Pix,1,3,2.0,24/11/2022,Sim
+1081,75.0,M,7,Prata,,  Pix ,0,4,4.0,2023-07-18,No
+1655,27.0,masculino,35,Prata,95.56,  Pix ,0,3,5.0,2024-01-10,N
+2192,43.0,feminino,58,Prata,83.86,  Boleto ,2,2,3.0,2022-02-04,No
+145,79.0,masc,42,PRATA,72.73,Pix,1,0,,2021-07-12,No
+146,70.0,F,19,Bronze,44.7,  Cartão de Crédito ,1,1,4.0,14/03/2024,Não
+91,44.0,feminino,29,OURO,164.89,Cartão de Crédito,0,1,4.0,2024-07-18,N
+1703,,masculino,37,PRATA,78.94,  Pix ,0,0,3.0,2024-05-29,não
+1417,57.0,masculino,4,bronze,65.56,Pix,0,3,3.0,2022-04-24,sim
+683,77.0,masculino,40,Prata,84.3,Pix,0,6,5.0,30/08/2024,não
+311,59.0,Masculino,15,PRATA,100.38,Cartão de Crédito,1,5,3.0,24/12/2023,não
+1384,73.0,M,22,prata,85.75,  Pix ,4,2,4.0,2023-02-18,N
+94,42.0,feminino,54,bronze,46.46,Pix,2,0,,15/03/2021,0
+1870,65.0,feminino,8,bronze,,Pix,2,2,3.0,01/09/2023,0
+925,33.0,masculino,32,Bronze,29.18,Pix,2,1,4.0,2022-11-02,sim
+2009,66.0,M,17,Bronze,"R$ 61,78",  Cartão de Crédito ,2,0,4.0,06/10/2021,Sim
+1036,64.0,M,41,bronze,47.43,Cartão de Crédito,0,0,4.0,2024-02-02,Não
+1401,70.0,Feminino,32,bronze,41.82,Cartão de Crédito,1,2,3.0,26/08/2022,sim
+244,58.0,feminino,16,Prata,98.46,Boleto,2,1,3.0,04/06/2021,0
+1501,50.0,fem,11,Ouro,161.64,Pix,1,4,3.0,2023-09-12,Não
+1112,32.0,masculino,29,Ouro,151.32,Cartão de Crédito,1,1,,10/11/2022,No
+215,63.0,masc,27,prata,"R$ 88,65",Cartão de Crédito,2,8,3.0,2021-02-24,Yes
+1469,66.0,masculino,31,bronze,46.06,  Boleto ,2,0,3.0,09/09/2022,Yes
+1198,78.0,masculino,69,BRONZE,51.27,Cartão de Crédito,1,5,,2024-10-31,Sim
+999,77.0,Feminino,70,bronze,56.69,Boleto,3,1,4.0,14/09/2024,1
+854,32.0,fem,26,Prata,103.02,Cartão de Crédito,2,1,3.0,2022-02-05,Não
+426,30.0,Feminino,42,BRONZE,44.59,Pix,0,1,1.0,2023-08-30,S
+2168,70.0,masc,11,PRATA,90.62,Cartão de Crédito,1,2,4.0,10/05/2022,0
+1143,75.0,masc,8,bronze,"R$ 48,87",  Cartão de Crédito ,4,2,,14/06/2024,Não
+1144,70.0,Feminino,44,Bronze,44.95,Boleto,3,4,4.0,2022-06-06,Yes
+1700,77.0,masculino,66,BRONZE,46.79,Pix,0,0,3.0,2024-03-22,N
+227,68.0,fem,12,Bronze,45.6,Cartão de Crédito,2,1,3.0,27/05/2022,No
+1941,28.0,M,52,Bronze,34.47,Pix,2,8,4.0,23/10/2022,Sim
+1,23.0,M,26,bronze,39.72,Pix,1,0,3.0,2023-01-13,1
+1419,71.0,Feminino,31,Bronze,"R$ 43,07",Pix,3,0,4.0,2023-01-14,não
+402,66.0,Feminino,16,PRATA,98.63,Pix,0,0,4.0,16/08/2023,Não
+1429,34.0,fem,61,Prata,91.56,Boleto,1,1,4.0,2021-07-26,não
+1104,27.0,M,20,OURO,,  Boleto ,0,1,3.0,2024-10-15,não
+85,57.0,feminino,49,bronze,47.5,Pix,5,0,4.0,2023-10-11,N
+163,43.0,F,69,prata,91.7,Boleto,0,0,3.0,27/03/2023,1
+115,49.0,M,17,Bronze,43.92,Pix,3,3,,2024-03-14,sim
+671,77.0,F,21,PRATA,81.13,Boleto,3,4,5.0,22/08/2022,0
+1175,18.0,fem,48,PRATA,86.17,Cartão de Crédito,1,1,3.0,08/05/2023,não
+1821,,F,10,Bronze,35.97,Boleto,1,0,3.0,2023-10-21,S
+2005,67.0,Masculino,22,Prata,84.26,  Boleto ,2,0,3.0,21/10/2023,não
+2040,45.0,F,18,prata,93.03,Pix,0,7,2.0,2021-02-05,Sim
+1393,79.0,Feminino,70,Ouro,152.83,  Cartão de Crédito ,0,1,4.0,2023-12-13,No
+1568,55.0,fem,54,BRONZE,40.14,Boleto,0,3,4.0,2021-10-28,não
+890,34.0,Masculino,34,Ouro,164.93,Pix,3,0,,20/01/2021,No
+1502,34.0,feminino,17,BRONZE,38.8,Pix,3,3,3.0,2024-05-27,S
+1661,56.0,fem,39,prata,96.24,Cartão de Crédito,1,1,5.0,2021-08-13,No
+1557,73.0,F,46,Bronze,33.36,,0,0,4.0,17/08/2021,Não
+626,32.0,masc,60,Prata,91.5,Cartão de Crédito,0,0,4.0,2023-07-08,Não
+2013,27.0,masculino,30,Bronze,"R$ 33,42",  Pix ,0,0,4.0,2024-05-18,N
+1537,27.0,masculino,27,Bronze,38.51,Boleto,2,0,3.0,18/03/2024,0
+1824,72.0,M,21,OURO,"R$ 175,99",,0,1,3.0,2024-05-17,No
+1097,69.0,Feminino,16,prata,83.37,Boleto,5,0,2.0,2021-06-12,Yes
+953,56.0,feminino,14,BRONZE,"R$ 37,99",Pix,3,0,,2022-10-27,Sim
+808,24.0,masc,31,bronze,45.29,Cartão de Crédito,2,0,3.0,2024-01-03,sim
+259,28.0,Feminino,34,bronze,57.99,Pix,0,5,2.0,2024-03-04,sim
+625,55.0,masculino,44,OURO,"R$ 166,62",Cartão de Crédito,1,0,3.0,2022-05-31,N
+827,60.0,Masculino,9,BRONZE,"R$ 44,34",Boleto,0,2,,2023-08-24,Não
+235,48.0,fem,32,Prata,"R$ 92,32",  Boleto ,2,2,3.0,04/07/2022,não
+136,36.0,Feminino,39,prata,94.23,Pix,0,0,2.0,04/09/2021,No
+617,33.0,M,48,Bronze,"R$ 36,29",  Cartão de Crédito ,3,9,3.0,17/03/2024,Sim
+1541,47.0,masc,16,Bronze,,Cartão de Crédito,1,0,3.0,2023-01-17,1
+2199,53.0,F,5,bronze,29.22,  Pix ,2,2,3.0,09/12/2023,N
+837,68.0,Feminino,57,Prata,,Pix,0,0,5.0,2023-09-12,Não
+843,74.0,M,24,prata,93.75,Boleto,2,1,3.0,2022-08-21,não
+960,43.0,fem,62,bronze,48.9,Pix,0,0,4.0,15/05/2021,Não
+1827,24.0,masculino,15,Prata,"R$ 87,89",Boleto,1,2,5.0,2024-09-25,No
+593,32.0,masc,52,prata,99.43,Boleto,1,0,,2021-07-06,0
+1315,73.0,fem,19,Ouro,154.46,Pix,1,1,4.0,15/08/2024,No
+1526,20.0,F,71,PRATA,91.17,  Pix ,2,1,4.0,2022-04-10,No
+1563,33.0,feminino,41,BRONZE,55.52,  Cartão de Crédito ,2,1,1.0,15/08/2022,S
+1292,71.0,feminino,46,Bronze,,  Cartão de Crédito ,2,1,3.0,2021-09-22,S
+1753,56.0,F,52,OURO,158.73,Boleto,1,1,4.0,2022-05-22,N
+1606,73.0,F,61,Bronze,,Pix,2,1,3.0,2021-04-20,N
+344,49.0,M,28,bronze,"R$ 57,16",Cartão de Crédito,0,3,4.0,2022-09-01,0
+1967,40.0,F,33,Bronze,39.81,Pix,1,1,3.0,2024-03-24,N
+1878,73.0,Feminino,43,Prata,103.69,Cartão de Crédito,2,2,3.0,2024-02-04,No
+294,38.0,masculino,44,ouro,166.79,Cartão de Crédito,2,1,5.0,2024-08-10,0
+365,25.0,feminino,32,PRATA,"R$ 87,13",Boleto,0,0,5.0,14/01/2022,não
+179,,Feminino,71,bronze,49.1,Cartão de Crédito,3,0,2.0,2024-04-01,Yes
+660,35.0,F,32,prata,90.64,Pix,3,3,3.0,24/02/2021,Sim
+997,50.0,fem,17,PRATA,109.42,Boleto,1,2,5.0,13/06/2023,não
+15,62.0,M,9,OURO,160.3,Pix,1,0,3.0,2023-10-14,N
+1711,39.0,fem,17,prata,78.63,Pix,2,0,5.0,09/03/2022,não
+1111,57.0,feminino,37,OURO,"R$ 160,25",Pix,4,2,,03/05/2022,0
+1395,31.0,feminino,18,BRONZE,"R$ 42,19",,0,0,4.0,07/12/2021,não
+166,68.0,Masculino,7,PRATA,98.69,Pix,3,0,3.0,2023-11-11,Yes
+2143,77.0,M,34,PRATA,101.36,  Pix ,0,1,4.0,18/05/2021,No
+1360,40.0,Feminino,34,Prata,74.4,Cartão de Crédito,1,0,4.0,2021-10-02,Não
+60,60.0,masculino,71,Bronze,"R$ 51,75",Pix,1,2,,10/04/2021,sim
+710,46.0,Masculino,25,Prata,76.79,Pix,0,2,2.0,28/12/2023,S
+677,54.0,masculino,48,Bronze,23.09,,2,0,5.0,26/10/2022,N
+1379,49.0,Masculino,63,prata,85.94,Pix,2,2,4.0,18/11/2021,não
+781,72.0,,51,PRATA,90.56,Pix,1,0,3.0,2024-02-07,Não
+425,43.0,M,66,prata,,Cartão de Crédito,1,1,3.0,2023-10-10,não
+293,77.0,Masculino,66,BRONZE,41.33,Pix,3,0,2.0,27/03/2022,não
+1066,42.0,fem,46,BRONZE,60.39,Pix,2,0,3.0,2024-06-16,N
+2086,58.0,Masculino,55,bronze,50.82,Pix,1,2,5.0,06/10/2021,não
+330,52.0,feminino,41,Prata,"R$ 85,68",Pix,2,3,4.0,2023-04-10,No
+1639,29.0,F,69,prata,80.71,Pix,2,5,,2021-03-01,não
+430,62.0,masc,3,Bronze,"R$ 42,43",Pix,1,1,3.0,28/05/2021,No
+1013,33.0,Feminino,25,prata,"R$ 95,70",,0,3,3.0,2023-06-30,N
+80,59.0,feminino,48,PRATA,,Cartão de Crédito,1,1,3.0,27/09/2023,Sim
+1718,41.0,Masculino,61,Prata,83.06,Cartão de Crédito,1,2,3.0,2022-11-17,sim
+1053,49.0,Feminino,12,BRONZE,44.76,Boleto,2,0,2.0,06/06/2022,sim
+938,,masculino,34,Bronze,39.99,Pix,1,0,3.0,08/12/2021,0
+1732,,M,6,Prata,96.84,Pix,0,1,4.0,2022-01-06,0
+835,70.0,F,8,Ouro,160.1,Cartão de Crédito,0,0,2.0,2021-02-05,Não
+750,27.0,F,37,OURO,"R$ 167,23",Pix,0,0,,2021-08-14,N
+891,24.0,F,25,ouro,159.99,Boleto,1,0,3.0,08/06/2021,1
+255,58.0,Masculino,59,prata,84.58,Pix,0,1,4.0,18/10/2024,N
+1185,44.0,fem,57,Bronze,40.74,Pix,4,0,5.0,26/10/2022,N
+1483,35.0,M,16,BRONZE,40.21,Cartão de Crédito,2,0,3.0,2024-08-18,Yes
+2198,71.0,Masculino,19,PRATA,90.94,Boleto,0,8,2.0,2024-08-20,sim
+1408,72.0,M,50,bronze,37.04,Cartão de Crédito,1,0,5.0,19/11/2023,0
+1338,36.0,fem,10,prata,89.93,Cartão de Crédito,1,0,4.0,2024-10-01,não
+1109,76.0,masculino,2,prata,99.25,Boleto,1,1,4.0,13/08/2021,S
+1599,70.0,F,1,Bronze,43.27,Boleto,2,0,2.0,30/09/2022,1
+2146,45.0,Masculino,36,Ouro,169.91,Boleto,0,2,5.0,2021-12-01,No
+137,55.0,feminino,33,Ouro,163.02,Pix,1,0,3.0,02/04/2022,não
+1136,,masculino,17,BRONZE,36.31,Cartão de Crédito,1,1,4.0,30/10/2021,0
+1219,68.0,F,7,bronze,41.77,Pix,0,4,4.0,2022-04-15,0
+853,77.0,feminino,54,Prata,"R$ 79,57",Pix,0,0,4.0,20/10/2024,N
+1203,79.0,feminino,12,prata,83.85,Cartão de Crédito,0,5,4.0,2022-12-07,0
+1580,55.0,Masculino,32,ouro,"R$ 155,98",  Boleto ,1,0,4.0,2021-12-23,N
+724,25.0,M,39,prata,"R$ 83,79",  Cartão de Crédito ,1,3,2.0,17/05/2023,Não
+860,67.0,masc,20,Bronze,39.82,Cartão de Crédito,1,2,4.0,14/08/2023,No
+970,20.0,Feminino,44,PRATA,77.94,  Cartão de Crédito ,2,5,,2024-04-26,S
+497,25.0,fem,10,ouro,159.23,Pix,2,0,3.0,2021-12-05,No
+951,23.0,feminino,51,BRONZE,"R$ 53,44",  Boleto ,0,0,3.0,29/04/2024,não
+806,66.0,Feminino,27,PRATA,,Cartão de Crédito,0,0,5.0,2022-01-20,0
+1830,78.0,masculino,30,OURO,"R$ 166,25",Pix,3,1,,29/11/2022,não
+130,57.0,masculino,11,Prata,91.37,Pix,2,0,,2021-10-17,N
+1740,30.0,masc,37,Bronze,42.58,Boleto,3,1,5.0,10/01/2021,No
+338,37.0,Feminino,36,bronze,47.51,Pix,0,4,4.0,2022-05-27,No
+731,63.0,feminino,13,Prata,88.64,Boleto,3,4,1.0,14/08/2021,sim
+609,77.0,Masculino,57,Bronze,54.92,Cartão de Crédito,0,4,,2023-12-13,0
+1149,60.0,masculino,9,PRATA,84.34,Cartão de Crédito,0,2,3.0,16/09/2022,N
+196,23.0,Masculino,47,Ouro,154.12,Cartão de Crédito,1,0,4.0,23/07/2024,0
+1251,32.0,fem,34,prata,"R$ 97,90",Boleto,2,2,,28/08/2023,0
+1714,63.0,feminino,40,BRONZE,31.87,Pix,2,0,4.0,06/03/2024,0
+1293,45.0,F,27,OURO,152.06,Cartão de Crédito,0,1,4.0,2024-03-02,No
+1595,61.0,Feminino,64,PRATA,103.65,  Pix ,2,0,4.0,2022-09-05,N
+910,23.0,masculino,17,OURO,148.24,Cartão de Crédito,0,1,,23/07/2024,não
+585,43.0,feminino,65,BRONZE,47.18,Pix,1,2,5.0,05/10/2022,N
+104,18.0,F,63,prata,89.61,Boleto,0,0,4.0,03/03/2024,N
+1618,49.0,fem,57,BRONZE,49.22,Cartão de Crédito,0,2,1.0,08/11/2021,sim
+2124,55.0,masc,19,Bronze,"R$ 44,71",Cartão de Crédito,1,1,3.0,2023-04-15,não
+988,37.0,masculino,29,OURO,"R$ 162,39",Pix,2,3,1.0,23/03/2024,Yes
+1811,33.0,fem,26,BRONZE,64.57,Cartão de Crédito,1,1,4.0,2024-02-04,0
+720,55.0,fem,27,prata,82.53,Cartão de Crédito,0,0,,21/10/2024,não
+885,68.0,masculino,25,PRATA,89.36,  Cartão de Crédito ,1,1,2.0,2023-09-04,sim
+777,44.0,Masculino,36,Prata,87.78,Boleto,0,2,2.0,2024-09-13,No
+1570,79.0,masc,24,prata,87.7,Boleto,0,1,,05/09/2023,Não
+850,55.0,masculino,51,BRONZE,57.68,  Pix ,4,7,4.0,28/04/2023,1
+895,64.0,fem,65,prata,94.09,  Boleto ,2,0,5.0,2023-05-10,No
+228,,fem,28,PRATA,98.31,Cartão de Crédito,3,4,2.0,2022-12-11,não
+435,44.0,F,6,Prata,87.67,Cartão de Crédito,3,0,4.0,2021-06-13,0
+1326,29.0,masc,16,Bronze,50.3,Pix,1,0,,2022-05-01,não
+1879,63.0,M,18,BRONZE,46.95,Boleto,1,0,2.0,10/05/2022,No
+1300,19.0,F,32,OURO,158.49,Cartão de Crédito,0,0,,2024-04-08,não
+127,22.0,fem,25,bronze,39.43,Cartão de Crédito,0,2,3.0,2023-05-11,Yes
+406,49.0,F,54,bronze,30.5,Pix,0,0,3.0,07/02/2021,No
+776,76.0,Masculino,34,ouro,175.31,  Boleto ,0,1,3.0,2023-08-07,No
+822,59.0,F,10,prata,84.34,Cartão de Crédito,1,10,2.0,24/11/2022,1
+712,50.0,masculino,7,Bronze,"R$ 38,48",Cartão de Crédito,0,0,,27/04/2022,0
+1790,,F,34,OURO,"R$ 166,22",Cartão de Crédito,1,2,4.0,18/11/2022,não
+1708,74.0,M,69,Ouro,136.11,Cartão de Crédito,1,2,2.0,01/05/2021,0
+1774,42.0,masculino,19,bronze,"R$ 36,33",Boleto,0,1,1.0,2022-04-01,S
+457,27.0,masc,5,Bronze,"R$ 33,56",Cartão de Crédito,1,0,4.0,20/05/2022,S
+1061,65.0,,31,Bronze,44.54,Cartão de Crédito,0,0,3.0,16/08/2021,0
+1164,50.0,Masculino,59,PRATA,94.46,Boleto,0,1,5.0,2023-11-03,No
+304,73.0,feminino,8,OURO,165.94,Pix,0,3,4.0,2022-05-18,Não
+268,39.0,Feminino,49,prata,"R$ 94,01",Pix,1,1,5.0,2021-03-04,Não
+1859,50.0,masculino,15,bronze,"R$ 61,75",Pix,0,2,3.0,2024-07-29,1
+1558,65.0,masc,39,bronze,38.27,Cartão de Crédito,2,3,3.0,2021-01-03,Yes
+546,,masculino,29,Prata,77.71,Pix,2,0,2.0,31/01/2023,N
+213,66.0,masculino,67,BRONZE,49.84,Cartão de Crédito,2,4,,2021-06-26,No
+897,49.0,F,13,Bronze,49.56,  Cartão de Crédito ,1,0,4.0,14/03/2022,N
+1493,19.0,feminino,14,bronze,56.0,Cartão de Crédito,1,0,4.0,05/11/2021,Não
+1223,77.0,masc,43,prata,82.1,  Cartão de Crédito ,4,2,4.0,2024-06-12,No
+1942,33.0,fem,62,PRATA,81.71,Cartão de Crédito,2,0,5.0,23/07/2021,0
+1892,33.0,Masculino,4,prata,103.72,Pix,0,0,3.0,19/08/2022,1
+1697,47.0,masc,38,BRONZE,,Boleto,0,0,3.0,03/01/2024,não
+917,51.0,M,45,Bronze,41.5,Boleto,0,0,5.0,2024-05-18,N
+1552,70.0,Feminino,57,Prata,"R$ 94,56",Boleto,3,1,5.0,04/05/2023,0
+676,62.0,masculino,37,bronze,52.91,Pix,2,0,4.0,2021-05-30,não
+1290,56.0,feminino,51,prata,85.49,Boleto,1,2,,16/08/2021,não
+815,66.0,F,35,BRONZE,43.12,Boleto,0,3,1.0,2022-01-29,sim
+1266,20.0,Feminino,54,Prata,93.58,Cartão de Crédito,1,0,2.0,17/05/2022,Sim
+343,56.0,M,68,BRONZE,40.16,Cartão de Crédito,2,2,4.0,2024-01-11,N
+550,60.0,F,70,Bronze,52.22,Boleto,0,5,1.0,2022-07-30,S
+1411,21.0,Feminino,40,PRATA,93.45,Pix,0,1,3.0,24/05/2023,não
+1215,22.0,masculino,43,BRONZE,45.1,,1,0,4.0,2023-07-25,0
+967,55.0,,54,Bronze,"R$ 49,25",Pix,0,5,2.0,06/09/2021,No
+1231,68.0,Feminino,18,Prata,91.74,Pix,2,0,2.0,15/04/2022,No
+296,50.0,Masculino,15,PRATA,"R$ 91,92",Cartão de Crédito,1,0,4.0,20/11/2022,No
+696,33.0,feminino,39,BRONZE,"R$ 40,49",Pix,1,4,3.0,2021-04-20,Não
+1453,21.0,Feminino,30,Bronze,"R$ 43,96",Cartão de Crédito,1,1,1.0,23/02/2021,Sim
+74,,Feminino,33,ouro,"R$ 147,56",Pix,2,1,4.0,21/04/2024,não
+606,51.0,M,69,bronze,45.21,,3,0,4.0,29/06/2023,não
+105,67.0,masculino,66,BRONZE,41.28,  Cartão de Crédito ,1,5,3.0,09/10/2024,N
+646,,fem,33,prata,"R$ 87,88",Cartão de Crédito,1,2,3.0,29/10/2024,S
+1405,28.0,Masculino,66,ouro,"R$ 169,16",Boleto,0,1,5.0,05/02/2021,0
+495,35.0,F,67,Ouro,135.12,Cartão de Crédito,1,2,4.0,2022-12-15,não
+1041,61.0,Feminino,15,OURO,,Pix,0,0,1.0,2023-08-02,No
+440,,M,61,Bronze,38.75,Cartão de Crédito,1,0,4.0,22/05/2023,não
+1020,25.0,M,31,bronze,51.07,Cartão de Crédito,0,0,4.0,11/02/2024,0
+92,67.0,Feminino,23,PRATA,"R$ 76,97",Pix,1,0,4.0,28/08/2024,não
+1113,29.0,F,67,Prata,94.04,  Boleto ,0,0,1.0,2022-11-08,Yes
+823,,masc,28,Prata,"R$ 95,23",  Cartão de Crédito ,0,1,4.0,26/04/2023,0
+909,41.0,masc,64,Bronze,"R$ 43,12",Cartão de Crédito,2,2,2.0,19/01/2023,No
+1475,78.0,Feminino,46,PRATA,94.68,  Cartão de Crédito ,1,2,4.0,22/05/2021,N
+1742,64.0,feminino,23,Bronze,38.54,Cartão de Crédito,1,0,3.0,21/03/2021,N
+103,67.0,Masculino,41,PRATA,79.87,Pix,0,1,4.0,10/04/2024,No
+239,37.0,feminino,60,BRONZE,47.93,Cartão de Crédito,3,3,5.0,11/02/2022,Yes
+2034,60.0,M,19,prata,101.51,  Cartão de Crédito ,0,3,2.0,17/10/2022,1
+943,74.0,Feminino,33,OURO,158.52,  Cartão de Crédito ,3,0,4.0,2021-09-03,não
+1271,40.0,Feminino,16,bronze,"R$ 35,30",Cartão de Crédito,3,2,5.0,2023-01-04,N
+939,46.0,masculino,34,PRATA,88.09,Pix,0,2,4.0,13/12/2023,não
+2022,58.0,M,37,BRONZE,37.64,Pix,1,0,4.0,12/12/2021,Não
+1182,75.0,masculino,56,OURO,167.09,Pix,0,1,2.0,2022-01-01,No
+1504,37.0,masculino,65,Prata,86.24,Cartão de Crédito,0,0,5.0,2021-03-10,não
+1863,70.0,masc,45,Bronze,52.91,  Pix ,3,0,3.0,2021-09-03,1
+1670,62.0,Masculino,51,Prata,83.61,  Cartão de Crédito ,1,2,2.0,12/10/2024,0
+6,71.0,F,57,prata,"R$ 84,22",Cartão de Crédito,1,4,4.0,2023-06-29,0
+248,43.0,Feminino,46,bronze,49.52,Pix,2,1,2.0,27/04/2023,N
+1896,70.0,feminino,39,bronze,"R$ 34,39",Cartão de Crédito,1,1,3.0,16/02/2023,Não
+966,54.0,masc,29,Prata,93.98,Pix,3,2,2.0,18/03/2021,1
+19,70.0,Feminino,21,OURO,159.58,Boleto,1,0,2.0,2023-04-07,N
+1431,47.0,M,33,bronze,40.65,Boleto,3,0,3.0,26/04/2023,0
+122,59.0,masculino,3,bronze,47.94,Pix,1,0,3.0,2022-06-14,1
+1971,69.0,M,27,ouro,169.05,Pix,1,2,,2024-03-11,N
+662,63.0,fem,67,Prata,94.87,Boleto,2,5,3.0,20/05/2023,não
+2008,27.0,Feminino,67,BRONZE,52.93,Boleto,2,0,5.0,02/05/2021,0
+275,43.0,M,8,bronze,58.14,Cartão de Crédito,0,1,4.0,2021-01-24,0
+434,26.0,M,40,Prata,88.75,  Cartão de Crédito ,0,1,,12/01/2023,No
+812,72.0,masc,36,ouro,157.92,  Pix ,0,1,2.0,2022-05-25,não
+1301,65.0,fem,5,BRONZE,,  Boleto ,2,0,3.0,23/06/2022,não
+1336,79.0,M,6,Prata,67.82,Pix,2,0,4.0,09/06/2024,No
+2137,51.0,Masculino,54,BRONZE,57.31,  Cartão de Crédito ,0,7,5.0,31/03/2024,Não
+261,67.0,M,25,ouro,163.7,Cartão de Crédito,1,5,4.0,31/10/2021,N
+1805,25.0,Feminino,57,PRATA,84.33,Cartão de Crédito,0,1,5.0,2024-02-16,0
+1571,22.0,fem,31,Ouro,170.6,Cartão de Crédito,1,1,3.0,26/11/2022,No
+182,27.0,feminino,32,Bronze,51.07,Cartão de Crédito,1,0,4.0,2022-02-16,No
+185,48.0,Feminino,14,BRONZE,44.66,Boleto,2,5,5.0,02/10/2022,S
+407,44.0,Masculino,38,Prata,92.15,Cartão de Crédito,3,5,4.0,2024-10-05,No
+1744,19.0,masc,69,prata,107.07,Boleto,1,4,3.0,05/06/2023,não
+866,,F,40,bronze,57.93,Cartão de Crédito,4,2,3.0,06/12/2022,sim
+1631,53.0,M,64,Prata,97.17,,2,1,,2023-02-23,Não
+1717,,,5,PRATA,"R$ 90,38",Pix,1,1,1.0,08/10/2021,Sim
+521,40.0,masculino,45,Prata,"R$ 88,82",Pix,1,3,3.0,23/08/2024,não
+1890,45.0,fem,70,bronze,46.83,Pix,2,1,3.0,2022-03-28,1
+1004,72.0,fem,10,prata,83.87,Pix,1,0,2.0,2023-06-02,sim
+381,18.0,Masculino,28,Bronze,51.39,Boleto,1,2,,2021-07-03,Yes
+2017,43.0,masc,35,Prata,94.4,Pix,0,0,3.0,10/07/2021,0
+1435,37.0,fem,69,PRATA,90.26,Boleto,3,0,5.0,2021-01-30,No
+1659,70.0,feminino,24,Prata,"R$ 91,04",Boleto,0,2,1.0,22/02/2023,sim
+1394,64.0,Masculino,41,Bronze,59.49,Pix,0,0,2.0,14/12/2023,Sim
+1425,33.0,F,60,Prata,96.38,Cartão de Crédito,1,2,3.0,19/02/2024,Não
+1613,59.0,masc,48,prata,100.93,  Pix ,0,0,3.0,2024-07-23,No
+428,67.0,M,1,BRONZE,46.98,Boleto,2,3,5.0,03/09/2021,1
+1901,51.0,masc,7,BRONZE,"R$ 49,43",,3,0,3.0,2023-02-23,S
+79,52.0,feminino,27,ouro,142.38,Cartão de Crédito,0,3,4.0,25/01/2023,N
+1887,58.0,F,20,PRATA,86.95,Pix,0,0,2.0,15/03/2024,sim
+1598,62.0,masc,5,PRATA,90.21,Boleto,3,0,3.0,28/01/2022,N
+1010,50.0,masculino,17,bronze,"R$ 46,08",Pix,0,0,4.0,2023-02-16,não
+1577,186.0,,38,prata,"R$ 90,18",,2,2,3.0,04/11/2021,não
+1662,55.0,F,46,Bronze,"R$ 33,41",Pix,1,0,3.0,20/07/2022,Não
+608,49.0,masculino,23,prata,106.85,Cartão de Crédito,2,1,3.0,06/08/2022,Yes
+231,46.0,,10,ouro,161.51,Cartão de Crédito,0,4,2.0,2024-06-22,No
+916,46.0,Feminino,36,Prata,,  Cartão de Crédito ,0,1,2.0,26/10/2022,Não
+1884,70.0,fem,56,BRONZE,45.29,Pix,2,2,3.0,17/06/2023,0
+332,40.0,masculino,58,Prata,84.41,Pix,1,2,3.0,03/03/2021,Não
+1058,65.0,fem,14,bronze,44.96,Cartão de Crédito,1,3,1.0,2024-07-06,S
+1441,66.0,Feminino,52,Bronze,50.29,Cartão de Crédito,2,1,4.0,2023-09-30,0
+1515,33.0,masculino,52,Ouro,163.73,Cartão de Crédito,1,3,3.0,2021-09-17,0
+1586,37.0,Feminino,40,ouro,159.59,  Cartão de Crédito ,4,0,5.0,2023-10-22,0
+1928,25.0,Feminino,7,PRATA,"R$ 90,19",Boleto,0,2,5.0,06/02/2024,Não
+1092,45.0,fem,33,PRATA,82.56,Cartão de Crédito,1,0,4.0,16/02/2022,N
+1561,36.0,fem,13,ouro,159.83,Cartão de Crédito,1,1,3.0,11/09/2024,0
+1102,47.0,masculino,19,Bronze,"R$ 30,90",Pix,1,0,3.0,11/06/2022,não
+1130,58.0,masculino,66,BRONZE,39.52,Pix,1,2,5.0,2021-11-15,Não
+1236,39.0,masc,44,prata,89.65,Cartão de Crédito,0,2,4.0,30/01/2023,N
+462,26.0,masculino,56,bronze,37.1,Cartão de Crédito,2,7,3.0,13/06/2023,Sim
+959,,M,48,OURO,149.95,Cartão de Crédito,3,1,3.0,2024-03-29,0
+1663,29.0,F,18,Prata,99.93,Pix,1,0,3.0,10/02/2022,não
+560,70.0,,31,PRATA,"R$ 78,27",Pix,1,0,2.0,2023-02-05,sim
+2073,42.0,F,67,Ouro,172.89,Cartão de Crédito,1,4,3.0,30/04/2023,No
+1520,46.0,F,19,Prata,92.18,Cartão de Crédito,0,0,3.0,2023-12-20,N
+2136,60.0,F,31,BRONZE,,Cartão de Crédito,0,2,,2021-08-22,não
+2033,23.0,feminino,43,PRATA,91.92,  Cartão de Crédito ,1,0,3.0,31/07/2022,S
+938,,masculino,34,Bronze,39.99,  Pix ,1,0,3.0,08/12/2021,0
+2093,67.0,Feminino,35,bronze,,  Cartão de Crédito ,1,1,5.0,07/01/2021,Não
+70,47.0,masculino,70,ouro,163.59,Cartão de Crédito,2,0,4.0,2023-12-05,N
+1573,63.0,F,38,PRATA,106.14,Pix,0,3,3.0,26/08/2023,No
+809,42.0,masculino,45,BRONZE,38.47,Pix,1,4,3.0,21/10/2024,N
+12,78.0,masculino,55,prata,92.69,Pix,3,0,3.0,2023-05-15,N
+2026,,fem,13,ouro,160.82,Pix,1,0,3.0,2024-03-17,Não
+918,66.0,masc,46,prata,,Cartão de Crédito,1,3,4.0,2022-03-04,N
+1452,20.0,M,6,bronze,39.11,Pix,1,10,3.0,04/05/2023,não
+177,62.0,fem,61,OURO,167.09,Boleto,2,1,4.0,16/04/2024,Não
+995,50.0,M,53,prata,82.82,Pix,0,0,4.0,17/01/2023,0
+1256,23.0,fem,62,PRATA,94.48,Pix,2,1,,2023-01-15,0
+1665,50.0,,45,Ouro,148.78,Pix,0,0,3.0,10/08/2021,N
+180,49.0,F,47,prata,92.06,  Pix ,0,5,5.0,22/05/2023,Não
+1791,54.0,F,54,OURO,165.69,Cartão de Crédito,3,0,4.0,2023-12-28,N
+157,25.0,M,30,prata,93.25,Boleto,0,7,4.0,18/04/2021,No
+1461,66.0,fem,40,bronze,"R$ 43,49",Cartão de Crédito,0,1,3.0,2021-06-13,não
+2047,46.0,F,20,ouro,153.56,Cartão de Crédito,1,2,3.0,2023-05-24,N
+1851,23.0,feminino,23,ouro,"R$ 154,58",  Pix ,3,0,5.0,22/09/2022,No
+2006,25.0,Feminino,58,prata,88.1,  Cartão de Crédito ,0,1,5.0,19/03/2023,Não
+1186,37.0,Masculino,18,Prata,90.13,Pix,0,0,4.0,25/02/2022,No
+1007,70.0,fem,71,Bronze,"R$ 54,53",Cartão de Crédito,0,0,3.0,2023-07-11,No
+561,51.0,Feminino,10,Prata,"R$ 84,85",Cartão de Crédito,0,0,3.0,06/09/2024,0
+911,65.0,Masculino,39,BRONZE,37.0,Boleto,0,2,2.0,2022-01-12,Não
+1312,39.0,Masculino,42,Prata,"R$ 91,84",  Boleto ,2,0,3.0,28/11/2023,S
+2050,58.0,Feminino,27,ouro,162.84,Cartão de Crédito,0,0,5.0,24/04/2023,N
+270,54.0,F,16,bronze,20.42,Pix,3,0,5.0,2023-11-04,0
+1994,57.0,masc,3,ouro,"R$ 155,63",  Pix ,1,2,4.0,27/08/2024,não
+266,54.0,Masculino,14,Prata,92.55,Cartão de Crédito,0,0,3.0,13/06/2023,Não
+915,54.0,M,26,Prata,"R$ 95,92",Cartão de Crédito,1,1,5.0,31/10/2023,N
+1736,67.0,Feminino,61,BRONZE,56.52,  Pix ,0,0,4.0,16/05/2024,0
+874,25.0,Feminino,56,PRATA,"R$ 95,81",Cartão de Crédito,0,4,4.0,31/03/2021,No
+476,66.0,fem,43,Prata,87.28,Pix,0,0,2.0,06/04/2022,N
+1653,21.0,Masculino,8,Bronze,70.67,Boleto,0,3,4.0,19/10/2021,Sim
+1961,70.0,masc,29,PRATA,"R$ 90,10",  Cartão de Crédito ,1,0,5.0,2021-09-27,Não
+46,,fem,60,bronze,"R$ 44,35",Cartão de Crédito,1,1,4.0,31/07/2022,Não
+162,59.0,Masculino,54,bronze,"R$ 40,39",Cartão de Crédito,4,2,3.0,2024-10-01,Sim
+289,51.0,feminino,38,BRONZE,48.74,Pix,1,6,5.0,2021-09-17,No
+1949,18.0,masculino,62,Bronze,55.04,Cartão de Crédito,2,2,4.0,11/10/2024,Não
+576,41.0,masc,22,BRONZE,34.19,Pix,0,0,2.0,2024-05-02,Sim
+851,78.0,masc,60,Ouro,153.92,Pix,1,1,3.0,15/04/2021,não
+912,29.0,fem,55,BRONZE,41.85,Boleto,0,1,3.0,2023-09-26,0
+1255,58.0,Feminino,59,Ouro,158.74,Pix,1,1,1.0,01/08/2022,sim
+1834,22.0,masc,20,PRATA,88.87,Pix,0,0,2.0,2022-02-01,não
+1723,58.0,M,35,BRONZE,43.68,Pix,1,3,4.0,2023-01-10,Sim
+1736,67.0,Feminino,61,BRONZE,56.52,Pix,0,0,4.0,16/05/2024,0
+933,33.0,masc,54,Bronze,42.51,Pix,3,1,2.0,2021-12-30,sim
+1101,47.0,Feminino,46,OURO,"R$ 169,41",Cartão de Crédito,1,0,3.0,01/12/2023,não
+1208,62.0,feminino,46,BRONZE,45.59,Cartão de Crédito,1,0,4.0,16/11/2023,não
+1844,70.0,fem,8,ouro,173.4,Boleto,3,2,1.0,26/03/2024,No
+1849,50.0,M,24,bronze,"R$ 41,39",Boleto,0,1,4.0,09/11/2022,Não
+1695,27.0,masc,44,Ouro,"R$ 167,38",Cartão de Crédito,1,0,2.0,2022-04-17,S
+86,61.0,Feminino,60,BRONZE,48.8,Cartão de Crédito,1,2,3.0,2023-09-15,Não
+470,75.0,masculino,69,prata,"R$ 82,09",  Cartão de Crédito ,2,2,,2022-03-30,não
+234,65.0,Masculino,23,BRONZE,52.27,Pix,2,0,2.0,2021-02-09,No
+2184,57.0,M,41,PRATA,88.28,Pix,1,0,3.0,23/02/2023,N
+1712,47.0,M,69,PRATA,,Pix,1,3,3.0,2023-01-15,N
+183,48.0,,66,BRONZE,48.11,Pix,3,3,3.0,14/06/2024,Yes
+989,,feminino,5,bronze,"R$ 48,03",Cartão de Crédito,1,1,4.0,2023-06-21,0
+1001,68.0,masculino,66,Prata,89.66,Pix,1,0,4.0,12/12/2022,N
+1642,21.0,M,36,Prata,91.96,Pix,2,3,3.0,2022-06-10,No
+1357,39.0,F,51,PRATA,94.81,Cartão de Crédito,0,2,3.0,31/10/2024,não
+1463,20.0,F,69,Ouro,132.73,Pix,0,0,5.0,11/01/2023,0
+50,66.0,F,31,Bronze,37.85,Pix,1,1,2.0,22/10/2021,0
+1259,51.0,Feminino,60,BRONZE,46.31,Pix,2,0,4.0,16/04/2022,No
+487,38.0,masculino,18,Bronze,"R$ 47,51",  Pix ,2,2,2.0,29/09/2024,0
+2194,31.0,Masculino,5,PRATA,98.08,  Cartão de Crédito ,3,0,3.0,2024-05-25,sim
+1909,20.0,M,37,Ouro,146.95,Pix,1,0,4.0,2021-03-04,0
+107,66.0,feminino,24,prata,102.38,Pix,2,2,4.0,02/08/2024,Não
+444,48.0,feminino,34,Ouro,157.83,Cartão de Crédito,0,4,3.0,2024-01-07,N
+1955,78.0,masc,17,Prata,"R$ 95,75",Pix,3,5,,2023-04-26,Sim
+647,46.0,,62,Bronze,38.94,Cartão de Crédito,0,9,2.0,20/08/2021,1
+1763,18.0,F,47,PRATA,"R$ 98,81",Cartão de Crédito,1,4,5.0,2023-04-23,No
+727,62.0,M,44,prata,"R$ 81,65",Cartão de Crédito,1,0,3.0,2023-09-30,não
+1857,41.0,feminino,61,BRONZE,43.37,Cartão de Crédito,1,2,3.0,2023-10-17,1
+30,45.0,,70,prata,98.36,  Pix ,1,1,5.0,03/12/2023,0
+170,19.0,feminino,13,PRATA,89.9,Pix,1,0,4.0,2022-11-16,No
+1002,63.0,fem,65,Ouro,164.96,Pix,1,7,4.0,14/06/2022,Não
+198,25.0,masc,21,Bronze,47.59,  Cartão de Crédito ,1,1,1.0,15/08/2021,0
+496,43.0,fem,27,Bronze,,  Pix ,0,1,3.0,05/09/2023,N
+2027,56.0,F,32,PRATA,85.98,Cartão de Crédito,0,3,4.0,2021-08-12,No
+648,51.0,fem,28,BRONZE,"R$ 43,71",Pix,3,0,3.0,2021-08-12,No
+45,22.0,F,51,BRONZE,"R$ 53,97",Cartão de Crédito,1,3,5.0,19/11/2022,No
+374,41.0,F,28,Ouro,"R$ 139,51",Boleto,1,0,,2024-08-16,Não
+679,50.0,Feminino,62,PRATA,85.04,Cartão de Crédito,1,0,4.0,24/07/2021,Não
+567,32.0,Masculino,27,BRONZE,,Cartão de Crédito,0,3,3.0,2022-05-23,sim
+461,62.0,Feminino,31,OURO,166.84,Boleto,3,1,,2023-11-27,Yes
+1933,69.0,masc,52,Bronze,43.99,Pix,1,2,3.0,2022-07-14,0
+1156,54.0,masc,32,Bronze,"R$ 59,06",Pix,2,0,5.0,22/05/2022,não
+40,57.0,M,63,PRATA,"R$ 91,21",  Pix ,0,1,5.0,21/09/2022,N
+974,47.0,feminino,25,Ouro,166.98,Pix,0,4,3.0,21/08/2023,0
+1787,30.0,feminino,23,bronze,"R$ 36,19",  Cartão de Crédito ,3,1,2.0,10/12/2021,sim
+1499,46.0,M,21,bronze,"R$ 48,14",Cartão de Crédito,2,0,4.0,06/08/2024,não
+1836,26.0,M,3,Bronze,52.14,  Cartão de Crédito ,2,0,1.0,2024-04-04,sim
+1841,44.0,fem,24,bronze,"R$ 28,32",,1,0,4.0,05/04/2022,sim
+2084,59.0,feminino,31,Bronze,,  Pix ,3,0,4.0,2021-06-15,não
+828,73.0,Feminino,54,Ouro,155.92,Pix,1,6,2.0,19/01/2024,Yes
+1936,28.0,fem,69,bronze,"R$ 44,20",Pix,0,1,4.0,10/03/2022,N
+2045,35.0,Masculino,26,prata,"R$ 83,25",Cartão de Crédito,4,1,4.0,2021-08-31,N
+310,24.0,F,9,Prata,"R$ 81,54",Pix,0,0,3.0,14/08/2023,Não
+277,46.0,M,38,Bronze,48.5,Pix,1,2,,2021-10-14,N
+637,32.0,masc,69,PRATA,"R$ 94,29",Pix,0,0,3.0,2023-05-15,No
+655,52.0,F,52,Prata,"R$ 83,36",Cartão de Crédito,2,0,3.0,11/09/2024,Não
+623,28.0,feminino,10,bronze,"R$ 52,78",Cartão de Crédito,1,6,3.0,2023-07-24,S
+1860,63.0,masculino,43,Ouro,"R$ 146,71",Cartão de Crédito,2,2,5.0,2023-05-06,Não
+845,18.0,masculino,14,prata,67.04,Pix,3,1,3.0,01/04/2022,0
+394,55.0,Feminino,7,BRONZE,53.86,Pix,2,2,5.0,2022-11-25,Não
+2156,48.0,masc,59,Prata,87.43,Cartão de Crédito,3,2,4.0,2022-01-08,0
+350,28.0,F,10,bronze,44.53,Cartão de Crédito,3,1,1.0,2022-11-08,1
+785,47.0,Masculino,52,Bronze,"R$ 39,89",Pix,5,4,5.0,09/07/2023,S
+48,73.0,Feminino,13,Prata,85.52,  Cartão de Crédito ,1,0,2.0,17/08/2021,N
+1979,21.0,feminino,33,Prata,89.05,  Cartão de Crédito ,2,2,,05/09/2023,Não
+1656,32.0,F,51,Bronze,"R$ 30,53",Cartão de Crédito,2,1,,2021-11-07,Sim
+2070,43.0,F,36,Prata,103.69,Pix,1,2,3.0,2024-10-07,0
+403,37.0,feminino,56,PRATA,"R$ 90,06",Boleto,2,0,3.0,2023-08-14,No
+1108,74.0,M,10,bronze,"R$ 46,89",  Cartão de Crédito ,2,4,4.0,15/05/2021,N
+1155,36.0,M,70,PRATA,83.04,Pix,0,3,4.0,2022-06-05,No
+1440,77.0,feminino,45,Prata,93.62,Pix,1,3,4.0,04/07/2024,N
+772,79.0,feminino,4,prata,"R$ 84,58",Cartão de Crédito,1,5,,2021-03-01,S
+2002,21.0,Masculino,54,ouro,167.84,Pix,1,3,3.0,21/12/2023,1
+990,66.0,masculino,60,BRONZE,37.44,Cartão de Crédito,3,0,4.0,2021-02-24,0
+1866,43.0,feminino,25,PRATA,90.58,  Pix ,1,1,3.0,2021-02-08,N
+1311,50.0,masculino,69,Ouro,"R$ 160,81",Boleto,2,2,4.0,09/01/2022,não
+34,52.0,feminino,10,Ouro,174.7,,0,7,2.0,2021-02-01,sim
+788,60.0,Feminino,56,PRATA,"R$ 95,68",Pix,0,0,4.0,25/01/2024,No
+1044,41.0,masc,37,BRONZE,46.5,  Cartão de Crédito ,0,0,3.0,13/05/2024,Não
+482,69.0,feminino,8,Ouro,159.43,Cartão de Crédito,0,4,4.0,2021-12-06,No
+1244,48.0,fem,16,bronze,46.06,Pix,1,0,4.0,17/12/2023,não
+932,61.0,Masculino,33,ouro,162.94,Cartão de Crédito,2,2,2.0,26/05/2022,S
+1686,50.0,Masculino,30,Bronze,43.35,Boleto,1,0,4.0,2022-09-07,Yes
+1249,,M,43,bronze,58.36,Boleto,0,0,4.0,27/06/2021,No
+760,63.0,fem,34,Ouro,157.82,Pix,0,1,5.0,2024-07-25,No
+93,70.0,masc,17,prata,102.78,Boleto,2,5,4.0,2024-04-08,N
+1176,39.0,masc,36,bronze,"R$ 48,79",Boleto,1,0,4.0,19/04/2023,Não
+1416,66.0,feminino,32,Prata,93.06,  Cartão de Crédito ,0,2,2.0,25/02/2024,N
+1342,26.0,F,42,Prata,92.91,Pix,2,3,5.0,2023-10-19,No
+1473,45.0,Feminino,42,bronze,"R$ 46,20",Cartão de Crédito,1,0,3.0,19/12/2021,0
+1608,54.0,M,12,Prata,"R$ 103,74",Boleto,1,3,3.0,2022-12-20,Sim
+765,40.0,F,53,BRONZE,51.41,Boleto,1,0,2.0,16/09/2023,Sim
+1374,44.0,F,24,BRONZE,"R$ 40,56",  Cartão de Crédito ,1,0,4.0,2022-02-24,Não
+1952,55.0,masc,38,Prata,104.51,Pix,1,1,4.0,10/05/2024,Não
+1729,45.0,Masculino,48,BRONZE,48.99,Pix,0,0,3.0,2023-01-04,Yes
+258,24.0,Masculino,67,bronze,59.25,Pix,3,4,4.0,23/12/2022,N
+945,26.0,fem,55,Ouro,154.41,Boleto,1,1,2.0,2021-10-03,No
+1220,45.0,Feminino,21,Ouro,"R$ 160,60",Cartão de Crédito,1,1,3.0,2021-04-04,S
+1162,48.0,feminino,53,Bronze,49.99,  Pix ,2,5,4.0,12/01/2024,não
+773,18.0,masculino,43,Bronze,54.76,Cartão de Crédito,2,3,2.0,12/12/2023,sim
+1487,28.0,Masculino,8,BRONZE,40.86,Pix,2,4,4.0,01/07/2023,1
+313,25.0,fem,69,bronze,41.54,Cartão de Crédito,1,7,,11/12/2023,Sim
+291,68.0,F,25,Ouro,"R$ 172,01",Pix,0,2,4.0,13/05/2023,0
+764,76.0,feminino,5,Prata,81.61,Pix,1,0,5.0,09/10/2021,0
+184,61.0,fem,28,bronze,"R$ 46,73",Cartão de Crédito,1,0,5.0,2024-04-24,0
+1177,37.0,Feminino,36,bronze,"R$ 41,91",Cartão de Crédito,2,2,1.0,2022-04-02,sim
+1350,54.0,M,46,OURO,147.88,Cartão de Crédito,0,0,5.0,2022-10-02,não
+1100,44.0,M,57,bronze,"R$ 48,50",Pix,0,1,1.0,26/11/2022,Sim
+392,29.0,masculino,27,ouro,158.44,Boleto,3,1,3.0,2024-05-11,0
+1920,50.0,Masculino,4,Prata,89.93,Boleto,2,1,3.0,2021-12-26,N
+1457,79.0,fem,37,BRONZE,54.19,  Pix ,1,1,4.0,2021-03-03,N
+1093,70.0,fem,17,PRATA,87.86,Cartão de Crédito,3,1,3.0,2022-02-05,sim
+2023,58.0,,59,Bronze,52.82,Cartão de Crédito,0,0,,2023-06-14,Não
+905,46.0,feminino,50,Prata,86.17,  Boleto ,2,1,5.0,06/12/2021,N
+367,47.0,fem,57,bronze,39.44,Cartão de Crédito,1,1,4.0,2024-05-21,0
+346,33.0,M,29,Bronze,52.05,Cartão de Crédito,1,2,3.0,2023-03-18,não
+1373,,masc,49,BRONZE,49.18,  Pix ,2,0,,2023-08-01,Não
+1640,34.0,masculino,68,Bronze,"R$ 36,03",Pix,2,0,4.0,2021-09-29,Não
+920,57.0,fem,62,bronze,38.74,Pix,0,1,2.0,2024-01-23,Sim
+212,62.0,,4,OURO,152.66,Cartão de Crédito,1,2,4.0,2022-06-30,sim
+1604,37.0,masculino,2,bronze,45.41,Pix,2,1,4.0,2024-02-19,Sim
+538,25.0,masc,14,PRATA,"R$ 77,08",Cartão de Crédito,1,0,,2021-08-16,N
+1221,58.0,masculino,37,Ouro,171.4,  Cartão de Crédito ,2,2,2.0,2021-01-02,0
+176,46.0,Masculino,71,Bronze,"R$ 59,28",Pix,2,3,3.0,27/09/2021,N
