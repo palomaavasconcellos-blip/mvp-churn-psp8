@@ -28,14 +28,14 @@ do dia a dia de restaurantes.
 ```
 mvp-churn-psp8/
 ├── README.md                          # este arquivo
-├── notebook/
-│   └── mvp_churn_analise.ipynb        # ENTREGA PRINCIPAL: notebook completo (relatório + código)
-├── dados/
-│   └── clientes_restaurante_brutos.csv  # base de dados "suja", usada como entrada do notebook
-└── scripts/
-    ├── gerar_dataset.py                # script que gerou a base (documenta cada "sujeira" inserida)
-    └── build_notebook.py               # script que monta o notebook célula a célula (uso interno)
+├── mvp_churn_analise.ipynb            # ENTREGA PRINCIPAL: notebook completo (relatório + código)
+├── clientes_restaurante_brutos.csv    # base de dados "suja", usada como entrada do notebook
+├── gerar_dataset.py                   # script que gerou a base (documenta cada "sujeira" inserida)
+├── build_notebook.py                  # script que monta o notebook célula a célula (uso interno)
+└── documento_apoio_mvp_psp8.docx      # documento de apoio com contexto, metodologia e resultados
 ```
+
+Todos os arquivos ficam na raiz do repositório (estrutura simples, sem subpastas).
 
 ## Como publicar este trabalho (passo a passo)
 
@@ -62,17 +62,17 @@ git push -u origin main
 
 ### 2. Pegar a URL "raw" do CSV
 
-Depois do push, abra o arquivo `dados/clientes_restaurante_brutos.csv` no
-GitHub e clique em **"Raw"** — copie a URL da barra de endereço. Ela terá
-este formato:
+Depois do push, abra o arquivo `clientes_restaurante_brutos.csv` (na raiz do
+repositório) no GitHub e clique em **"Raw"** — copie a URL da barra de
+endereço. Ela terá este formato:
 
 ```
-https://raw.githubusercontent.com/SEU-USUARIO/mvp-churn-psp8/main/dados/clientes_restaurante_brutos.csv
+https://raw.githubusercontent.com/SEU-USUARIO/mvp-churn-psp8/main/clientes_restaurante_brutos.csv
 ```
 
 ### 3. Atualizar o notebook com essa URL
 
-Abra `notebook/mvp_churn_analise.ipynb`, encontre a célula da **Seção 3 —
+Abra `mvp_churn_analise.ipynb`, encontre a célula da **Seção 3 —
 Carregamento dos dados** e troque o valor de `URL_DADOS` pela URL que você
 copiou no passo anterior.
 
@@ -80,7 +80,7 @@ copiou no passo anterior.
 
 1. Vá em [colab.research.google.com](https://colab.research.google.com),
    clique em **Arquivo > Abrir notebook > GitHub**, cole a URL do seu
-   repositório e selecione `notebook/mvp_churn_analise.ipynb` — isso abre o
+   repositório e selecione `mvp_churn_analise.ipynb` — isso abre o
    notebook já conectado ao GitHub.
 2. Rode **Ambiente de execução > Executar tudo** para confirmar que tudo
    executa do início ao fim sem erros (é um dos critérios de nota).
@@ -116,11 +116,11 @@ Se quiser gerar uma nova versão da base (por exemplo, para testar com outra
 semente aleatória), rode:
 
 ```bash
-cd scripts
 python3 gerar_dataset.py
 ```
 
-Isso sobrescreve `dados/clientes_restaurante_brutos.csv`. Lembre-se de
+Isso sobrescreve `clientes_restaurante_brutos.csv`, na raiz do repositório.
+Lembre-se de
 repetir o push para o GitHub depois — e, se os números mudarem bastante, vale
 reler os parágrafos do notebook que citam valores específicos (seções 9, 10
 e 11) para garantir que continuam batendo com a nova execução.
@@ -131,6 +131,6 @@ O pipeline de limpeza, modelagem e avaliação foi construído para ser
 reaproveitável: para aplicar a uma base real de um restaurante/cliente
 (mantendo o cuidado com a confidencialidade dos dados, como pede o
 enunciado), basta substituir o arquivo
-`dados/clientes_restaurante_brutos.csv` por uma base real com colunas
+`clientes_restaurante_brutos.csv` por uma base real com colunas
 equivalentes (ou ajustar os nomes das colunas nas primeiras células da Seção
 5 do notebook) e repetir os passos acima.

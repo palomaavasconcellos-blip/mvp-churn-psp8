@@ -18,7 +18,7 @@ notebook, cada etapa de limpeza seja justificada apontando exatamente qual
 problema está sendo corrigido.
 
 Execução: python3 gerar_dataset.py
-Saída: ../dados/clientes_restaurante_brutos.csv
+Saída: clientes_restaurante_brutos.csv (na mesma pasta deste script, na raiz do repositório)
 """
 
 import numpy as np
@@ -180,6 +180,6 @@ def sujar_base(df: pd.DataFrame) -> pd.DataFrame:
 if __name__ == "__main__":
     base_limpa = gerar_base_limpa(N)
     base_suja = sujar_base(base_limpa)
-    caminho_saida = "../dados/clientes_restaurante_brutos.csv"
+    caminho_saida = "clientes_restaurante_brutos.csv"
     base_suja.to_csv(caminho_saida, index=False)
     print(f"Base gerada com {len(base_suja)} linhas em {caminho_saida}")

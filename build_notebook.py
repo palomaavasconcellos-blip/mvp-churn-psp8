@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """Monta o notebook mvp_churn_analise.ipynb célula a célula, usando nbformat.
 Rodar com: python3 build_notebook.py
-Gera: ../notebook/mvp_churn_analise.ipynb
+Gera: mvp_churn_analise.ipynb (na raiz do repositório)
 """
 import nbformat as nbf
 
@@ -105,7 +105,7 @@ reproduz deliberadamente os problemas de qualidade típicos de uma exportação
 real de CRM/PDV de restaurante (valores ausentes, inconsistência de
 categorias, tipos de dado incorretos, datas em formatos diferentes, outliers
 e duplicidades). O script usado para gerar essa base — com toda a lógica de
-geração e de "sujeira" documentada — está em `scripts/gerar_dataset.py`, no
+geração e de "sujeira" documentada — está em `gerar_dataset.py`, no
 mesmo repositório deste notebook, garantindo total transparência sobre a
 origem dos dados.
 
@@ -194,8 +194,7 @@ execute o notebook do início ao fim sem nenhuma configuração adicional.
 """)
 
 code(r"""# URL pública (raw) do arquivo CSV hospedado no repositório GitHub deste MVP.
-# >>> SUBSTITUA esta URL pela URL "raw" do seu próprio repositório após o push <<<
-URL_DADOS = "https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPOSITORIO/main/dados/clientes_restaurante_brutos.csv"
+URL_DADOS = "https://raw.githubusercontent.com/palomaavasconcellos-blip/mvp-churn-psp8/refs/heads/main/clientes_restaurante_brutos.csv"
 
 # pd.read_csv aceita tanto um caminho local quanto uma URL: o pandas faz o
 # download do conteúdo e monta o DataFrame diretamente a partir dele.
@@ -900,7 +899,7 @@ nb["metadata"] = {
     "language_info": {"name": "python", "version": "3"},
 }
 
-with open("../notebook/mvp_churn_analise.ipynb", "w", encoding="utf-8") as f:
+with open("mvp_churn_analise.ipynb", "w", encoding="utf-8") as f:
     nbf.write(nb, f)
 
 print("Notebook criado com", len(cells), "células.")
